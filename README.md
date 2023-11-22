@@ -1,9 +1,6 @@
 # Umeko
 Umeko, a brand built on Bitmap
 
-!(images/F_dsnAqbwAAOtg5.jpeg)
-
-
 
 # Umeko's World: A Tale of Bitmaps and the Virtual Frontier
 
