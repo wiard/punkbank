@@ -1,6 +1,7 @@
 # Umeko
 Umeko, a brand built on Bitmap
 
+<img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
 
 # Umeko's World: A Tale of Bitmaps and the Virtual Frontier
 
@@ -31,6 +32,9 @@ This is not just a story; it's a narrative of adaptation, exploration, and the p
 Blockchain itself, and in this case, Bitmaps, are instrumental in creating immutability of human interaction and transparency for current and future generations.
 
 # 1. Bitmap Usecase Matrix
+
+<img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b8ee100b-b6a2-480e-9543-41d4be747e46">
+
 
 ## Introduction
 
@@ -82,6 +86,10 @@ Randomly chosen numbers are associated with each use case, adding an element of 
 By implementing this matrix, you create a visual representation of the diverse use cases built on non-arbitrarily chosen Bitmapnumbers derived from the Bitcoin blockchain. This approach combines the security of blockchain technology with the flexibility of randomly chosen numbers to showcase the potential applications in Umeko's World.
 
 # 2. Community Governance on Bitmaps
+
+
+<img width="179" alt="Drawing-400 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/df4d0c3b-54e2-4154-a6da-663ece876e20">
+
 
 The second use case we are researching involves parceling a Bitmap within a specific community and addressing governance on this Bitmap. Each member is represented by a unique number assigned to them. Off-chain, decisions to be taken are resolved and secured by transparently recording them on the Bitmap.
 
@@ -142,6 +150,8 @@ Exploring this use case illustrates the potential of Bitmaps in facilitating tra
 Just as Umeko's World evolves, these innovative use cases demonstrate the transformative power of Bitmaps in shaping a new era of community collaboration and decision-making.
 
 # 3. Developing Usecases on Disputes Resolution with Bitmaps
+
+<img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/767f7fe4-c08c-4ad8-b34e-ce9cb42b8fd2">
 
 In this guide, we'll explore how to develop use cases for resolving disputes between people using Bitmaps. The concept involves individuals putting their stake on a Bitmap by placing collateral money on parcels owned within a community. This community rents these parcels and receives rewards for the disputes that are 'fought out' on Bitmaps. The core idea is to use collateral to demonstrate commitment to a case, and once resolved, the invested money is used to compensate the algorithm that provided the solution.
 
