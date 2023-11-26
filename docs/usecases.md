@@ -1,9 +1,12 @@
 # Use Cases
 
 ## 1. Student Performance Evaluation
+<img width="247" alt="Drawing-406 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/ae5c761b-9e66-47ed-b12a-921726d1bde2">
 
 Each row represents a student's scores in various subjects. Each column represents a specific subject. The matrix aids in evaluating and comparing student performance.
 # Unlocking Insights: Student Performance Evaluation
+
+
 
 ## The Matrix Unveiled:
 
@@ -25,6 +28,7 @@ In essence, the student performance evaluation matrix transcends traditional ass
 
 
 ## 2. Interest Calculation in Banking
+<img width="247" alt="Drawing-406 sketchpad (2)" src="https://github.com/wiard/Umeko/assets/900114/6550e110-2a34-4ced-b94f-bd78ef4a85fb">
 
 Each row corresponds to an account. Each column represents the monthly interest rates. The matrix facilitates the calculation of interest for each account.
 # Navigating Finances: Interest Calculation in Banking
@@ -50,6 +54,8 @@ In essence, the Interest Calculation Matrix is more than just a grid of numbers;
 
 ## 3. Joint Ownership Expenses
 
+<img width="247" alt="Drawing-406 sketchpad (3)" src="https://github.com/wiard/Umeko/assets/900114/e5499615-c9fe-4e3b-9897-75f52268d795">
+
 Each row represents a co-owner's contribution to expenses. Each column represents a different expense category. The matrix helps manage and track joint ownership expenses.
 # Efficient Expense Management: Joint Ownership Matrix
 
@@ -73,6 +79,7 @@ In essence, the Joint Ownership Expenses Matrix is more than a grid of numbers; 
 
 
 ## 4. Secure Music Metadata Storage
+<img width="247" alt="Drawing-406 sketchpad (6)" src="https://github.com/wiard/Umeko/assets/900114/23bad3d2-24d4-435a-b3fd-abbe67e140fa">
 
 Each row represents a song's metadata. Each column corresponds to different metadata attributes. The matrix ensures secure off-chain storage of music metadata.
 # Enhancing Music Metadata Security: A Matrix Approach
@@ -97,6 +104,7 @@ In essence, the Secure Music Metadata Storage Matrix stands as a testament to th
 
 
 ## 5. URL Click-Through Tracking
+<img width="247" alt="Drawing-406 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/f21ce27c-795b-420e-958d-2211a4ce64a9">
 
 Each row represents a user. Each column corresponds to different URLs. The matrix tracks the click-through behavior of users on various URLs.
 # Unveiling Insights: URL Click-Through Tracking Matrix
@@ -121,6 +129,7 @@ In essence, this matrix transforms raw data into actionable insights, providing 
 
 
 ## 6. Lawsuit Settlement Costs
+<img width="247" alt="Drawing-406 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/dd285d28-4cdf-4ce4-8e33-14b5f46e477c">
 
 Each row represents a lawsuit. Each column represents different cost components. The matrix aids in tracking and settling lawsuit-related expenses.
 # Unraveling Legal Finances: Lawsuit Settlement Costs Matrix
@@ -169,7 +178,8 @@ In essence, the Lawsuit Settlement Costs Matrix is more than just a financial le
 
 ---
 
-![Legal Finances](link-to-an-image.png)
+
+
 *Illustration of a matrix with rows and columns representing lawsuit settlement costs.*
 
 # Exploring Versatile Matrix Use Cases
@@ -178,37 +188,42 @@ In essence, the Lawsuit Settlement Costs Matrix is more than just a financial le
 
 The Student Performance Matrix is a dynamic tool for academic assessment, representing students and subjects. Educators gain insights, fostering tailored interventions for academic success.
 
-![Student Performance Matrix](link-to-student-performance-image.png)
+
+
 
 ## Use Case: Interest Calculation in Banking
 
 The Interest Calculation Matrix simplifies interest computations for diverse accounts, ensuring precision in financial transactions.
 
-![Banking Matrix](link-to-banking-image.png)
+
 
 ## Use Case: Joint Ownership Expenses
 
 Joint Ownership Expenses Matrix streamlines shared expense management, promoting financial collaboration among co-owners.
 
-![Joint Ownership Matrix](link-to-joint-ownership-image.png)
+
+
 
 ## Use Case: Secure Music Metadata Storage
 
 The Music Metadata Matrix safeguards song details, offering secure off-chain storage for musicians and industry professionals.
 
-![Music Metadata Matrix](link-to-music-metadata-image.png)
+
+
 
 ## Use Case: URL Click-Through Tracking
 
 URL Click-Through Matrix serves as a navigational guide, tracking user engagement with different URLs to optimize digital strategies.
 
-![Click-Through Matrix](link-to-url-click-through-image.png)
+
+
 
 ## Use Case: Lawsuit Settlement Costs
 
 The Lawsuit Settlement Matrix unravels legal financial complexities, providing a detailed financial breakdown for strategic decision-making.
 
-![Legal Finances Matrix](link-to-lawsuit-settlement-image.png)
+
+
 
 Replace "link-to-image.png" with the actual links to the respective images for each use case.
 
