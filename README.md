@@ -15,7 +15,8 @@ Umeko and her eight-year-old daughter embark on a journey to understand and thri
 
 ## Key Themes:
 
-- **Bitmaps as Valuable Land:** Explore how Bitmaps become coveted territories in the virtual world.
+- **Bitmaps as Valuable Land:** Explore how Bitmaps become coveted territories in the virtual world. Bitmaps, vast and empty, come to life as Parcels populate them, embodying tangible value on the expansive digital canvas.
+- **Parcels asSecure Ownership:** Parcels provide secure, transparent ownership by embedding real-world asset transactions within Bitcoin's Bitmaps. This ensures tamper-resistant records, reducing reliance on intermediaries for trustworthy, peer-to-peer transactions.
 
 - **Use Cases:**
 
