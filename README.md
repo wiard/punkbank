@@ -3,7 +3,7 @@ Umeko, a brand built on Bitmap
 
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
 
-# Umeko's World: A Tale of Bitmaps and the Virtual Frontier
+# Umeko's World: A Tale of Parcels on Bitmaps and deeper exploration of the Virtual Frontier
 
 Umeko, a young woman from Japan, envisions a promising future intricately woven with the threads of Bitmaps. In her world, Bitmaps serve as a symbolic representation of the virtual realm, securely anchored on the unyielding Bitcoin rails. Within this expansive digital landscape, Umeko perceives Bitmaps as open spaces, with Parcels on the Bitmaps embodying intrinsic value. These Parcels, mirroring transactions on the Bitcoin network, become the building blocks of a new frontier.
 
