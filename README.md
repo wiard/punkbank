@@ -5,9 +5,9 @@ Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same tim
 
 These are the amazing pieces of diamond code that stand for thousands of years on the parcel.bitmap.element world.
 
-- [Link to Page 1](docs/codebase.md)
-- [Link to Page 2](docs/story.md)
-- [Link to Page 3](docs/usecases.md)
+- [Link to Page 1](/docs/codebase.md)
+- [Link to Page 2](/docs/story.md)
+- [Link to Page 3](/docs/usecases.md)
 
 
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
