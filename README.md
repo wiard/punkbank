@@ -54,7 +54,7 @@ Umeko, who lives in the outskirts of the largest town of Japan with her eight-ye
 
 # Use Cases
 
-## 1. Physical Ownership and Virtual Ownership:
+## 1. Reallife Ownership or Virtual Possesiveness - what's the DIFFERENCE:
 
 Umeko discovers a unique use case where physical and virtual ownership intersect. In the expansive realm of Bitmaps, representing open digital space, individuals seamlessly transfer ownership of real-world assets like homes or cars. Parcels, as real values embedded in Bitmaps, mirror these transactions securely. This ensures a transparent and immutable record, reducing reliance on intermediaries and fostering trust in transactions.
 
