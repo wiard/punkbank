@@ -3,10 +3,11 @@ Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same tim
 
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/aa0038c7-e0bf-4a41-aa3d-f1af04329984">
-<img width="175" alt="Drawing-415 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/dcc2c630-1b84-4d40-921c-7605e1151644">
-<img width="200" alt="Drawing-410 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/fba89bfb-4230-447a-9101-996b2f4b7e3e">
+<img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
+
+<img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
 <img width="119" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
-<img width="119" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
+
 
 
 
@@ -32,6 +33,10 @@ She enters the building😊, which looks more or less like an old shop, but with
 <img width="75" alt="Drawing-414 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/cc03b467-75d4-438d-8dbd-df66416ac906">
 <img width="69" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
 <img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
+<img width="125" alt="Drawing-415 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/dcc2c630-1b84-4d40-921c-7605e1151644">
+<img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
+<img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
+
 
 
 
