@@ -30,15 +30,15 @@ She enters the building😊, which looks more or less like an old shop, but with
 
 
 <img width="79" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/08fd531d-e159-4c30-a237-271e1e3126ee">
-
-<img width="75" alt="Drawing-414 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/cc03b467-75d4-438d-8dbd-df66416ac906">
 <img width="69" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
 <img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
 <img width="125" alt="Drawing-415 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/dcc2c630-1b84-4d40-921c-7605e1151644">
 <img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
+<img width="115" alt="Scherm­afbeelding 2023-11-26 om 10 27 29" src="https://github.com/wiard/Umeko/assets/900114/df4932e8-63eb-483d-8168-2bda206a52b4">
+
 <img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
 <img width="109" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/aa0038c7-e0bf-4a41-aa3d-f1af04329984">
-<img width="89" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
+
 
 
 
