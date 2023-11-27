@@ -53,6 +53,7 @@ Umeko, who lives in the outskirts of the largest town of Japan with her eight-ye
 - **Parcels asSecure Ownership:** Parcels provide secure, transparent ownership by embedding real-world asset transactions within Bitcoin's Bitmaps. This ensures tamper-resistant records, reducing reliance on intermediaries for trustworthy, peer-to-peer transactions.
 
 # The very necessary Use Cases (in order to prove some VIABILITY one has to show One can) LOGICS...
+<img width="1178" alt="Drawing-417 sketchpad (2)" src="https://github.com/wiard/Umeko/assets/900114/614c3b00-58dd-4261-b11f-82f8966071f6">
 
 ## 1. Reallife Ownership or Virtual Possesiveness - what's the DIFFERENCE:
 
