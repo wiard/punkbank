@@ -7,7 +7,7 @@ Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same tim
 <img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/52a00917-3acf-4ab1-ae51-26cd8b4018ab">
 
 <img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
-<img width="119" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
+
 
 
 
@@ -27,7 +27,7 @@ She enters the building😊, which looks more or less like an old shop, but with
 
 
 
-<img width="79" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a70ce949-d88f-484a-b3ee-828497716a2f">
+
 
 <img width="79" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/08fd531d-e159-4c30-a237-271e1e3126ee">
 
@@ -37,6 +37,8 @@ She enters the building😊, which looks more or less like an old shop, but with
 <img width="125" alt="Drawing-415 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/dcc2c630-1b84-4d40-921c-7605e1151644">
 <img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
 <img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
+<img width="109" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/aa0038c7-e0bf-4a41-aa3d-f1af04329984">
+<img width="89" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
 
 
 
