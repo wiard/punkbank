@@ -4,6 +4,8 @@ Umeko, a brand built on Bitmap🔷💎🔷
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/aa0038c7-e0bf-4a41-aa3d-f1af04329984">
 <img width="175" alt="Drawing-415 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/dcc2c630-1b84-4d40-921c-7605e1151644">
+<img width="200" alt="Drawing-410 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/fba89bfb-4230-447a-9101-996b2f4b7e3e">
+<img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
 
 
 
@@ -125,9 +127,15 @@ By implementing this matrix, you create a visual representation of the diverse u
 
 
 <img width="179" alt="Drawing-400 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/df4d0c3b-54e2-4154-a6da-663ece876e20">
+<img width="379" alt="Drawing-400 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/70be15f8-e3f4-4d16-963e-ac205533ba0d">
 
 
-The second use case we are researching involves parceling a Bitmap within a specific community and addressing governance on this Bitmap. Each member is represented by a unique number assigned to them. Off-chain, decisions to be taken are resolved and secured by transparently recording them on the Bitmap.
+
+
+
+
+The second use case we are researching involves parceling a Bitmap within a specific community and addressing governance on this Bitmap. Each member is represented by a unique number assigned to them. Off-chain, decisions to be taken are resolved and secured by transparently recording them on the Bitmap. 🔷💎💎💎🔷 (*Extra, just coming in:* In Umeko's exploration of Artificial Intelligence, she navigates the intricate world of matrices and parcels on bitmaps. Her journey unveils the symbiotic relationship between AI and these data structures, shaping a narrative at the intersection of technology and creativity.
+
 
 ## Key Components:
 
