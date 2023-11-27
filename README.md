@@ -2,26 +2,15 @@
 Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same time{with @NFTSistersJAPAN})
 
 # Diamond Code Marvels in the Parcel.Bitmap.Element World
-
 These are the amazing pieces of diamond code that stand for thousands of years on the parcel.bitmap.element world.
-
 - [Go to the Marvels of Parcels: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
 - [Why not have a glimpse at all these amazing POSSIBILITIES: The TREASURE](/docs/usecases.md)
 
-
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
-
 <img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
 <img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/52a00917-3acf-4ab1-ae51-26cd8b4018ab">
-
 <img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
-
-
-
-
-
-
 
 
 # Umeko's World💍: A Tale of Parcels💎 on Bitmaps🔶💎🔶 and deeper exploration of the Virtual Frontier🔷💍💎💍🔷 (Have you heard of Miss Oshi-b @Oshibitch lately?)
@@ -35,16 +24,12 @@ Very early in the morning, in a Tokyo subway, ☕☕☕☕☕ Umeko stood presse
 She enters the building😊, which looks more or less like an old shop, but with nothing on the shelves🤣, and tries to let her eyes adjust to the relative darkness in the room she has entered. She hears steps coming closer and straightens herself up to meet the person. 'Hello there! You are Umeko!' A friendly young man in dark clothes and hair that is a bit too long😂 greets her. 'You are the girl who knows how to turn our bitmaps into gold! Fresh from university! We are so thrilled😏 to have you in our midst!'"
 
 
-
-
-
 <img width="79" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/08fd531d-e159-4c30-a237-271e1e3126ee">
 <img width="69" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
 <img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
 <img width="125" alt="Drawing-415 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/dcc2c630-1b84-4d40-921c-7605e1151644">
 <img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
 <img width="115" alt="Scherm­afbeelding 2023-11-26 om 10 27 29" src="https://github.com/wiard/Umeko/assets/900114/df4932e8-63eb-483d-8168-2bda206a52b4">
-
 <img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
 <img width="109" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/aa0038c7-e0bf-4a41-aa3d-f1af04329984">
 
@@ -59,7 +44,7 @@ She enters the building😊, which looks more or less like an old shop, but with
 
 *Umeko recognizes the complexities surrounding AI, not merely as a solution to potential societal overtake but as a tool that necessitates securing actions. She advocates for the creation of compelling use cases for Bitmaps, Parcels, and AI challenges. Why? To engage with these use cases in an intriguing manner, proving the feasibility of innovative applications. Through this, Umeko aims to contribute to a narrative that emphasizes the importance of securing actions carried out with Artificial Intelligence, promoting transparency and ethical use in the digital realm.*
 
-Umeko and her eight-year-old daughter embark on a journey to understand and thrive in this new reality. In this digital landscape, Bitmaps are valuable pieces of land, and Parcels embody fundamental human values: Rights, Ownership, and Services.
+Umeko, who lives in the outskirts of the largest town of Japan with her eight-year-old daughter, embarks on a journey to understand and thrive in this new reality. In this digital landscape, Bitmaps are valuable pieces of land, and Parcels embody fundamental human values: Rights, Ownership, and Services. It is her decision now to PROVE her friends in the new office that PARCELS, BITMAPS and the new Theory of The Amazing BlockRunners with thir own TV-station on YouTube (Link: https://www.youtube.com/@TheBlockRunner) are perfect for a new Economy built on Trust. Because Umeko is so smart in Artificial Intelligence she was asked to work with this UMEKO-team(carrying the same name as herself) to brand the UMEKO World(whatever that is).
 
 ## Key Themes:
 
