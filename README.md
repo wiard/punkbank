@@ -3,6 +3,7 @@ Umeko, a brand built on Bitmap🔷💎🔷
 
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/aa0038c7-e0bf-4a41-aa3d-f1af04329984">
+<img width="175" alt="Drawing-415 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/dcc2c630-1b84-4d40-921c-7605e1151644">
 
 
 
@@ -10,9 +11,11 @@ Umeko, a brand built on Bitmap🔷💎🔷
 
 Very early in the morning, in a Tokyo subway, ☕☕☕☕☕ Umeko stood pressed between people, with a smoking coffee in her hand. She tried to sip it and enjoy it while it was still hot. Looking forward to go to her new job she thought of all the new challenges she was gong to face. The specific technology ☕☕️ she was going to bring to this very young startup, situated in the center of this overpopulated city ☕☕☕, pumping to stay aboard in this wild world of people, countries, continents racing ☕️☕️☕️☕️☕️☕️ for their perceived survival. Umeko smiled. She knew she had the solution for everything this world needs. She feels confident about her ideas.
 
-Umeko, a young woman from Japan😎, envisions a promising future intricately woven with the threads of Bitmaps😍. In her world, Bitmaps serve as a symbolic representation😊 of the virtual realm, securely anchored on the unyielding Bitcoin rails😃. Within this expansive digital landscape, Umeko perceives Bitmaps as open spaces🥳, with Parcels on the Bitmaps embodying intrinsic value. These Parcels, mirroring transactions😇 on the Bitcoin network, become the building blocks of a new frontier🤩.
+*Umeko, a young woman from Japan, envisions a promising future intricately woven with the threads of Bitmaps. In her world, Bitmaps serve as a symbolic representation of the virtual realm, securely anchored on the unyielding Bitcoin rails. Within this expansive digital landscape, Umeko perceives Bitmaps as open spaces, with Parcels on the Bitmaps embodying intrinsic value. These Parcels, mirroring transactions on the Bitcoin network, become the building blocks of a new frontier.*
 
-She enter the building😊, that looks more or less like an old shop, but with nothing on the shelves🤣, and tries to let her eyes acustom to the relative darkness in the room she has entered. She hears step coming closer and she straightens herself up to meet the person. "Hello there you are Umeko!" A friendly young man in dark cloths and hair that is a bit😂 too long is greeting her. "You are the girl who know how to turn our Bitmaps into gold! Fresh from University! We are so thrilled😏 to have you in our midst!"
+
+
+She enters the building😊, which looks more or less like an old shop, but with nothing on the shelves🤣, and tries to let her eyes adjust to the relative darkness in the room she has entered. She hears steps coming closer and straightens herself up to meet the person. 'Hello there! You are Umeko!' A friendly young man in dark clothes and hair that is a bit too long😂 greets her. 'You are the girl who knows how to turn our bitmaps into gold! Fresh from university! We are so thrilled😏 to have you in our midst!'"
 
 
 
@@ -20,13 +23,14 @@ She enter the building😊, that looks more or less like an old shop, but with n
 
 <img width="79" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/08fd531d-e159-4c30-a237-271e1e3126ee">
 
+<img width="75" alt="Drawing-414 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/cc03b467-75d4-438d-8dbd-df66416ac906">
 
 
-b. As an independent and confident individual, Umeko holds a deep interest in ∞ Artificial Intelligence (AI)∞. To her, AI possesses dual facets: it can be a force for good when properly regulated. However, she acknowledges the challenges of regulating AI∞, emphasizing the importance of showcasing beautiful examples achieved with Parcels💎 on Bitmaps🔸. These examples, she believes, are essential to steer humanity towards truth and demonstrate well-crafted use cases🔸.
+*As an independent and confident individual, Umeko holds a deep interest in ∞ Artificial Intelligence (AI)∞. To her, AI possesses dual facets: it can be a force for good when properly regulated. However, she acknowledges the challenges of regulating AI∞, emphasizing the importance of showcasing beautiful examples achieved with Parcels💎 on Bitmaps🔸. These examples, she believes, are essential to steer humanity towards truth and demonstrate well-crafted use cases🔸.*
 
-b1. "Come and follow me," the young man continues. "Let's meet the others!" They walk a small black iron staircase, pass a few floors without any lightning, than he opens a door and a bright light spreads into both their faces. Umeko hears voices calling her name in delight. The young man who brought her here says: "Very welcome Umeko from the @NFTSistersJapan! Let me say who we are and what we do and why we have invited you!"
+"Come and follow me," the young man continues. "Let's meet the others!" They walk a small black iron staircase, pass a few floors without any lightning, than he opens a door and a bright light spreads into both their faces. Umeko hears voices calling her name in delight. The young man who brought her here says: "Very welcome Umeko from the @NFTSistersJapan! Let me say who we are and what we do and why we have invited you!"
 
-Umeko recognizes the complexities surrounding AI, not merely as a solution to potential societal overtake but as a tool that necessitates securing actions. She advocates for the creation of compelling use cases for Bitmaps, Parcels, and AI challenges. Why? To engage with these use cases in an intriguing manner, proving the feasibility of innovative applications. Through this, Umeko aims to contribute to a narrative that emphasizes the importance of securing actions carried out with Artificial Intelligence, promoting transparency and ethical use in the digital realm.
+*Umeko recognizes the complexities surrounding AI, not merely as a solution to potential societal overtake but as a tool that necessitates securing actions. She advocates for the creation of compelling use cases for Bitmaps, Parcels, and AI challenges. Why? To engage with these use cases in an intriguing manner, proving the feasibility of innovative applications. Through this, Umeko aims to contribute to a narrative that emphasizes the importance of securing actions carried out with Artificial Intelligence, promoting transparency and ethical use in the digital realm.*
 
 Umeko and her eight-year-old daughter embark on a journey to understand and thrive in this new reality. In this digital landscape, Bitmaps are valuable pieces of land, and Parcels embody fundamental human values: Rights, Ownership, and Services.
 
@@ -57,6 +61,11 @@ Blockchain itself, and in this case, Bitmaps, are instrumental in creating immut
 # 1. Bitmap Usecase Matrix
 
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b8ee100b-b6a2-480e-9543-41d4be747e46">
+<img width="379" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/8d05c0a6-6eeb-4716-8709-2f42298a09dd">
+<img width="209" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/1482975f-8f63-46b7-84c7-af7d273a4036">
+
+
+
 
 
 ## Introduction
