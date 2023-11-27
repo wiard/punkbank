@@ -57,7 +57,9 @@ Umeko, who lives in the outskirts of the largest town of Japan with her eight-ye
 
 ## 1. Reallife Ownership or Virtual Possesiveness - what's the DIFFERENCE:
 
-Umeko discovers a unique use case where physical and virtual ownership intersect. In the expansive realm of Bitmaps, representing open digital space, individuals seamlessly transfer ownership of real-world assets like homes or cars. Parcels, as real values embedded in Bitmaps, mirror these transactions securely. This ensures a transparent and immutable record, reducing reliance on intermediaries and fostering trust in transactions.
+Coming from a very traditional background, as a young woman she moved to the city to explore her wonderful talent to reason and to study. She went to the Information Science University of Satoshi Nakamoto and was taught about the importance of SECURING Artificially Obtained Open Source Data in relationship with a Blockchain-Like application and when she was in her second year, that was the moment the first DeFi bull market on Ethereum started to happen. This period became a great period of discovery for her and she realized her life would never be te same again.
+
+*Umeko discovers a unique use case where physical and virtual ownership intersect. In the expansive realm of Bitmaps, representing open digital space, individuals seamlessly transfer ownership of real-world assets like homes or cars. Parcels, as real values embedded in Bitmaps, mirror these transactions securely. This ensures a transparent and immutable record, reducing reliance on intermediaries and fostering trust in transactions.*
 
 But how did it all start. Let us begin by the beginning. When Umeko read for the first tim on Bitoshi Blockamoto (X-handle: [@blockamoto](https://twitter.com/blockamoto)). "I am gonna make a Virtual Worlds on Bitcoin!" Echood his loud voice in the Twitter Realm (now secretly changed into X by the illustrious Elon Musk (X-handle: [@elonmusk](https://twitter.com/elonmusk)).
 ## 2. Child's Education:
