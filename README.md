@@ -1,6 +1,15 @@
 # Umeko🔶 going to MARS🔶🔶🔶 discoveringTRUE value on Bitmaps🔷💍💎💍🔷 through Parceling🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶
 Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same time{with @NFTSistersJAPAN})
 
+# Diamond Code Marvels in the Parcel.Bitmap.Element World
+
+These are the amazing pieces of diamond code that stand for thousands of years on the parcel.bitmap.element world.
+
+- [Link to Page 1](path/to/code.md)
+- [Link to Page 2](path/to/story.md)
+- [Link to Page 3](path/to/page3.md)
+
+
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
 
 <img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
