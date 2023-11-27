@@ -2,6 +2,8 @@
 
 This is the diamond code that stand for thousands of years on the bitmap world, *Invented by SMART Umeko @NFTSistersJAPAN*.
 
+- [Incase you want to go HOME: the BASE drums](../README.md)
+
 - 💎 x.bitmap.parcelNumber.element
   - 💎 y.bitmap.parcelNumber.element
   - 💎 z.bitmap.parcelNumber.element
