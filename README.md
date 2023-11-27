@@ -2,8 +2,9 @@
 Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same time{with @NFTSistersJAPAN})
 
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
-<img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/aa0038c7-e0bf-4a41-aa3d-f1af04329984">
+
 <img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
+<img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/52a00917-3acf-4ab1-ae51-26cd8b4018ab">
 
 <img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
 <img width="119" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
