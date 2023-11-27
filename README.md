@@ -58,8 +58,7 @@ Umeko, who lives in the outskirts of the largest town of Japan with her eight-ye
 
 Umeko discovers a unique use case where physical and virtual ownership intersect. In the expansive realm of Bitmaps, representing open digital space, individuals seamlessly transfer ownership of real-world assets like homes or cars. Parcels, as real values embedded in Bitmaps, mirror these transactions securely. This ensures a transparent and immutable record, reducing reliance on intermediaries and fostering trust in transactions.
 
-But how did it all start. Let us begin by the beginning. When Umeko read for the first tim on Bitoshi Blockamoto (X-handle: [@blockamoto](https://twitter.com/blockamoto)).
-
+But how did it all start. Let us begin by the beginning. When Umeko read for the first tim on Bitoshi Blockamoto (X-handle: [@blockamoto](https://twitter.com/blockamoto)). "I am gonna make a Virtual Worlds on Bitcoin! Echood in the Twitter Realm (now secretly changed into X by the illustrouas Elon Musk (X-handle: [@elonmusk](https://twitter.com/elonmusk))
 ## 2. Child's Education:
 
 Umeko's daughter embarks on an educational journey within the vast expanse of Bitmaps. These serve as educational hubs where Parcels, representing real value, offer immersive experiences in diverse subjects. Artificial Intelligence (AI) enhances personalized learning, adapting to each child's unique needs. Here, Parcels not only symbolize transactions but also the tangible knowledge and engagement woven into the virtual educational landscape.
