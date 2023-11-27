@@ -1,15 +1,19 @@
-# Umeko🔶
-Umeko, a brand built on Bitmap🔷💎🔷
+# Umeko🔶 going to MARS🔶🔶🔶 discoveringTRUE value on Bitmaps🔷💍💎💍🔷 through Parceling🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶
+Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same time{with @NFTSistersJAPAN})
 
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/aa0038c7-e0bf-4a41-aa3d-f1af04329984">
 <img width="175" alt="Drawing-415 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/dcc2c630-1b84-4d40-921c-7605e1151644">
 <img width="200" alt="Drawing-410 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/fba89bfb-4230-447a-9101-996b2f4b7e3e">
-<img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
+<img width="119" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
+<img width="119" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
 
 
 
-# Umeko's World💍: A Tale of Parcels💎 on Bitmaps🔶💎🔶 and deeper exploration of the Virtual Frontier🔷💍💎💍🔷
+
+
+
+# Umeko's World💍: A Tale of Parcels💎 on Bitmaps🔶💎🔶 and deeper exploration of the Virtual Frontier🔷💍💎💍🔷 (Have you heard of Miss Oshi-b @Oshibitch lately?)
 
 Very early in the morning, in a Tokyo subway, ☕☕☕☕☕ Umeko stood pressed between people, with a smoking coffee in her hand. She tried to sip it and enjoy it while it was still hot. Looking forward to go to her new job she thought of all the new challenges she was gong to face. The specific technology ☕☕️ she was going to bring to this very young startup, situated in the center of this overpopulated city ☕☕☕, pumping to stay aboard in this wild world of people, countries, continents racing ☕️☕️☕️☕️☕️☕️ for their perceived survival. Umeko smiled. She knew she had the solution for everything this world needs. She feels confident about her ideas.
 
@@ -26,6 +30,10 @@ She enters the building😊, which looks more or less like an old shop, but with
 <img width="79" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/08fd531d-e159-4c30-a237-271e1e3126ee">
 
 <img width="75" alt="Drawing-414 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/cc03b467-75d4-438d-8dbd-df66416ac906">
+<img width="69" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
+<img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
+
+
 
 
 *As an independent and confident individual, Umeko holds a deep interest in ∞ Artificial Intelligence (AI)∞. To her, AI possesses dual facets: it can be a force for good when properly regulated. However, she acknowledges the challenges of regulating AI∞, emphasizing the importance of showcasing beautiful examples achieved with Parcels💎 on Bitmaps🔸. These examples, she believes, are essential to steer humanity towards truth and demonstrate well-crafted use cases🔸.*
@@ -64,7 +72,11 @@ Blockchain itself, and in this case, Bitmaps, are instrumental in creating immut
 
 <img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b8ee100b-b6a2-480e-9543-41d4be747e46">
 <img width="379" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/8d05c0a6-6eeb-4716-8709-2f42298a09dd">
+<img width="129" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/85ae83d1-d634-464f-9f6c-e13fce5f3fcd">
 <img width="209" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/1482975f-8f63-46b7-84c7-af7d273a4036">
+
+
+
 
 
 
