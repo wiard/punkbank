@@ -1,4 +1,4 @@
-# Umeko🔶 fiercely going to MARS🔶🔶🔶 discoveringTRUE value on Bitmaps🔷💍💎💍🔷 through Parceling🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶
+# Umeko🔶 fiercely🔶🔶🔶 discoveringTRUE value on Bitmaps🔷💍💎💍🔷 through Parceling🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶
 Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same time{with @NFTSistersJAPAN})
 
 # Diamond Code Marvels in the Parcel.Bitmap.Element World
