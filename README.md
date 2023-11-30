@@ -15,16 +15,15 @@ These are the amazing pieces of diamond code that stand for thousands of years o
 # Umeko's World: A Tale of Parcels on Bitmaps reasoned upon with NATs
 
 
-Early one morning in a bustling Tokyo subway, Umeko found herself amidst a sea of people, clutching a steaming cup of coffee. As she savored the warmth of her beverage, her mind focused on her upcoming job, scrolling absentmindedly through her phone. It was during this casual scroll that she stumbled upon Bitoshi Blockamoto on Twitter, discussing the intriguing technology of 'Virtual Space mirroring Bitcoin.' The concept immediately captured Umeko's imagination.
+With the coming of NAT's proposed by the BockRunner, there has come confusion in the Bitmap Metaverse World.
+Att the same time Mempools of Ordinals on Bitcoin are clogging. These both events are worrying for the Eco Systems built on Bitcoin for several reasons: first, there has come division in the Bitmaps Ecosystem, because of the way the BlockRunner has marketed its new Metverse Concept as one thats better than the Bitmap Metverse. Second, the indexers in bothe Metverses play a role that has become too vital for participators to expect an independent and free metaverse for the long run.
 
-An Information Specialist fresh out of university, Umeko was not only passionate about data but also possessed a vivid imagination and a strong sense of societal responsibility. This particular morning marked her first visit to a vibrant, young startup nestled in the heart of the bustling city. A confident smile played on her lips as she anticipated engaging with her new colleagues, knowing she had valuable insights to share with the innovative minds at the startup.
+We, Umeko, as a Brand on the Metverse that is embodied by a Theory that employs ALL MATTER, we propose a solution thats is simpler in all aspects.
 
-*Umeko, a visionary young woman hailing from Japan, envisions a future filled with promise intricately woven into the fabric of Bitmaps. In her world, Bitmaps symbolize the virtual realm, firmly anchored on the steadfast rails of Bitcoin. Within this expansive digital landscape, Umeko sees Bitmaps as open spaces, where each Parcel holds intrinsic value, mirroring transactions on the Bitcoin network. These Parcels, akin to building blocks, shape the foundation of a new frontier.*
+The first proposals concerns the NAT theory that has very complicated ways of inscribing and therefor use unfriendly as a way to enter a free Metaverse for all. 
+We have earlier seen taht an initiative like Sats Names had developed an easy to understand method to give names to person, objects, elements in the Metaverse. This is the method we propose as well in this way: NATs by the BlockRunner porposes .element as the basic element of their Metaverse and thats what we agree with as well but we want to inscribe it on Sats Names instead of inscribing it in JSON format, which is for developers and not for users that want comprehensible access to the Metverse.
 
-*Driven by her passion, Umeko actively engaged with Bitmaps, inscribing her mark on Unisat during the month of April in 2023. In her exploration, she found that Bitmaps not only served as a symbolic representation of the virtual realm but were also a testament to Satoshi Nakamoto's innovative vision. While Umeko admired projects like Ethereum, she felt a genuine connection to the authenticity of Bitmaps, avoiding the overhyped trends. With this conviction, Umeko sees the potential for a transformative journey within the digital landscape, where Parcels on Bitmaps become the key elements shaping the frontier she eagerly seeks to explore.*
-
-
-She enters the building, which looks more or less like an old shop, but with nothing on the shelves, and tries to let her eyes adjust to the relative darkness in the room she has entered. She hears steps coming closer and straightens herself up to meet the person. 'Hello there! You are Umeko!' A friendly young man in dark clothes and hair that is a bit too long greets her. 'You are the girl who knows how to turn our bitmaps into gold! Fresh from university! We are so thrilled to have you in our midst!'"
+Than, with Bitmaps, we have acknowledhge, its highly successful as it is right now. It is widely accepted as a way to build a Metverse for the long term.
 
 
 
