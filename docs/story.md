@@ -9,9 +9,14 @@ Bitcoin, the pioneer of cryptocurrencies, operates on a decentralized ledger sys
 
 At its core, a bitmap is a compact representation of data using binary values. In the context of Bitcoin, a bitmap serves as a mirror reflecting the essence of a block. Imagine a 3x3 grid of numbers, each acting as a key to unlock specific data within a Bitcoin block:
 
-1 2 3
-4 5 6
-7 8 9
+| 4 | 8 | 2 |
+|---|---|---|
+| 5 | 1 | 7 |
+| 9 | 3 | 6 |
 
+**Use Case: Index Reference of Elements**
+- Each row represents a Bitmap's score in various subjects.
+- Each column represents a specific subject.
+- The matrix aids in evaluating and comparing Bitmap performance.
 
 
