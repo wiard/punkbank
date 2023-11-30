@@ -1,5 +1,5 @@
 
-# Unraveling the Complexity: How Parcels on Bitmap could leverage offchain calculations like BitVM
+# Unraveling the Complexity: How Parcels on Bitmap could leverage any on and off-chain calculation.
 
 - [In case you want to go HOME: the BASE drums](../README.md)
 
