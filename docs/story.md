@@ -3,7 +3,7 @@
 
 - [In case you want to go HOME: the BASE drums](../README.md)
 
-The Bitmap concept and its Parcels are a viable apporach to build a multifunctonal Metaverse upon. Except that its lacking the notion of a realm outside Bitmap. The Outside-of-Bitmap existence needs to exist to exert powers on Bitmap like, functional reasoning. Because it's so new, the concept, we cannot take it for granted and we take the liberty to continualsly work on this idea.
+The Bitmap concept and its Parcels are a viable approach to build a multifunctonal Metaverse upon. Except that its lacking the notion of a realm outside Bitmap. The Outside-of-Bitmap existence needs to exist to exert powers on Bitmap like, functional reasoning. Because it's so new, the concept, we cannot take it for granted and we take the liberty to continually work on this idea.
 
 ## The Bitmap Landscape built within a Matrix, representing 3 x 3 Parcels.
 
