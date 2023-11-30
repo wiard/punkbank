@@ -12,7 +12,7 @@ These are the pieces of diamond code that will survive for thousands of years on
 - [The POSSIBILITIES: The TREASURE](/docs/usecases.md)
 
 
-# Umeko's World: reasoning on Parcels with easy to read NATs
+# Umeko's World: reasoning on Parcels with NATs
 - In Umeko's World, easy-to-read code provided by NATs provide the solution for great use of parcels on Bitmaps.-
 
 
