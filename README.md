@@ -12,7 +12,8 @@ These are the pieces of diamond code that will survive for thousands of years on
 - [The POSSIBILITIES: The TREASURE](/docs/usecases.md)
 
 
-# Umeko's World: A Tale of Parcels on Bitmaps reasoned upon with NATs
+# Umeko's World: Parcels on Bitmaps reasoned upon with easy to read NATs
+- In Umeko's World, easy-to-read code provided by NATs provide the solution for great use of parcels on Bitmaps.-
 
 
 With the introduction of NATs proposed by BlockRunner, confusion has arisen in the Bitmap Metaverse World. Simultaneously, Mempools of Ordinals on Bitcoin are becoming congested. Both of these events are concerning for the ecosystems built on Bitcoin for several reasons. Firstly, there has been a division in the Bitmaps Ecosystem due to the way BlockRunner has marketed its new Metaverse Concept as something different from the Bitmap Metaverse. Secondly, the roles played by indexers in both Metaverses have become too vital for participants to anticipate an independent and free metaverse in the long run.
