@@ -25,7 +25,7 @@ We have earlier seen that an initiative like Sats Names had developed an easy to
 
 Than, with Bitmaps, we have acknowledged, its highly successful as it is right now. It is widely accepted as a way to build a Metaverse for the long term. The only substance it was lacking is an element that's higher than bitmap itself because we need to be able to reason outside of its existence to empower certain aspects, like reasoning on it's characteristics. 
 
-The happy consequences ot this simplification and combination of NAT's Theory and the Bitoshi Blockamoto Theory on Bitmap is that it's easy readible for everyone and thus iesier to enter for everyone. Even for indexing it will be more efficient to have it off-chain and thus prevent further clogging off the Bitcoin Mempool as it is now.
+The happy consequences of this simplification and combination of NAT's Theory and the Bitoshi Blockamoto Theory on Bitmap is that it's easy readible for everyone and thus iesier to enter for everyone. Even for indexing it will be more efficient to have it off-chain and thus prevent further clogging off the Bitcoin Mempool as it is now.
 
 What we propose now is visible in the pictures above and we work on it continually.
 
