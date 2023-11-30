@@ -1,16 +1,11 @@
 # Umeko discovering value on Bitmaps through The latest Whitepaper of Bitoshi Blockamoto and the NATs project of The BlockRunner.
 Umeko, a brand built on Bitmap @NFTSistersJAPAN})
 
-# Diamond Code Marvels in the parcel.bitmap.element World
+# The concept of parcel.bitmap.element World
 These are the amazing pieces of diamond code that stand for thousands of years on the parcel.district.bitmap.element world.
 - [Go to the Marvels of Parcels: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
 - [Why not have a glimpse at all these amazing POSSIBILITIES: The TREASURE](/docs/usecases.md)
-
-<img width="179" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/a58a5366-27ce-43c3-9054-a1f14505afe4">
-<img width="169" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/b30821ae-e5ce-4f7e-ba36-2177765e30e5">
-<img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/52a00917-3acf-4ab1-ae51-26cd8b4018ab">
-<img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
 
 
 # Umeko's World: A Tale of Parcels on Bitmaps reasoned upon with NATs
