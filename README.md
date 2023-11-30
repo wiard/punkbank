@@ -6,7 +6,7 @@ Umeko, a brand built on Bitmap [@NFTSistersJAPAN](https://twitter.com/@NFTSister
 
 # The concept of parcel.bitmap.element World
 These are the amazing pieces of diamond code that stand for thousands of years on the parcel.district.bitmap.element world.
-- [Go to the Marvels of Parcels: the Diamond Codelines](/docs/codebase.md)
+- [The code on Parcels: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
 - [Why not have a glimpse at all these amazing POSSIBILITIES: The TREASURE](/docs/usecases.md)
 
@@ -14,7 +14,7 @@ These are the amazing pieces of diamond code that stand for thousands of years o
 # Umeko's World: A Tale of Parcels on Bitmaps reasoned upon with NATs
 
 
-Early one morning in a bustling Tokyo subway, Umeko found herself amidst a sea of people, clutching a steaming cup of coffee ☕️☕️☕️☕️☕️. As she savored the warmth of her beverage, her mind focused on her upcoming job, scrolling absentmindedly through her phone. It was during this casual scroll that she stumbled upon Bitoshi Blockamoto on Twitter, discussing the intriguing technology of 'Virtual Space mirroring Bitcoin.' The concept immediately captured Umeko's imagination.
+Early one morning in a bustling Tokyo subway, Umeko found herself amidst a sea of people, clutching a steaming cup of coffee. As she savored the warmth of her beverage, her mind focused on her upcoming job, scrolling absentmindedly through her phone. It was during this casual scroll that she stumbled upon Bitoshi Blockamoto on Twitter, discussing the intriguing technology of 'Virtual Space mirroring Bitcoin.' The concept immediately captured Umeko's imagination.
 
 An Information Specialist fresh out of university, Umeko was not only passionate about data but also possessed a vivid imagination and a strong sense of societal responsibility. This particular morning marked her first visit to a vibrant, young startup nestled in the heart of the bustling city. A confident smile played on her lips as she anticipated engaging with her new colleagues, knowing she had valuable insights to share with the innovative minds at the startup.
 
