@@ -2,7 +2,7 @@
 Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same time{with @NFTSistersJAPAN})
 
 # Diamond Code Marvels in the Parcel.Bitmap.Element World
-These are the amazing pieces of diamond code that stand for thousands of years on the parcel.district.bitmap world.
+These are the amazing pieces of diamond code that stand for thousands of years on the parcel.district.bitmap.element world.
 - [Go to the Marvels of Parcels: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
 - [Why not have a glimpse at all these amazing POSSIBILITIES: The TREASURE](/docs/usecases.md)
