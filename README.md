@@ -17,14 +17,13 @@ These are the pieces of diamond code that will survive for thousands of years on
 
 With the introduction of NATs proposed by BlockRunner, confusion has arisen in the Bitmap Metaverse World. Simultaneously, Mempools of Ordinals on Bitcoin are becoming congested. Both of these events are concerning for the ecosystems built on Bitcoin for several reasons. Firstly, there has been a division in the Bitmaps Ecosystem due to the way BlockRunner has marketed its new Metaverse Concept as something different from the Bitmap Metaverse. Secondly, the roles played by indexers in both Metaverses have become too vital for participants to anticipate an independent and free metaverse in the long run.
 
-We, Umeko, as a Brand on the Metaverse that is embodied by a Theory that employs ALL MATTER, we propose a solution that is simpler in all aspects.
+As Umeko, a brand in the Metaverse grounded in a theory that encompasses ALL MATTER, we propose a simplified solution in all aspects.
 
-The first proposals concerns the NAT theory that has very complicated ways of inscribing and therefor not user friendly as a way to enter a free Metaverse for all. 
-We have earlier seen that an initiative like Sats Names had developed an easy to understand method to give names to person, objects, elements in the Metaverse. This is the method we propose as well in this way: NATs by the BlockRunner proposes .element as the basic element of their Metaverse and thats what we agree with as well but we want to inscribe it on Sats Names instead of inscribing it in JSON format, which is for developers and not for users that want comprehensible access to the Metaverse.
+The first proposal addresses the NAT theory, which currently employs intricate methods of inscription, making it less user-friendly for accessing a free Metaverse. Previously, initiatives like Sats Names have developed an easily understandable method for assigning names to persons, objects, and elements in the Metaverse. We suggest adopting this method by inscribing NATs through Sats Names, as opposed to the current JSON format, which caters more to developers than users seeking comprehensible access to the Metaverse.
 
-Than, with Bitmaps, we have acknowledged, its highly successful as it is right now. It is widely accepted as a way to build a Metaverse for the long term. The only substance it was lacking is an element that's higher than bitmap itself because we need to be able to reason outside of its existence to empower certain aspects, like reasoning on it's characteristics. 
+Moving on to Bitmaps, we acknowledge its current success as a widely accepted method for building a long-term Metaverse. The only missing element was something higher than the bitmap itself, allowing for reasoning beyond its existence to enhance certain aspects, such as understanding its characteristics.
 
-The happy consequences of this simplification and combination of NAT's Theory and the Bitoshi Blockamoto Theory on Bitmap is that it's easy readible for everyone and thus easier to enter for everyone. Even for indexing it will be more efficient to have it off-chain and thus prevent further clogging off the Bitcoin Mempool as it is now.
+The positive outcome of simplifying and combining NAT's Theory with the Bitoshi Blockamoto Theory on Bitmap is that it becomes easily readable for everyone, facilitating broader accessibility. Even for indexing, shifting it off-chain proves more efficient, preventing further congestion of the Bitcoin Mempool as it stands.
 
 What we propose now is visible in the pictures above and we work on it continually.
 
