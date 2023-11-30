@@ -23,7 +23,9 @@ We, Umeko, as a Brand on the Metverse that is embodied by a Theory that employs 
 The first proposals concerns the NAT theory that has very complicated ways of inscribing and therefor use unfriendly as a way to enter a free Metaverse for all. 
 We have earlier seen taht an initiative like Sats Names had developed an easy to understand method to give names to person, objects, elements in the Metaverse. This is the method we propose as well in this way: NATs by the BlockRunner porposes .element as the basic element of their Metaverse and thats what we agree with as well but we want to inscribe it on Sats Names instead of inscribing it in JSON format, which is for developers and not for users that want comprehensible access to the Metverse.
 
-Than, with Bitmaps, we have acknowledhge, its highly successful as it is right now. It is widely accepted as a way to build a Metverse for the long term.
+Than, with Bitmaps, we have acknowledged, its highly successful as it is right now. It is widely accepted as a way to build a Metaverse for the long term. The only substance it was lacking is an element that's higher than bitmap itself because we need to be able to reason outside of its existence to empower certain aspects, like reasoning on it. 
+
+The happy consequences ot this simplification and combination of NAT's Theory and the Bitoshi Blockamoto Theory on Bitmap is that it's easy readible for everyone and thus iesier to enter for everyone. Even for indexing it will be more efficient to have it off-chain and thus prevent further clogging off the Bitcoin Mempool as it is now.
 
 
 
