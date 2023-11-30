@@ -1,8 +1,8 @@
-# Umeko🔶 fiercely🔶🔶🔶 discoveringTRUE value on Bitmaps🔷💍💎💍🔷 through Parceling🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶
+# Umeko🔶 fiercely🔶🔶🔶 discoveringTRUE value on Bitmaps🔷💍💎💍🔷 through The latest Whitepaper of Bitoshi Blockamoto🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶🔶💎💠💎🔶
 Umeko, a brand built on Bitmap🔷💎🔷(And discovering JAPAN at the same time{with @NFTSistersJAPAN})
 
 # Diamond Code Marvels in the Parcel.Bitmap.Element World
-These are the amazing pieces of diamond code that stand for thousands of years on the parcel.bitmap.element world.
+These are the amazing pieces of diamond code that stand for thousands of years on the parcel.district.bitmap world.
 - [Go to the Marvels of Parcels: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
 - [Why not have a glimpse at all these amazing POSSIBILITIES: The TREASURE](/docs/usecases.md)
@@ -15,7 +15,8 @@ These are the amazing pieces of diamond code that stand for thousands of years o
 
 # Umeko's World💍: A Tale of Parcels💎 on Bitmaps🔶💎🔶 and deeper exploration of the Virtual Frontier🔷💍💎💍🔷 (Have you heard of Miss Oshi-b @Oshibitch lately?)
 
-Very early in the morning, in a Tokyo subway, ☕☕☕☕☕ Umeko stood pressed between people, with a smoking coffee in her hand. She tried to sip it and enjoy it while it was still hot. Looking forward to go to her new job she thought of all the new challenges she was gong to face. The specific technology ☕☕️ she was going to bring to this very young startup, situated in the center of this overpopulated city ☕☕☕, pumping to stay aboard in this wild world of people, countries, continents racing ☕️☕️☕️☕️☕️☕️ for their perceived survival. Umeko smiled. She knew she had the solution for everything this world needs. She feels confident about her ideas.
+Very early in the morning, in a Tokyo subway, ☕☕☕☕☕ Umeko stood pressed between the people and she had a smoking coffee in her hand. She tried to sip it and enjoy it while it was still hot. Without much other thoughts than the new job she was going to she scrolled her phone and stumbled on this peron, Bitoshi Blockamoto, on Twitter. The specific technology ☕☕️ she was interested in. 'Virtual Space mirroring Bitcoin'. It immediatly got her imagination. Umeko who is an Information Specialist, freshly coming from University, is a true lover of Data and besides that she is a very imaginative person with a great heart for society.  
+This morning she is going for the first time to this very young startup that is situated in the center of the overpopulated city. Umeko smiles because she knows she is clever and she has some topics to share with these people.
 
 *Umeko, a young woman from Japan, envisions a promising future intricately woven with the threads of Bitmaps. In her world, Bitmaps serve as a symbolic representation of the virtual realm, securely anchored on the unyielding Bitcoin rails. Within this expansive digital landscape, Umeko perceives Bitmaps as open spaces, with Parcels on the Bitmaps embodying intrinsic value. These Parcels, mirroring transactions on the Bitcoin network, become the building blocks of a new frontier.*
 
@@ -52,7 +53,7 @@ Umeko, who lives in the outskirts of the largest town of Japan with her eight-ye
 ## Key Themes:
 
 - **Bitmaps as Valuable Land:** Explore how Bitmaps become coveted territories in the virtual world. Bitmaps, vast and empty, come to life as Parcels populate them, embodying tangible value on the expansive digital canvas.
-- **Parcels asSecure Ownership:** Parcels provide secure, transparent ownership by embedding real-world asset transactions within Bitcoin's Bitmaps. This ensures tamper-resistant records, reducing reliance on intermediaries for trustworthy, peer-to-peer transactions.
+- **Parcels as Secure Ownership:** Parcels provide secure, transparent ownership by embedding real-world asset transactions within Bitcoin's Bitmaps. This ensures tamper-resistant records, reducing reliance on intermediaries for trustworthy, peer-to-peer transactions.
 
 # The very necessary Use Cases (in order to prove some VIABILITY one has to show One can) LOGICS...
 <img width="1178" alt="Drawing-417 sketchpad (2)" src="https://github.com/wiard/Umeko/assets/900114/614c3b00-58dd-4261-b11f-82f8966071f6">
