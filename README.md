@@ -1,4 +1,4 @@
-# Umeko: the brand that enables any value to be created on Bitmaps.
+# Umeko: creating ANY value on Bitmaps.
 Umeko, a brand built on Bitcoin [@NFTSistersJAPAN](https://twitter.com/@NFTSistersJAPAN)
 
 <img width="409" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/c095bc9f-ce5a-49d3-b24b-0f6eacbb877c">
