@@ -16,7 +16,7 @@ These are the amazing pieces of diamond code that stand for thousands of years o
 
 
 With the coming of NAT's proposed by the BockRunner, there has come confusion in the Bitmap Metaverse World.
-Att the same time Mempools of Ordinals on Bitcoin are clogging. These both events are worrying for the Eco Systems built on Bitcoin for several reasons: first, there has come division in the Bitmaps Ecosystem, because of the way the BlockRunner has marketed its new Metverse Concept as one thats better than the Bitmap Metverse. Second, the indexers in bothe Metverses play a role that has become too vital for participators to expect an independent and free metaverse for the long run.
+At the same time Mempools of Ordinals on Bitcoin are clogging. These both events are worrying for the Eco Systems built on Bitcoin for several reasons: first, there has come division in the Bitmaps Ecosystem, because of the way the BlockRunner has marketed its new Metverse Concept as one thats better than the Bitmap Metverse. Second, the indexers in bothe Metverses play a role that has become too vital for participators to expect an independent and free metaverse for the long run.
 
 We, Umeko, as a Brand on the Metverse that is embodied by a Theory that employs ALL MATTER, we propose a solution thats is simpler in all aspects.
 
