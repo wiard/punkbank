@@ -96,6 +96,15 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
   - 💎 match.which.parcel.bitmap.element
   - 💎 glue.number.parcel.bitmap.element
   - 💎 matrix.parcel.bitmap.element
+  - 💎 parcel.1.element
+  - 💎 parcel.2.element
+  - 💎 parcel.3.element
+  - 💎 parcel.4.element
+  - 💎 parcel.5.element
+  - 💎 parcel.6.element
+  - 💎 parcel.7.element
+  - 💎 parcel.8.element
+  - 💎 parcel.9.element
 
 - 💎 Matrix Operations
   - 💎 compare.matrix.parcel.bitmap.element
@@ -142,3 +151,9 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
   - 💎 false.matrix.bitmap.element
   - 💎 matrix[].bitmap.element
   - 💎 matrix[][].bitmap.element
+  - 💎 matrix[parcel(1-9)][parcel(1-9)].element
+  - 💎 matrix[parcel(1-9)][parcel(1-9)].bitmap.element
+  - 💎 matrix[parcel(1-9)][parcel(1-9)].bitmap(height).element
+  - 💎 matrix[parcel(1-9)][parcel(1-9)].bitmap(BTCblockheight).element
+
+
