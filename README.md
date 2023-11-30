@@ -27,9 +27,9 @@ Than, with Bitmaps, we have acknowledged, its highly successful as it is right n
 
 The happy consequences ot this simplification and combination of NAT's Theory and the Bitoshi Blockamoto Theory on Bitmap is that it's easy readible for everyone and thus iesier to enter for everyone. Even for indexing it will be more efficient to have it off-chain and thus prevent further clogging off the Bitcoin Mempool as it is now.
 
-What we propose now is visible in the pictures above and we work on it continuasly.
+What we propose now is visible in the pictures above and we work on it continually.
 
-# Umeko's Metaverse Proposal
+# Umeko's Metaverse Proposal Summary
 
 The advent of NATs by the BlockRunner has stirred confusion in the Bitmap Metaverse World. Simultaneously, Ordinal Mempools on Bitcoin are clogging, raising concerns for Bitcoin-based Eco Systems. Umeko, embodying a Metaverse theory employing ALL MATTER, offers a simpler solution.
 
