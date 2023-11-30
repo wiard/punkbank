@@ -7,7 +7,7 @@ Umeko, a brand built on Bitmap [@NFTSistersJAPAN](https://twitter.com/@NFTSister
 
 
 
-# The concept of parcel.bitmap.element World
+# The concept of parcel.bitmap.element
 These are the amazing pieces of diamond code that stand for thousands of years on the parcel.district.bitmap.element world.
 - [The code on Parcels: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
