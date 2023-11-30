@@ -4,7 +4,8 @@
 
 ## 1. Student Performance Evaluation
 
-![Student Performance Evaluation](https://github.com/wiard/Umeko/assets/900114/ae5c761b-9e66-47ed-b12a-921726d1bde2)
+
+<img width="459" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/ae5c761b-9e66-47ed-b12a-921726d1bde2">
 
 ### Unlocking Insights: Student Performance Evaluation
 
@@ -26,7 +27,8 @@ In essence, the student performance evaluation matrix transcends traditional ass
 
 ## 2. Interest Calculation in Banking
 
-![Interest Calculation in Banking](https://github.com/wiard/Umeko/assets/900114/6550e110-2a34-4ced-b94f-bd78ef4a85fb)
+
+<img width="459" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/6550e110-2a34-4ced-b94f-bd78ef4a85fb">
 
 ### Navigating Finances: Interest Calculation in Banking
 
@@ -48,7 +50,8 @@ In essence, the Interest Calculation Matrix is more than just a grid of numbers;
 
 ## 3. Joint Ownership Expenses
 
-![Joint Ownership Expenses](https://github.com/wiard/Umeko/assets/900114/e5499615-c9fe-4e3b-9897-75f52268d795)
+
+<img width="459" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/e5499615-c9fe-4e3b-9897-75f52268d795">
 
 ### Efficient Expense Management: Joint Ownership Matrix
 
@@ -70,7 +73,8 @@ In essence, the Joint Ownership Expenses Matrix is more than a grid of numbers; 
 
 ## 4. Secure Music Metadata Storage
 
-![Secure Music Metadata Storage](https://github.com/wiard/Umeko/assets/900114/23bad3d2-24d4-435a-b3fd-abbe67e140fa)
+
+<img width="459" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/23bad3d2-24d4-435a-b3fd-abbe67e140fa">
 
 ### Enhancing Music Metadata Security: A Matrix Approach
 
@@ -92,7 +96,8 @@ In essence, the Secure Music Metadata Storage Matrix stands as a testament to th
 
 ## 5. URL Click-Through Tracking
 
-![URL Click-Through Tracking](https://github.com/wiard/Umeko/assets/900114/f21ce27c-795b-420e-958d-2211a4ce64a9)
+
+<img width="459" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/f21ce27c-795b-420e-958d-2211a4ce64a9">
 
 ### Unveiling Insights: URL Click-Through Tracking Matrix
 
@@ -114,7 +119,8 @@ In essence, this matrix transforms raw data into actionable insights, providing 
 
 ## 6. Lawsuit Settlement Costs
 
-![Lawsuit Settlement Costs](https://github.com/wiard/Umeko/assets/900114/dd285d28-4cdf-4ce4-8e33-14b5f46e477c)
+
+<img width="459" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/dd285d28-4cdf-4ce4-8e33-14b5f46e477c">
 
 ### Unraveling Legal Finances: Lawsuit Settlement Costs Matrix
 
