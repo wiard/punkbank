@@ -1,5 +1,6 @@
 # Umeko discovering value on Bitmaps through The latest Whitepaper of Bitoshi Blockamoto and the NATs project of The BlockRunner.
-Umeko, a brand built on Bitmap @NFTSistersJAPAN
+Umeko, a brand built on Bitmap @NFTSistersJAPAN [Follow me on Twitter](https://twitter.com/@NFTSistersJAPAN)
+
 
 # The concept of parcel.bitmap.element World
 These are the amazing pieces of diamond code that stand for thousands of years on the parcel.district.bitmap.element world.
