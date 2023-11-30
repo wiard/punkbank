@@ -3,6 +3,10 @@ Umeko, a brand built on Bitmap [@NFTSistersJAPAN](https://twitter.com/@NFTSister
 
 <img width="409" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/c095bc9f-ce5a-49d3-b24b-0f6eacbb877c">
 
+<img width="459" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/c3a93396-b255-4518-b7a6-e53d52d92cef">
+
+
+
 
 
 
