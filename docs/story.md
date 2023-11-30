@@ -1,9 +1,9 @@
 
-# Unraveling the Complexity: How Bitmaps Mirror Bitcoin Blocks and Parcels Echo Transactions
+# Unraveling the Complexity: How Parcels on Bitmap could leverage offchain calculations like BitVM
 
 - [In case you want to go HOME: the BASE drums](../README.md)
 
-Bitcoin, the pioneer of cryptocurrencies, operates on a decentralized ledger system known as the blockchain. This intricate system is built on the foundation of blocks, each encapsulating a set of transactions. To understand the underlying mechanics of Bitcoin's structure, let's delve into the concept of bitmaps and how they serve as mirrors to Bitcoin blocks, with parcels acting as reflections of individual transactions.
+The Bitmap concept and its Parcels are a viable apporach to build a multifunctonal Metaverse upon. Except that its lacking the notion of a realm outside Bitmap. The Outside-of-Bitmap existence needs to exist to exert powers on Bitmap like, functional reasoning. Because it's so new, the concept, we cannot take it for granted and we take the liberty to continualsly work on this idea.
 
 ## The Bitmap Landscape built within a Matrix, representing 3 x 3 Parcels.
 
