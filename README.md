@@ -13,7 +13,7 @@ These are the amazing pieces of diamond code that stand for thousands of years o
 <img width="269" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/13e99b26-0ecc-4251-9482-0251fc4fbf0b">
 
 
-# Umeko's World💍: A Tale of Parcels💎 on Bitmaps🔶💎🔶 and deeper exploration of the Virtual Frontier🔷💍💎💍🔷 (Have you heard of Miss Oshi-b @Oshibitch lately?)
+# Umeko's World: A Tale of Parcels on Bitmaps reasoned upon with NATs
 
 
 Early one morning in a bustling Tokyo subway, Umeko found herself amidst a sea of people, clutching a steaming cup of coffee ☕️☕️☕️☕️☕️. As she savored the warmth of her beverage, her mind focused on her upcoming job, scrolling absentmindedly through her phone. It was during this casual scroll that she stumbled upon Bitoshi Blockamoto on Twitter, discussing the intriguing technology of 'Virtual Space mirroring Bitcoin.' The concept immediately captured Umeko's imagination.
