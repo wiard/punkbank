@@ -17,6 +17,6 @@ At its core, a Matrix is a compact representation of data having placeholders of
 **Use Case: Index Reference of Elements**
 - Each row represents a Bitmap's score in various subjects.
 - Each column represents a specific subject.
-- The matrix aids in evaluating and comparing Bitmap performance.
+- The matrix aids in calculating, evaluating, weighing and comparing any type of data.
 
 
