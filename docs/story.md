@@ -7,7 +7,7 @@ Parcels become the points of value that can be reasoned upon. By adding the .ele
 
 ## The Bitmap Landscape built within a Matrix, representing 3 x 3 Parcels.
 
-At its core, a bitmap is a compact representation of data using binary values. In the context of Bitcoin, a bitmap serves as a mirror reflecting the essence of a block. Inside almost every bitmap it is possible to imagine a 3x3 grid of numbers, each acting as a key to unlock specific data within a Bitcoin block or referring to any outside of Bitcoin data:
+At its core, a Matrix is a compact representation of data having placeholders of numbers ranging from 1-9. Inside almost every Bitmap it is possible to imagine a 3x3 grid of numbers, each acting as a key to unlock specific data within a Bitcoin block or referring to any outside of Bitcoin data:
 
 | 4 | 8 | 2 |
 |---|---|---|
