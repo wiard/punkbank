@@ -25,7 +25,7 @@ An Information Specialist fresh out of university, Umeko was not only passionate
 *Driven by her passion, Umeko actively engaged with Bitmaps, inscribing her mark on Unisat during the month of April in 2023. In her exploration, she found that Bitmaps not only served as a symbolic representation of the virtual realm but were also a testament to Satoshi Nakamoto's innovative vision. While Umeko admired projects like Ethereum, she felt a genuine connection to the authenticity of Bitmaps, avoiding the overhyped trends. With this conviction, Umeko sees the potential for a transformative journey within the digital landscape, where Parcels on Bitmaps become the key elements shaping the frontier she eagerly seeks to explore.*
 
 
-She enters the building😊, which looks more or less like an old shop, but with nothing on the shelves🤣, and tries to let her eyes adjust to the relative darkness in the room she has entered. She hears steps coming closer and straightens herself up to meet the person. 'Hello there! You are Umeko!' A friendly young man in dark clothes and hair that is a bit too long😂 greets her. 'You are the girl who knows how to turn our bitmaps into gold! Fresh from university! We are so thrilled😏 to have you in our midst!'"
+She enters the building, which looks more or less like an old shop, but with nothing on the shelves, and tries to let her eyes adjust to the relative darkness in the room she has entered. She hears steps coming closer and straightens herself up to meet the person. 'Hello there! You are Umeko!' A friendly young man in dark clothes and hair that is a bit too long greets her. 'You are the girl who knows how to turn our bitmaps into gold! Fresh from university! We are so thrilled to have you in our midst!'"
 
 
 
