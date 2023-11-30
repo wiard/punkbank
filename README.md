@@ -1,4 +1,4 @@
-# Umeko discovering value on Bitmaps through The latest Whitepaper of Bitoshi Blockamoto and the NATs project of The BlockRunner.
+# Umeko discovering UNITED value on Bitmaps with Bitoshi Blockamoto and The BlockRunner.
 Umeko, a brand built on Bitmap [@NFTSistersJAPAN](https://twitter.com/@NFTSistersJAPAN)
 
 <img width="409" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/c095bc9f-ce5a-49d3-b24b-0f6eacbb877c">
