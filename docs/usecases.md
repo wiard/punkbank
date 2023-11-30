@@ -144,6 +144,4 @@ In essence, the Lawsuit Settlement Costs Matrix is more than just a financial le
 
 
 
-*
-
 ---
