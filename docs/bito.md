@@ -11,7 +11,6 @@
       - **Semantic Reasoning:**
         - Transaction Analysis
         - Smart Contract Execution
-
         - Stablecoin Stability
         - Security and Anomaly Detection
         - Environmental Impact Assessment
