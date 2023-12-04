@@ -5,8 +5,8 @@ Umeko, a brand built on Bitcoin [@NFTSistersJAPAN](https://twitter.com/@NFTSiste
 
 <img width="459" alt="Scherm­afbeelding 2023-11-22 om 08 45 03" src="https://github.com/wiard/Umeko/assets/900114/c3a93396-b255-4518-b7a6-e53d52d92cef">
 
-# The concept of parcel.bitmap.element
-These are the pieces of diamond code that will survive for thousands of years on the parcel.district.bitmap.element world.
+# The concept of parcel.bitmap.object
+These are the pieces of diamond code that will survive for thousands of years on the parcel.district.bitmap.object world.
 - [The available code for use on Matrices: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
 - [The POSSIBILITIES: The TREASURE](/docs/usecases.md)
@@ -38,7 +38,7 @@ The advent of NATs by the BlockRunner has stirred confusion in the Bitmap Metave
 
 2. **Bitmap Enhancement:**
    - Acknowledging Bitmaps' success.
-   - Introducing a higher element, ".element," for advanced reasoning, inscribed in Sats Names.
+   - Introducing a higher element, ".object," for advanced reasoning, inscribed in Sats Names.
 
 3. **Simplified Integration:**
    - Improving readability and accessibility for all users.
