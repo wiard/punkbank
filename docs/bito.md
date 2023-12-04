@@ -1,4 +1,4 @@
-<img width="687" alt="Drawing-426 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/21a23730-0875-4713-ace2-e362257070b8">
+<img width="687" alt="Drawing-426 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/8ab6dfe2-c2e3-4ade-bf61-cd8e770e553c">
 
 - .blockamotometaverse
   - bitmaps
@@ -9,6 +9,7 @@
       - **Semantic Reasoning:**
         - Transaction Analysis
         - Smart Contract Execution
+
         - Stablecoin Stability
         - Security and Anomaly Detection
         - Environmental Impact Assessment
