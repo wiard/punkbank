@@ -1,4 +1,6 @@
-<img width="487" alt="Drawing-426 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/8ab6dfe2-c2e3-4ade-bf61-cd8e770e553c">
+
+<img width="547" alt="Drawing-428 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/02833acc-b2c9-4e03-bb71-e51f64c8bfff">
+
 
 - .blockamotometaverse
   - bitmaps
