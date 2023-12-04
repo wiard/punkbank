@@ -1,3 +1,5 @@
+<img width="687" alt="Drawing-426 sketchpad" src="https://github.com/wiard/Umeko/assets/900114/21a23730-0875-4713-ace2-e362257070b8">
+
 - .blockamotometaverse
   - bitmaps
     - (Visual representations mirroring Bitcoin blocks)
@@ -24,3 +26,4 @@
         - Optimizing Resource Allocation
         - Decentralized Finance (DeFi) Applications
         - Cross-Metaverse Integration
+
