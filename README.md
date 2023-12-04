@@ -3,9 +3,8 @@ Bitmappunk, a brand built on Bitcoin
 
 
 <img width="354" alt="Scherm­afbeelding 2023-11-15 om 22 20 50" src="https://github.com/wiard/Umeko/assets/900114/e5f349e0-5a30-4736-80e4-26db7fc6d4b0">
+<img width="547" alt="Drawing-429 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/a7ebaff7-2125-48a5-974a-cf9da115e8da">
 
-
-<img width="347" alt="Drawing-428 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/02833acc-b2c9-4e03-bb71-e51f64c8bfff">
 
 # The concept of parcel.bitmap.object
 These are the pieces of diamond code that will survive for thousands of years on the parcel.district.bitmap.object world.
