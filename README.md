@@ -14,13 +14,13 @@ These are the pieces of diamond code that will survive for thousands of years on
 - [The POSSIBILITIES: The TREASURE](/docs/usecases.md)
 
 
-# Umeko's World: reasoning on Parcels with NATs
-- In Umeko's World, easy-to-read code provided by NATs provide the solution for great use of parcels on Bitmaps.-
+# Bitmap Punk: a bank that creates value in the Metaverse
+- In Bitmappunk's World, easy-to-read code provided by Objects provide the solution for great use of parcels on Bitmaps.-
 
 
 With the introduction of NATs proposed by BlockRunner, confusion has arisen in the Bitmap Metaverse World. Simultaneously, Mempools of Ordinals on Bitcoin are becoming congested. Both of these events are concerning for the ecosystems built on Bitcoin for several reasons. Firstly, there has been a division in the Bitmaps Ecosystem due to the way BlockRunner has marketed its new Metaverse Concept as something different from the Bitmap Metaverse. Secondly, the roles played by indexers in both Metaverses have become too vital for participants to anticipate an independent and free metaverse in the long run.
 
-As Umeko, a brand in the Metaverse grounded in a theory that encompasses ALL MATTER, we propose a simplified solution in all aspects.
+As Bitmappunk, a brand in the Metaverse grounded in a theory that encompasses ALL MATTER, we propose a simplified solution in all aspects.
 
 The first proposal addresses the NAT theory, which currently employs intricate methods of inscription, making it less user-friendly for accessing a free Metaverse. Previously, initiatives like Sats Names have developed an easily understandable method for assigning names to persons, objects, and elements in the Metaverse. We suggest adopting this method by inscribing NATs through Sats Names, as opposed to the current JSON format, which caters more to developers than users seeking comprehensible access to the Metaverse.
 
@@ -30,9 +30,9 @@ The positive outcome of simplifying and combining NAT's Theory with the Bitoshi 
 
 What we propose now is visible in the pictures above and we work on it continually.
 
-# Umeko's Metaverse Proposal Summary
+# Bitmappunk's Metaverse Proposal Summary
 
-The advent of NATs by the BlockRunner has stirred confusion in the Bitmap Metaverse World. Simultaneously, Ordinal Mempools on Bitcoin are clogging, raising concerns for Bitcoin-based Eco Systems. Umeko, embodying a Metaverse theory employing ALL MATTER, offers a simpler solution.
+The advent of NATs by the BlockRunner has stirred confusion in the Bitmap Metaverse World. Simultaneously, Ordinal Mempools on Bitcoin are clogging, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory employing ALL MATTER, offers a simpler solution.
 
 1. **NATs Simplification:**
    - Rejecting complex NAT inscriptions.
