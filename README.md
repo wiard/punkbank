@@ -39,7 +39,7 @@ The advent of NATs by the BlockRunner has stirred confusion in the Bitmap Metave
 
 2. **Bitmap Enhancement:**
    - Acknowledging Bitmaps' success.
-   - Introducing a higher element, ".object," for advanced reasoning, inscribed in Sats Names.
+   - Introducing a higher element, ".object," or ".element" for advanced reasoning, inscribed in Sats Names.
 
 3. **Simplified Integration:**
    - Improving readability and accessibility for all users.
