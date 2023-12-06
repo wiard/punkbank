@@ -23,7 +23,7 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
   - 💎 import.codeElement.parameter.parcel.element
   - 💎 .stablecoin
  
-  ### 🔴 BRC20 Coins for in Matrix
+  ### 🔴 BRC20 Coins for in the Matrix
  
   - 🔴 .111
   - 🔴 .110
