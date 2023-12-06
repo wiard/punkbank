@@ -41,34 +41,15 @@ Grounded in a theory encompassing ALL MATTER, Bitmappunk offers a simplified sol
 - Prioritizing readability and accessibility for all users.
 - Implementing an off-chain approach for efficient indexing, mitigating Bitcoin Mempool congestion.
 
-## Ongoing Development
-
-The proposed solution is visually depicted above, with ongoing efforts focused on refining and implementing it.
-
-# Bitmappunk's Metaverse Proposal Summary
-
-The introduction of NATs by BlockRunner has introduced friction in the Bitmap Metaverse World, concurrently with Ordinal Mempools on Bitcoin facing congestion, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory encompassing ALL MATTER, presents a simplified solution.
-
-### NATs Simplification
-
-- Associating NAT inscriptions with Semantic Concepts, providing direct entry to an object within Bitmap Theory.
-- Advocating for the Sats Names initiative, enhancing user-friendly Metaverse entry.
-
-### Bitmap Enhancement
-
-- Recognizing Bitmaps' success.
-- Introducing a higher element, ".object," or ".element," advanced in reasoning and inscribed within Sats Names.
-
-### Simplified Integration
-
-- Focusing on improving readability and accessibility for all users.
-- Implementing an off-chain strategy to enhance efficiency and prevent Bitcoin Mempool congestion.
-
 ### PunkBank Integration
 
 - Proposing Parcel Theory: BRC20 Tokens minted on each parcel within a Matrix.
 - Envisaging vertical integration of Economies within the PunkBank Parcel Theory.
 
-## Bitmappunk's Solution for Mempool Clogging
+# Bitmappunk's Metaverse Proposal Summary, a solution for Mempool Clogging
 
-Ordinal Mempools on Bitcoin face clogging issues, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory encompassing ALL MATTER, suggests a simplified solution by introducing Reasoning on Ordinals and utilizing an Off-Chain approach.
+The introduction of NATs by BlockRunner has introduced friction in the Bitmap Metaverse World, concurrently with Ordinal Mempools on Bitcoin facing congestion, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory encompassing ALL MATTER, presents a simplified solution by introducing Reasoning on Ordinals and utilizing an Off-Chain approach.
+
+
+
+
