@@ -19,7 +19,7 @@ In Bitmappunk's World, the utilization of easy-to-read code provided by `.elemen
 
 ## Challenges in the Bitmap Metaverse World
 
-The introduction of NATs proposed by BlockRunner has led to an interesting confusion in the Bitmap Metaverse World and I prefer to call it a 'Frictious Moment with Great Possibilities'. Simultaneously, a second Conflict of Interest is occurring in Ordinals World. Ordinal Mempools on Bitcoin are experiencing congestion, raising concerns for Bitcoin-based ecosystems. On top of that, Outside Forces still are critisizing Bitcoin Ordinals as a project endangering the Bitcoin Success. These three major challenges are too big for me alone to address so I want to make an example to solve two major cases, the confusion between Bimaps and the Blockrunner. With this I think I solve all.  Wit this effort creating a better world for all. 
+The introduction of NATs proposed by BlockRunner has led to an interesting confusion in the Bitmap Metaverse World and I prefer to call it a 'Frictious Moment with Great Possibilities'. Simultaneously, a second Conflict of Interest is occurring in Ordinals World. Ordinal Mempools on Bitcoin are experiencing congestion, raising concerns for Bitcoin-based ecosystems. On top of that, Outside Forces still are critisizing Bitcoin Ordinals as a project endangering the Bitcoin Success. These three major challenges are too big for me alone to address so I want to make an example to solve two major cases, the confusion between Bimaps and the Blockrunner. With this I think I solve all.  With this effort creating a better world for all. 
 
 ## Bitmappunk's Simplified Solution
 
