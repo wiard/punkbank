@@ -1,6 +1,6 @@
 # Diamond Code Marvels in the Parcel.Bitmap.Element World
 
-This is the diamond code that stand for thousands of years on the bitmap world, *Invented by SMART Umeko @NFTSistersJAPAN*.
+This is the basic Semantic reasoning Code Snippets that are colorized to have some notion of Fields wherein these can and should used *.
 
 - [In case you want to go HOME: the BASE page](../README.md)
 
