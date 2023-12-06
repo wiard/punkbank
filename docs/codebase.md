@@ -118,11 +118,11 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
     - 💎 matrix.bitmap.element
 
   ### 💎 Additional Elements
-    - 💎 utxo.parcel.bitmap.element
-    - 💎 utxo.parcel.bitmap
-    - 💎 utxo.matrix.parcel.bitmap.element
-    - 💎 collect.utxo.parcel.bitmap.element
-    - 💎 count.utxo.parcel.bitmap.element
+    - 🟡 utxo.parcel.bitmap.element
+    - 🟡 utxo.parcel.bitmap
+    - 🟡 utxo.matrix.parcel.bitmap.element
+    - 🟡 collect.utxo.parcel.bitmap.element
+    - 🟡 count.utxo.parcel.bitmap.element
     - 💎 taproot.parcel.bitmap.element
     - 💎 segwit.parcel.bitmap.element
     - 💎 tapleaf.taproot.parcel.bitmap.element
