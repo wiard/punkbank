@@ -8,7 +8,7 @@ The simple text of the vision:
 
 ---
 
-In the realm of the Metaverse, the initial impulse among developers often involves creating immersive 3D environments, a concept popularized by major players like Facebook. However, the **.Bitmap Metaverse** has emerged, resembling what already exists on the Ethereum Blockchain, prompting the need for deeper exploration beyond the obvious.
+In the realm of the Metaverse, the initial impulse among developers often involves creating immersive 3D environments, a concept popularized by major players like Facebook. However, the ** Bitmap Metaverse** has emerged, resembling what already exists on the Ethereum Blockchain, prompting the need for deeper exploration beyond the obvious.
 
 Introducing Semantic Reasoning on Bitcoin Data aligns with the Non-Arbitrary Data concept from the Bitoshi Blockamoto's vision. This approach allows us to experiment with the existing model of the Semantic Web in a more focused context, combining value exchange within the ALL Immersive Web of Blockchain—a network often conceptualized as a Transaction Network based on Blockchain Technology.
 
