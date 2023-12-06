@@ -1,4 +1,4 @@
-# Diamond Code Marvels in the Parcel.Bitmap.Element World
+# Code Snippets in the Parcel.Bitmap.Element World
 
 This is the basic Semantic reasoning Code Snippets that are colorized to have some notion of Fields wherein these can and should used *.
 
