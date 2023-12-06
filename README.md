@@ -8,7 +8,7 @@ Bitmappunk, a brand built on Bitcoin
 
 # The .... parcel.bitmap.object or parcel.bitmap.element
 These are the pieces of diamond code that will survive for thousands of years on the parcel.district.bitmap.object world.
-- [The available code for use on Matrices: the Diamond Codelines](/docs/codebase.md)
+- [Code on Matrices: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
 - [The POSSIBILITIES: The TREASURE](/docs/usecases.md)
 - [The BANK: The TRUTH](/docs/bank.md)
