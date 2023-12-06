@@ -3,6 +3,7 @@
 
 
 # The punkbank.bitmap Chronicle
+- [In case you want to go HOME: the BASE page](../README.md)
 
 The simple text of the vision:
 
