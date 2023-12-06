@@ -3,7 +3,7 @@
 
 - [In case you want to go HOME: the BASE drums](../README.md)
 
-Parcels become the points of value that can be reasoned upon. By adding the .element of NAT theory it is now possible to have any treshold referred to from a small collection of ordered numbers. The concept of Matrices is introduced because it speaks to people as a word and as a mean to play with. Children love numbers and our future public is the young blood that is going to enter the Metvaerse built on Bitcoin. So that is where we start.
+Parcels become the points of value that can be reasoned upon. By adding the .element of NAT theory it is now possible to have any treshold referred to from a small collection of ordered numbers. The concept of Matrices is introduced because it speaks to people as a word and as a mean to play with. Children love numbers and our future public is the young blood that is going to enter the Metvaerse built on Bitcoin. So that is where we start. Each parcel is represented by a number and this number is deployed as BRC20 token. Each token has 21.000.000 in total and is to be minted on  [Unisat](https://unisat.io) per 1000.
 
 ## The Bitmap Landscape built within a Matrix, representing 3 x 3 Parcels.
 
