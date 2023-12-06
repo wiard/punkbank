@@ -13,6 +13,14 @@ But there is no Economy?!
 
 The Economies built on Bitcoin are very much around settings where a coin is involved and what I want to do is create tokens that enable people to exchange goods and services with eachother without being dependent of one Token or one Indexer. Thats why i deployed a token for every parcel within the Matrix. Ecery token can be used in vertical economies that have to be developed on the fly. And exchanged with other vertical economies considered certain rules that need to be understood beforehand.
 
+Artificial Technology is the technology to tackle. It needs to be experimented with in a secured way. To do research on the possibilities to combine it from the start with a Truthmachine as the Bitcoin.
+The Artificial Intelligence Technology can be used on endless ideas but we need to consider very small usecases. Just to be sure that we understand what we do and that we go outside the usual box of in game earning and all that what people do right now.
+
+Semantic reasoning is part nof this whole idea. So I have created and inscribed programming like code snippets on Ordinals to show these snippets in relationship with the use cases on the 3x3 experimentation we are doing here.
+With a Matrix of 3x3 Parcels on Bitmap and denominating them with specific numbers to start with is a simple use case, a simple setting with endless but not infinite possibilities. And this is important. We cannot cover the whole web, we can just try specific ideas and see how they attract others. 
+
+The Semantic Reasoning is simplified with these code snippets. Just like the bigger Semantic Web has ways to describe relationships between objects and actions. Semantic Reasoning implies also logical reasoning and I believe Logic is the one technology that will withstand thousands of years of development. Words and the Logic attaced to this.
+
 The real usecase of a Bitcoin needs to be combined with Srtificial Intelligence to be really innovative. emerges as the canvas upon which a complex tapestry of interconnected elements unfolds. At its core are intricate **bitmaps**, visual representations meticulously mirroring the very blocks of the Bitcoin blockchain. These graphical depictions serve as a window into the underlying structure, a testament to the symbiotic relationship between the digital and physical worlds.
 
 Within this metaverse, individual units of data take form as **parcels**. Among them, a significant entity is the **.bitocoin** parcel, embodying the essence of Bitcoin's digital currency. Yet, these parcels transcend mere representation—they are conduits of semantic reasoning. The analysis of transactions, execution of smart contracts, evaluation of stablecoin stability, security assessments, and environmental impact considerations all find a home within the semantic depths of these digital parcels.
