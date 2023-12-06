@@ -1,6 +1,6 @@
 # Use Cases Evaluation
 
-- [Go back to HOME: the BASE drums](../README.md)
+- [Go back to HOME: the BASE page](../README.md)
 
 ## 1. Student Performance Evaluation
 
