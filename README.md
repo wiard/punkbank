@@ -10,7 +10,7 @@ Bitmappunk, a brand built on Bitcoin
 These are the pieces of diamond code that will survive for thousands of years on the parcel.district.bitmap.object world.
 - [Code on Matrices: the Diamond Codelines](/docs/codebase.md)
 - [One Matrix example: The GLASS](/docs/story.md)
-- [The POSSIBILITIES: The TREASURE](/docs/usecases.md)
+- [The USE CASES: The TREASURE](/docs/usecases.md)
 - [The BANK: The TRUTH](/docs/bank.md)
 
 
