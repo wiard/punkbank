@@ -7,7 +7,7 @@ AS the future of the Metaverse is our children, I have developed a method for yo
 
 ## The Bitmap Landscape built within a Matrix, representing 3 x 3 Parcels.
 
-At its core, a Matrix is a compact representation of data having placeholders of numbers ranging from 1-9. Inside almost every Bitmap it is possible to imagine a 3x3 grid of numbers, each acting as a key to unlock specific data within a Bitcoin block or referring to any outside of Bitcoin data:
+The Matrix is a nice way to represent numbers. Each number has endless possibilities but can you imagine what types of possibilities there are when numbers are combined? The individual number can refer to one topic or one good. Two numbers can do a calculation. Many number together can do very complicated things. Thats what I am trying here. Look at this example underneath. Tese are 9 random numbers in one Matrix.
 
 | 4 | 8 | 2 |
 |---|---|---|
@@ -18,5 +18,10 @@ At its core, a Matrix is a compact representation of data having placeholders of
 - Each row represents a Bitmap's score in various subjects.
 - Each column represents a specific subject.
 - The matrix aids in calculating, evaluating, weighing and comparing any type of data.
+
+  **Summary**
+
+At its core, a Matrix is a compact representation of data having placeholders of numbers ranging from 1-9. Inside almost every Bitmap it is possible to imagine a 3x3 grid of numbers, each acting as a key to unlock specific data within a Bitcoin block or referring to any outside of Bitcoin data:
+
 
 
