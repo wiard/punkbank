@@ -19,7 +19,7 @@ In Bitmappunk's World, the utilization of easy-to-read code provided by `.elemen
 
 ## Challenges in the Bitmap Metaverse World
 
-The introduction of NATs proposed by BlockRunner has led to an interesting confusion in the Bitmap Metaverse World and I prefer to call it a 'Frictious Moment with Great Possibilities'. Simultaneously, a second Conflict of Interest is occurring in Ordinals World. Ordinal Mempools on Bitcoin are experiencing congestion, raising concerns for Bitcoin-based ecosystems. On top of that, Outside Forces still are critisizing Bitcoin Ordinals as a project endangering the Bitcoin Success. Key challenges include a division in the Bitmaps Ecosystem due to BlockRunner's distinct marketing of its Metaverse Concept and the critical role of indexers in both Metaverses, influencing the perception of an independent and free metaverse.
+The introduction of NATs proposed by BlockRunner has led to an interesting confusion in the Bitmap Metaverse World and I prefer to call it a 'Frictious Moment with Great Possibilities'. Simultaneously, a second Conflict of Interest is occurring in Ordinals World. Ordinal Mempools on Bitcoin are experiencing congestion, raising concerns for Bitcoin-based ecosystems. On top of that, Outside Forces still are critisizing Bitcoin Ordinals as a project endangering the Bitcoin Success. The challenges I want to address are the 1) possible division in the Bitmaps Ecosystem due to BlockRunner's distinct marketing of its Metaverse Concept and 2) the critical role of indexers in both Metaverses, influencing the perception of an independent and free metaverse.
 
 ## Bitmappunk's Simplified Solution
 
@@ -27,7 +27,7 @@ Grounded in a theory encompassing ALL MATTER, Bitmappunk offers a simplified sol
 
 ### Addressing NAT Theory
 
-- Specific NAT inscriptions are suggested.
+- Specific NAT inscriptions are suggested. 
 - Advocacy for the user-friendly Sats Names initiative for Metaverse entry.
 - Proposing the inscription of NATs through Sats Names, departing from the developer-oriented JSON format.
 
