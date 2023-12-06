@@ -14,7 +14,7 @@ These are the pieces of diamond code that will survive for thousands of years on
 
 
 # Bitmap Punk: a bank that creates value in the Metaverse
-- In Bitmappunk's World, easy-to-read code provided by Objects provide the solution for great use of parcels on Bitmaps.-
+- In Bitmappunk's World, easy-to-read code provided by .element provide the solution for great use of parcels on Bitmaps.-
 
 
 With the introduction of NATs proposed by BlockRunner, confusion has arisen in the Bitmap Metaverse World. Simultaneously, Mempools of Ordinals on Bitcoin are becoming congested. Both of these events are concerning for the ecosystems built on Bitcoin for several reasons. Firstly, there has been a division in the Bitmaps Ecosystem due to the way BlockRunner has marketed its new Metaverse Concept as something different from the Bitmap Metaverse. Secondly, the roles played by indexers in both Metaverses have become too vital for participants to anticipate an independent and free metaverse in the long run.
