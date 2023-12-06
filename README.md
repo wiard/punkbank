@@ -34,7 +34,7 @@ What we propose now is visible in the pictures above and we work on it continual
 The advent of NATs by the BlockRunner has stirred confusion in the Bitmap Metaverse World. Simultaneously, Ordinal Mempools on Bitcoin are clogging, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory employing ALL MATTER, offers a simpler solution.
 
 1. **NATs Simplification:**
-   - Rejecting complex NAT inscriptions.
+   - Attaching NAT inscriptions to Semantic Concepts that show direct entry to an object within Bitmap Theory.
    - Advocating the Sats Names initiative for user-friendly Metaverse entry.
 
 2. **Bitmap Enhancement:**
