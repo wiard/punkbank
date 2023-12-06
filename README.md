@@ -11,7 +11,7 @@ These are the pieces of diamond code that will survive for thousands of years on
 - [The available code for use on Matrices: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
 - [The POSSIBILITIES: The TREASURE](/docs/usecases.md)
-- [The BANK: The TREASURE](/docs/bank.md)
+- [The BANK: The TRUTH](/docs/bank.md)
 
 
 # Bitmappunk's World: A Simplified Metaverse Solution
