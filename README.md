@@ -6,7 +6,7 @@ Bitmappunk, a brand built on Bitcoin
 <img width="599" alt="Drawing-429 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/a7ebaff7-2125-48a5-974a-cf9da115e8da">
 
 
-# The concept of parcel.bitmap.object or of parcel.bitmap.element
+# The .... parcel.bitmap.object or of parcel.bitmap.element
 These are the pieces of diamond code that will survive for thousands of years on the parcel.district.bitmap.object world.
 - [The available code for use on Matrices: the Diamond Codelines](/docs/codebase.md)
 - [Have the story at the brink of you eyeballs: The GLASS](/docs/story.md)
