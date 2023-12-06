@@ -2,9 +2,14 @@
 <img width="547" alt="Drawing-428 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/02833acc-b2c9-4e03-bb71-e51f64c8bfff">
 
 
-# The .blockamotometaverse Chronicle
+# The punkbank.bitmap Chronicle
 
-In the realm of the metaverse, a digital landscape known as the **.blockamotometaverse** emerges as the canvas upon which a complex tapestry of interconnected elements unfolds. At its core are intricate **bitmaps**, visual representations meticulously mirroring the very blocks of the Bitcoin blockchain. These graphical depictions serve as a window into the underlying structure, a testament to the symbiotic relationship between the digital and physical worlds.
+In the story of the Metaverse, we seem to envision with each other, the first things developers do is creating 3D all immersive enviroments. This is a concept that is kind of told by big players as Facebook. A Metverse to meet other people and, of coarse, sell each other advertisements. A digital landscape known as the **.Bitmap Meteverse** has since its blockout immerged as something like what already exists on the Ethereum Blockchain and needs to be explored further than just the obvious.
+That is why I come up with Semantic Reasoning on Bitcoin Data. As we tahe Non-Arbitrary Data as the concept of the Built on Bitcoin concept of Bitoshi Blockamoto, the originator of this vision.
+This reasoning on available data of Bitcoin gives us opportunity to experiment with the already existing model of the Semantic Web, but now in a smaller context and with exchange of value combined. As the ALl Immersive Web of Blockchain is often postulated as a Transaction Network, based on Blockchain Technology.
+
+
+emerges as the canvas upon which a complex tapestry of interconnected elements unfolds. At its core are intricate **bitmaps**, visual representations meticulously mirroring the very blocks of the Bitcoin blockchain. These graphical depictions serve as a window into the underlying structure, a testament to the symbiotic relationship between the digital and physical worlds.
 
 Within this metaverse, individual units of data take form as **parcels**. Among them, a significant entity is the **.bitocoin** parcel, embodying the essence of Bitcoin's digital currency. Yet, these parcels transcend mere representation—they are conduits of semantic reasoning. The analysis of transactions, execution of smart contracts, evaluation of stablecoin stability, security assessments, and environmental impact considerations all find a home within the semantic depths of these digital parcels.
 
