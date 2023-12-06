@@ -34,7 +34,7 @@ Grounded in a theory encompassing ALL MATTER, Bitmappunk offers a simplified sol
 ### Bitmap Enhancement
 
 - Acknowledging the success of Bitmaps.
-- Introducing a higher element, `.object` or `.element`, for advanced reasoning, incorporated within Sats Names.
+- Introducing a higher element, `.object` or `.element`, for advanced reasoning, also incorporated within Sats Names.
 
 ### Simplified Integration
 
