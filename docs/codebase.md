@@ -47,10 +47,10 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
     - 💎 .10100
 
   ### 💎 Scripts
-    - 💎 .warp
-    - 💎 .ruleset
-    - 💎 .graph
-    - 💎 .elementruleset
+    - 🟢 .warp
+    - 🟢 .ruleset
+    - 🟢 .graph
+    - 🟢 .elementruleset
 
   ### 💎 Operations
     - 💎 addNumber.bitmap.parcelTotal.element
@@ -77,23 +77,23 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
     - 💎 containing.which.parcel.bitmap.element
     - 💎 match.which.parcel.bitmap.element
     - 💎 glue.number.parcel.bitmap.element
-    - 💎 matrix.parcel.bitmap.element
+    - 🔵  matrix.parcel.bitmap.element
     - 🔴 parcel.1.element
-    - 🔴  parcel.2.element
-    - 🔴  parcel.3.element
-    - 🔴  parcel.4.element
-    - 🔴  parcel.5.element
-    - 🔴  parcel.6.element
-    - 🔴  parcel.7.element
-    - 🔴  parcel.8.element
-    - 🔴  parcel.9.element
+    - 🔴 parcel.2.element
+    - 🔴 parcel.3.element
+    - 🔴 parcel.4.element
+    - 🔴 parcel.5.element
+    - 🔴 parcel.6.element
+    - 🔴 parcel.7.element
+    - 🔴 parcel.8.element
+    - 🔴 parcel.9.element
 
   ### 💎 Matrix Operations
-    - 💎 compare.matrix.parcel.bitmap.element
-    - 💎 twin.matrix.parcel.bitmap.element
-    - 💎 trim.matrix.parcel.bitmap.element
-    - 💎 multiply.matrix.parcel.bitmap.element
-    - 💎 divide.matrix.parcel.bitmap.element
+    - 🔵 compare.matrix.parcel.bitmap.element
+    - 🔵 twin.matrix.parcel.bitmap.element
+    - 🔵 trim.matrix.parcel.bitmap.element
+    - 🔵 multiply.matrix.parcel.bitmap.element
+    - 🔵 divide.matrix.parcel.bitmap.element
 
   ### 💎 Vector Variable Operations
     - 💎 get.variable.vector.bitmap.element
@@ -101,10 +101,10 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
     - 💎 set.variable.vector.bitmap.element
     - 💎 move.vector.bitmap.element
     - 💎 stop.vector.bitmap.element
-    - 💎 endpoint.a.vector.bitmap.element
-    - 💎 endpoint.b.vector.bitmap.element
-    - 💎 endpoint.c.vector.bitmap.element
-    - 💎 endpoint.d.vector.bitmap.element
+    - 🟢 endpoint.a.vector.bitmap.element
+    - 🟢 endpoint.b.vector.bitmap.element
+    - 🟢 endpoint.c.vector.bitmap.element
+    - 🟢 endpoint.d.vector.bitmap.element
 
   ### 💎 Matrix Parcel Operations
     - 💎 setup.matrix.parcel.bitmap.element
@@ -112,10 +112,10 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
     - 💎 move.matrix.parcel.bitmap.element
     - 💎 search.matrix.parcel.bitmap.element
 
-  ### 💎 Matrix Operations
-    - 💎 define.matrix.bitmap.element
-    - 💎 lock.matrix.bitmap.element
-    - 💎 matrix.bitmap.element
+  ### 🔵  Matrix Operations
+    - 🔵 define.matrix.bitmap.element
+    - 🔵 lock.matrix.bitmap.element
+    - 🔵 matrix.bitmap.element
 
   ### 💎 Additional Elements
     - 🟡 utxo.parcel.bitmap.element
@@ -128,15 +128,15 @@ This is the diamond code that stand for thousands of years on the bitmap world, 
     - 💎 tapleaf.taproot.parcel.bitmap.element
     - 💎 logicgate.bitscript.parcel.bitmap.element
     - 💎 bitvm.logicgate.bitscript.parcel.bitmap.element
-    - 💎 logic.gates.matrix.parcel.bitmap.element
-    - 💎 true.matrix.bitmap.element
-    - 💎 false.matrix.bitmap.element
-    - 💎 matrix[].bitmap.element
-    - 💎 matrix[][].bitmap.element
-    - 💎 matrix[parcel(1-9)][parcel(1-9)].element
-    - 💎 matrix[parcel(1-9)][parcel(1-9)].bitmap.element
-    - 💎 matrix[parcel(1-9)][parcel(1-9)].bitmap(height).element
-    - 💎 matrix[parcel(1-9)][parcel(1-9)].bitmap(BTCblockheight).element
+    - 🔵 logic.gates.matrix.parcel.bitmap.element
+    - 🔵 true.matrix.bitmap.element
+    - 🔵 false.matrix.bitmap.element
+    - 🔵 matrix[].bitmap.element
+    - 🔵 matrix[][].bitmap.element
+    - 🔵 matrix[parcel(1-9)][parcel(1-9)].element
+    - 🔵 matrix[parcel(1-9)][parcel(1-9)].bitmap.element
+    - 🔵 matrix[parcel(1-9)][parcel(1-9)].bitmap(height).element
+    - 🔵 matrix[parcel(1-9)][parcel(1-9)].bitmap(BTCblockheight).element
 
 
 
