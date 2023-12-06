@@ -45,45 +45,12 @@ The advent of NATs by the BlockRunner has stirred confusion in the Bitmap Metave
    - Improving readability and accessibility for all users.
    - Off-chain implementation to enhance efficiency and prevent Bitcoin Mempool congestion.
 
-Visit the images above for a visual representation of our ongoing work.
+4. **PunkBank Integration:**
+   - Parcel Theory: BRC20 Tokens minted on each parcel within a Matrix.
+   - Vertical integration of Economies within the PunkBank Parcel Theory.
 
-# Metaverse Vision and PunkBank Integration
+## Bitmappunk's Solution for Mempool cologging
 
-- Participators in the Bitcoin Ordinals System are diligently contributing to remarkable applications, yet their current focus appears to be predominantly on ALL immersive worlds. My intention is to broaden the spectrum of possibilities by simplifying several concepts.
+- Ordinal Mempools on Bitcoin are clogging, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory employing ALL MATTER, offers a simpler solution by introducing Reasoning on Ordinals and this Off- Chain.
 
-## Conceptual Shift
 
-- One crucial shift is aimed at altering the perception of existence in the so-called metaverse. The goal is to promote a sense of freedom, allowing individuals to detach from the notion of being tied to a token that requires purchase and subsequent speculation. This move aims to mitigate the prevalent notion of 'getting rich quick' within the Bitcoin realm.
-
-## Visionary Approach
-
-- By fostering a metaverse where users feel liberated and not constrained by financial obligations, we can unlock a myriad of creative and innovative possibilities. This visionary approach seeks to empower individuals to explore the metaverse without the burden of financial barriers.
-
-### Embracing Diversity
-
-- Moreover, this vision encourages a diverse range of experiences within the metaverse. Instead of a singular focus on financial gains, the emphasis shifts towards the richness of experiences, collaboration, and the limitless potential that an unencumbered metaverse can offer.
-
-## PunkBank Integration
-
-**Parcel Theory: BRC20 Tokens**
-
-- I want BRC20 tokens to be minted as a result of participating in the Parcel Theory of PunkBank. Each parcel in the 3x3 matrix on a Bitmap is to be minted as a specific BRC20 token. This will be the 'Coin' to negotiate and travel with vertically in the PunkBank Matrix.
-
-## Bitmappunk's Solution
-
-- The advent of NATs by the BlockRunner has stirred confusion in the Bitmap Metaverse World. Simultaneously, Ordinal Mempools on Bitcoin are clogging, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory employing ALL MATTER, offers a simpler solution.
-
-### NATs Simplification
-
-- Rejecting complex NAT inscriptions.
-- Advocating the Sats Names initiative for user-friendly Metaverse entry.
-
-### Bitmap Enhancement
-
-- Acknowledging Bitmaps' success.
-- Introducing a higher element, ".object," or ".element" for advanced reasoning, inscribed in Sats Names.
-
-### Simplified Integration
-
-- Improving readability and accessibility for all users.
-- Off-chain implementation to enhance efficiency and prevent Bitcoin Mempool congestion.
