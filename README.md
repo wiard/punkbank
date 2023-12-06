@@ -24,33 +24,11 @@ The introduction of NATs proposed by BlockRunner has led to an interesting confu
 
 ## Bitmappunk's Simplified Solution
 
-Grounded in a theory encompassing ALL MATTER, Bitmappunk offers a simplified solution:
-
-### Addressing NAT Theory
-
-- Specific NAT inscriptions are suggested. 
-- Advocacy for the user-friendly Sats Names initiative for Metaverse entry.
-- Proposing the inscription of NATs through Sats Names, departing from the developer-oriented JSON format.
-
-### Bitmap Enhancement
-
-- Acknowledging the success of Bitmaps.
-- Introducing a higher element, `.object` or `.element`, for advanced reasoning, also incorporated within Sats Names.
-
-### Simplified Integration
-
-- Prioritizing readability and accessibility for all users.
-- Implementing an off-chain approach for efficient indexing, mitigating Bitcoin Mempool congestion.
-
-### PunkBank Integration
-
-- Proposing Parcel Theory: BRC20 Tokens minted on each parcel within a Matrix.
-- Envisaging vertical integration of Economies within the PunkBank Parcel Theory.
+Grounded in a theory encompassing ALL MATTER, Bitmappunk offers a simplified solution by addressing NAT Theory through specific inscriptions, advocating for the user-friendly Sats Names initiative for Metaverse entry, and proposing the inscription of NATs through Sats Names, departing from the developer-oriented JSON format. In Bitmap Enhancement, Bitmappunk acknowledges the success of Bitmaps and introduces a higher element, `.object` or `.element`, for advanced reasoning, also incorporated within Sats Names. The solution prioritizes Simplified Integration by focusing on readability and accessibility for all users, along with implementing an off-chain approach for efficient indexing to mitigate Bitcoin Mempool congestion. In PunkBank Integration, Bitmappunk proposes Parcel Theory, suggesting the minting of BRC20 Tokens on each parcel within a Matrix and envisioning vertical integration of Economies within the PunkBank Parcel Theory.
 
 # Bitmappunk's Metaverse Proposal Summary, a solution for Mempool Clogging
 
 The introduction of NATs by BlockRunner has introduced friction in the Bitmap Metaverse World, concurrently with Ordinal Mempools on Bitcoin facing congestion, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory encompassing ALL MATTER, presents a simplified solution by introducing Reasoning on Ordinals and utilizing an Off-Chain approach.
-
 
 
 
