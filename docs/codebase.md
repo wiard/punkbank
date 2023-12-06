@@ -2,7 +2,7 @@
 
 This is the diamond code that stand for thousands of years on the bitmap world, *Invented by SMART Umeko @NFTSistersJAPAN*.
 
-- [In case you want to go HOME: the BASE drums](../README.md)
+- [In case you want to go HOME: the BASE page](../README.md)
 
 ...
 
