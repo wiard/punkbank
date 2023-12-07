@@ -23,8 +23,7 @@ The Matrix is a nice way to represent numbers. Each number has endless possibili
 
 At its core, a Matrix is a compact representation of data having placeholders of numbers ranging from 1-9. Inside almost every Bitmap it is possible to imagine a 3x3 grid of numbers, each acting as a key to unlock specific data within a Bitcoin block or referring to any outside of Bitcoin data:
 
-
-
+Underneath is a simple usecase that speaks to any child of how one could use a Matrix to play with. And there are thousands and thusands of usecases possible.
 
 
 <img width="299" alt="Drawing-429 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/f957ab94-a505-4a4a-83ca-8104ec6f9463">
