@@ -3,7 +3,7 @@
 
 - [In case you want to go HOME: the BASE page](../README.md)
 
-AS the future of the Metaverse is our children, I have developed a method for young people to reason upon while learning how economies work. We have a Matrix and within this Matric are 3x3 Parcels. Each Parcel is represented by a number and this number is deployed as BRC20 token. Each token has 21.000.000 in total and is to be minted on  [Unisat](https://unisat.io) per 1000.
+As the future of the Metaverse is our children, I have developed a method for young people to reason upon while learning how economies work. We have a Matrix and within this Matric are 3x3 Parcels. Each Parcel is represented by a number and this number is deployed as BRC20 token. Each token has 21.000.000 in total and is to be minted on  [Unisat](https://unisat.io) per 1000.
 
 ## The Bitmap Landscape built within a Matrix, representing 3 x 3 Parcels.
 
@@ -25,3 +25,4 @@ At its core, a Matrix is a compact representation of data having placeholders of
 
 
 
+![3x3magicsquare](https://github.com/wiard/punkbank/assets/900114/f957ab94-a505-4a4a-83ca-8104ec6f9463)
