@@ -25,4 +25,6 @@ At its core, a Matrix is a compact representation of data having placeholders of
 
 
 
-![3x3magicsquare](https://github.com/wiard/punkbank/assets/900114/f957ab94-a505-4a4a-83ca-8104ec6f9463)
+
+
+<img width="299" alt="Drawing-429 sketchpad (1)" src="https://github.com/wiard/Umeko/assets/900114/f957ab94-a505-4a4a-83ca-8104ec6f9463">
