@@ -70,7 +70,6 @@ In essence, the Joint Ownership Expenses Matrix is more than a grid of numbers; 
 
 ## 4. Secure Music Metadata Storage
 
-![Secure Music Metadata Storage](https://github.com/wiard/Umeko/assets/900114/23bad3d2-24d4-435a-b3fd-abbe67e140fa)
 
 <img width="354" alt="Scherm­afbeelding 2023-11-15 om 22 20 50" src="https://github.com/wiard/Umeko/assets/900114/23bad3d2-24d4-435a-b3fd-abbe67e140fa">
 
