@@ -7,6 +7,7 @@
 The use of a 3x3 Matrix to have all possible connections is a very viable one. Especially when on each square in The Matrix of punkbank.bitmap is stacked with a 21.000.000 BRC20-tokens to be minted out.
 The $ECH token will be the oil that greases the Motor of this research-endeavor. Everyone can join and add functionality as she or he likes. Let Serendipity and Relative Chaos prevail.
 As you can see from the picture underneath: a world can be projected on a simple Matrix.
+
 Use cases are: (1) Creating unique connections between tokens (representing unique datapoints)
 Calculation: a Matrix with 3 x 3 squares and each one having 21.000.000 unique datapoints, means for the whole picture: (9 x 21.000.000) windows that can look at another unique window for a short moment of time. After that moment a new connection is made with another datapoint looking at another available window. (these are all available for minting on @unisat and the numbers are .111 .110 .010 .011 .001 .101 .002 .012 .112)
 <img width="1373" alt="Drawing-438 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/70f70b87-16c6-43b5-b1b5-f45599838315">
