@@ -1,4 +1,4 @@
-# Bitmappunk: creating ANY value on Bitmaps.
+# Bitmappunk: creating ANY value on The Matrix of Bitmap.
 Bitmappunk, a brand built on Bitcoin
 
 
