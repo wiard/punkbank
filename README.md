@@ -16,7 +16,7 @@ These are the pieces of diamond code that will survive for thousands of years on
 
 # Bitmappunk's World: A Simplified Metaverse Solution
 
-People LOVE numbers and people LOVE to give each other presents. Thats why we from $ECH token have chosen this opportunity to create a smaller and happier world on Bitcoin. Why would this be a clever idea. In order to experiment with concepts from Artificial Intelligence in combination with Value Transaction using the Blockchain is a very worthwhile experiment. It shows the Synthetic Economies working with Artificial Intelligence in a Laboratory Kind of way and because Code is considered Law the compexity of Smart Contract Like ways of working can be investigated thoroughly.
+People LOVE numbers and people LOVE to give each other presents. Thats why we from punkbank.bitmap have chosen this opportunity to create a smaller and happier world on Bitcoin. Why would this be a clever idea. In order to experiment with concepts from Artificial Intelligence in combination with Value Transaction using the Blockchain is a very worthwhile experiment. It shows the Synthetic Economies working with Artificial Intelligence in a Laboratory Kind of way and because Code is considered Law the compexity of Smart Contract Like ways of working can be investigated thoroughly.
 
 In Bitmappunk's World, the utilization of easy-to-read code provided by `.element` presents a solution for effective parcel management on Bitmaps.
 
