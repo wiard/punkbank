@@ -20,7 +20,8 @@ People LOVE numbers and people LOVE to give each other presents. Thats why we fr
 
 In Bitmappunk's World, the utilization of easy-to-read code provided by `.element` presents a solution for effective parcel management on Bitmaps.
 
-But now first, the $ECH-token. With Echelon.eth on Twitter [echelon.eth](https://twitter.com/@html_eth) we discussed the possibilities to deploy the $ECH token on BRC20 Ordinals with Unisat (https://unisat.io)
+But now first, the $ECH-token. With Echelon.eth (on Twitter [echelon.eth](https://twitter.com/@html_eth)) we discussed the possibilities to deploy the $ECH token on BRC20 Ordinals with 
+[Unisat](https://unisat.io), the BEST online Marketplace for BRC20 tokens and Ordinals.
 
 
 <img width="307" alt="Drawing-440 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/cccd77c8-c448-45be-acc1-03ee2788b301">
