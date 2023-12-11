@@ -20,6 +20,10 @@ People LOVE numbers and people LOVE to give each other presents. Thats why we fr
 
 In Bitmappunk's World, the utilization of easy-to-read code provided by `.element` presents a solution for effective parcel management on Bitmaps.
 
+<img width="307" alt="Drawing-440 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/cccd77c8-c448-45be-acc1-03ee2788b301">
+
+
+
 ## Challenges in the Bitmap Metaverse World
 
 The introduction of NATs proposed by BlockRunner has led to an interesting confusion in the Bitmap Metaverse World and I prefer to call it a 'Frictious Moment with Great Possibilities'. Simultaneously, a second Conflict of Interest is occurring in Ordinals World. Ordinal Mempools on Bitcoin are experiencing congestion, raising concerns for Bitcoin-based ecosystems. On top of that, Outside Forces still are critisizing Bitcoin Ordinals as a project endangering the Bitcoin Success. These three major challenges are too big for me alone to address so I want to make an example to solve two major cases, the confusion between Bitmaps and the Blockrunner. With this I think I solve all.  With this effort creating a better world for all. 
