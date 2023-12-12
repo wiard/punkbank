@@ -64,13 +64,15 @@ But now first, the $ECH-token, its available on the marketplace of Unisat. [Unis
 <img width="307" alt="Drawing-440 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/cccd77c8-c448-45be-acc1-03ee2788b301">
 
 
-
 ## How to go on from now
 
 Of coarse i cannot do all this on my own and I need to build a community that tries all these amazing ideas out. The fractionlized ownership, the encrypted vault on Bitcoin. All these ideas have to be tried out in the community and be organized in a way that people feel the need to stay committed and to continue to innovate. This will only work when one sees the value of the $ech coin climb as well as the inventions that one is able to make woth this simple subject, the 3x3 Matrix on Bitmap.
 Bitmap is a proven success. Parceling needs to become a success and the Digital Matter Theory of the BlockRunner also needs to be connected with the Parceling because it enables different communities to work on the same solution and this is a multifunctional Metaverse where reasoning on Words and Numbers is an absolute necessity. With this simple way of implementing Reasoning on Words and Numbers we have cerated a laboratory for experimenting with Artificial Intelligence in a pleasant and Fun way and even creating value with it. Because all thesde number and Words can be configured in ways that people want to start to collect them. 
 
-## Bitmappunk's Simplified Solution
+## What I foresee with my Matrix on Bitmap
+
+My wish is to see people of all cultures and all walks of life to work together in a way that is profitabe and encouraging for us all. I believe that with Technology like Bitcoin and Artificial Intelligence, we have entered the ages of Abundance. We have enough mental and physical resources to live in a peaceful and good way with everyone on our beautiful planet. The only thing we need to decide is that we WANT to create a united wolrd. 
+And this has become possible by combining Bitmap Theory, Digital Matter Theory and my Matrix Theory all in one. And build it together on our beloved Bitcoin.
 
 Grounded in a theory encompassing ALL MATTER, Bitmappunk offers a simplified solution by addressing NAT Theory through specific inscriptions, advocating for the user-friendly Sats Names initiative for Metaverse entry, and proposing the inscription of NATs through Sats Names, departing from the developer-oriented JSON format. In Bitmap Enhancement, Bitmappunk acknowledges the success of Bitmaps and introduces a higher element, `.object` or `.element`, for advanced reasoning, also incorporated within Sats Names. The solution prioritizes Simplified Integration by focusing on readability and accessibility for all users, along with implementing an off-chain approach for efficient indexing to mitigate Bitcoin Mempool congestion. In PunkBank Integration, Bitmappunk proposes Parcel Theory, suggesting the minting of BRC20 Tokens on each parcel within a Matrix and envisioning vertical integration of Economies within the PunkBank Parcel Theory.
 
