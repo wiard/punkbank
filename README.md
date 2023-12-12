@@ -18,6 +18,8 @@ These are the pieces of diamond code that will survive for thousands of years on
 - [The USE CASES: The TREASURE](/docs/usecases.md)
 - [The BANK: The TRUTH](/docs/bank.md)
 
+- [Our Roadmap: The TRUTH](/docs/roadmap.md)
+
 
 # Bitmappunk's World: A Simplified Metaverse Solution
 
