@@ -1,5 +1,7 @@
 # $ECH Project Roadmap
 
+- [In case you want to go HOME: the BASE page](../README.md)
+
 ## Stage 1: Exploring 3x3 Matrix in Simple Gaming Solutions
 
 ### Tasks
