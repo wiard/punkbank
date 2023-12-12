@@ -26,7 +26,9 @@ People LOVE numbers and people LOVE to work together when the goal is set. Thats
 As the Bitcoin is a very simple and straightforward solution to have better ways of people transacting what is of value to them, I envision that the biggest value to us all is how we work together on the available knowledge in order to create a better world. In my mind the same question has always arisen: why can't we work together in such a way that we find common causes and common goals and work from there to create better circumstances for all. 
 The great invention of Bitcoin and its implication for creating an unbreakable economy that people can trust stroke me immediatly as a clever solution, esecially when I saw applications coming that involved real world use cases that were solved with the blockchain and the tokens that were used to secure the blockchain and its transactions.
 
-Building Virtual Worlds with Non- Arbitrary Data derived from the Bitcoin, envisioned by Bitoshu Blockamoto in March 2023 not only enlightened me to create new things based on this onbreakable bitcoin, many many people came to this idea and Bitmap Theory resulted in real world but digital use cases.
+## The amazing success of a simple idea
+
+Building Virtual Worlds with Non- Arbitrary Data derived from the Bitcoin, envisioned by Bitoshi Blockamoto in March 2023 not only enlightened me to create new things based on this onbreakable bitcoin, many many people came to this idea and Bitmap Theory resulted in real world but digital use cases.
 What the world needs next, I said to myself is a world based on words that can be reasoned upon. I came up this idea because, just like Bitmap, words and even sentences could be inscribed on Bitcoin with the Ordinal Theory given to us by Casey Rodarmor. With the opportunity for inscribing words on Bitcoin, people saw that we could make words immortal on the Unbreakable Valuechain Bitcoin.
 
 The next step is now to reason on these words and this is based on the concept of the Semantic Web that was invented a long time ago by the same man who invented the internet, Tim Berners Lee, but it never fell into the eye of the larger public. Bitcoin was slowly accepted by the larger population and Bitmap even very fast. For Bitmap being accepted by a wide group of people it took like a month. 
@@ -34,7 +36,9 @@ This amazing event opened my mind and made me decide to join the Bitmap Communit
 What I saw was that people had many ideas to build on Bitmap and most of the ideas were images. Immediatly after the imgaes that were being traded on the brc20-standard came the 3D all immersive game that people went into and started developing.
 Still the use of words that, in my vision, needed to start working by having layers of reasoning upon, were missing.
 
-Another very important aspect that was not being adopted by the people who loved the Bitmap as a surface, was the parcel on the bitmap. The parcel represents the Transaction, in Bitoshi Blockamoto's theory and therefor, I felt, this parcel needs to become the value of Bitmap. I came up with several ideas for these parcel. Like giving them for free to the people who owned bitmaps, or to create a Stablecoin on the total collection of parcels. It seemed all to comlicated though and people were not accepting this idea of mine.
+## I have to do something new by myself!
+
+Another very important aspect that was not being adopted by the people who loved the Bitmap as a surface, was the parcel on the bitmap. The parcel represents the Transaction, in Bitoshi Blockamoto's theory and therefor, I felt, this parcel needs to become the value of Bitmap. I came up with several ideas for these parcel. Like giving them for free to the people who owned bitmaps, or to create a Stablecoin on the total collection of parcels. It seemed all to complicated though and people were not accepting this idea of mine.
 
 "I have to start something oin my own," I slowly realized and I met this youg man, called Echelon.eth (on Twitter [echelon.eth](https://twitter.com/@html_eth)) on X who expressed the same vision as me, that words were very important in the virtual world, because they provide instant meaning to people and they make it easier for evryone to understand what is ment or who we need to look for when its a certain subjet concerned. Another person who also shared the same idea about words was HopefulofNFT. 
 Combined with parcel I decided to create my own coin and use this coin to first, empower people to parcel on their Bitmaps and parcel these in a sepecific format that everyone understands: in the form of a 3x3 Matrix. Everyone loves a simple form as a matrix and what come extra to this, one can put numbers in this 9 places of the Matrix. The numbers 1-9. 
@@ -44,6 +48,8 @@ And a great idea was born!
 Numbering will unite all people of the world because everyone on this planet loves numbering and everyone on this planet loves simple geometrical forms. This is in every culture and with every human being the same.
 
 The next big step is to understand what one can do with these 9 numbers and right away, after my $ech coin was minted out in just a few hours, I realized that people all over the world were thinking exactly the same as I. Number on a matrix on Bitmap are an excellent idea to try all kinds of use cases out. People even strated providing me with ideas.
+
+## Peoples reactions on The Matrix on Bitmap
 
 The ideas were: Fractionelized ownership can be realized with this 3x3 Matrix. The person who gave me this idea said: "We can digitally cut a Lamborghini in 9 equal pieces and spread them over your Matrix."
 ANother person said: "We can use these 9 placeholders of the Matrix to encrypt a vault on Bitcoin and have a contest who can break the code. We can even mine Bitmaps with that or other constructs."
@@ -59,7 +65,7 @@ But now first, the $ECH-token, its available on the marketplace of Unisat. [Unis
 
 
 
-## Challenges in the Bitmap Metaverse World
+## Peoples reactions on The Matrix on Bitmap
 
 The introduction of NATs proposed by BlockRunner has led to an interesting confusion in the Bitmap Metaverse World and I prefer to call it a 'Frictious Moment with Great Possibilities'. Simultaneously, a second Conflict of Interest is occurring in Ordinals World. Ordinal Mempools on Bitcoin are experiencing congestion, raising concerns for Bitcoin-based ecosystems. On top of that, Outside Forces still are critisizing Bitcoin Ordinals as a project endangering the Bitcoin Success. These three major challenges are too big for me alone to address so I want to make an example to solve two major cases, the confusion between Bitmaps and the Blockrunner. With this I think I solve all.  With this effort creating a better world for all. 
 
