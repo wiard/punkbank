@@ -1,5 +1,5 @@
-# Bitmappunk: creating ANY value on The Matrix of Bitmap.
-Bitmappunk, a brand built on Bitcoin
+# Bitmappunk: creating simplictity on The Matrix of Bitmap.
+Parcels, the solution for every aspect of value in life.
 
 
 <img width="254" alt="Scherm­afbeelding 2023-11-15 om 22 20 50" src="https://github.com/wiard/Umeko/assets/900114/e5f349e0-5a30-4736-80e4-26db7fc6d4b0">
@@ -11,7 +11,7 @@ Bitmappunk, a brand built on Bitcoin
 
 
 
-# The .... parcel.bitmap.object or parcel.bitmap.element
+# The parcel.bitmap.object is the way to create an endless digital universum
 These are the pieces of diamond code that will survive for thousands of years on the parcel.district.bitmap.object world.
 - [Code on Matrices: The DIAMONDS](/docs/codebase.md)
 - [One Matrix example: The LOOKING-GLASS](/docs/story.md)
@@ -21,7 +21,7 @@ These are the pieces of diamond code that will survive for thousands of years on
 
 # Bitmappunk's World: A Simplified Metaverse Solution
 
-People LOVE numbers and people LOVE to give each other presents. Thats why we from `punkbank.bitmap` have chosen this opportunity to create a smaller and happier world on Bitcoin. Why would this be a clever idea. In order to experiment with concepts from Artificial Intelligence in combination with Value Transaction using the Blockchain is a very worthwhile experiment. It shows the Synthetic Economies working with Artificial Intelligence in a Laboratory Kind of way and because Code is considered Law the compexity of Smart Contract Like ways of working can be investigated thoroughly.
+People LOVE numbers and people LOVE to work together when the goal is set. Thats why we from `punkbank.bitmap` have chosen this opportunity to create a smaller and happier world on Bitcoin. We do this with a clever idea, creating more simplicity on ideas that already worked. Bitmap Theory of Bitoshi Blockamoto has resulted in an amazing pace of adoption. It did adopt so fast because the people from all walks of life and from any culture or country understood the concept right away. Building a Digital World on a Programmable Solution, the amazing Bitcoin. This concept of a genius, Satoshi Nakamoto, has set many many new ideas in movement. Even whole economies are being built on Bitcoin and other chains that soon have started follwong this anmazing vision, a Trustless Digital Economy where tokens are built in as keepers of trust and innovation. In order to experiment with concepts from Artificial Intelligence in combination with Value Transaction using the Blockchain is a very worthwhile experiment. It shows the Synthetic Economies working with Artificial Intelligence in a Laboratory Kind of way and because Code is considered Law the complexity of Smart Contract Like ways of working can be investigated thoroughly.
 
 The presents we want to give the partakers of our initiative is the possibilities to use numbers in a clever way. Besides the cleverness of using numbers, we want to do this in settings that are easy to understand for even young people, who see the online world and tokenization as the natural way to move around.
 
