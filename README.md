@@ -36,7 +36,7 @@ Still the use of words that, in my vision, needed to start working by having lay
 
 Another very important aspect that was not being adopted by the people who loved the Bitmap as a surface, was the parcel on the bitmap. The parcel represents the Transaction, in Bitoshi Blockamoto's theory and therefor, I felt, this parcel needs to become the value of Bitmap. I came up with several ideas for these parcel. Like giving them for free to the people who owned bitmaps, or to create a Stablecoin on the total collection of parcels. It seemed all to comlicated though and people were not accepting this idea of mine.
 
-"I have to start something oin my own," I slowly realized and I met this youg man, called Echelon on X who expressed the same vision as me, that words were very important in the virtual world, because they provide instant meaning to people and they make it easier for evryone to understand what is ment or who we need to look for when its a certain subjet concerned. Another person who also shared the same idea about words was HopefulofNFT. 
+"I have to start something oin my own," I slowly realized and I met this youg man, called Echelon.eth (on Twitter [echelon.eth](https://twitter.com/@html_eth)) on X who expressed the same vision as me, that words were very important in the virtual world, because they provide instant meaning to people and they make it easier for evryone to understand what is ment or who we need to look for when its a certain subjet concerned. Another person who also shared the same idea about words was HopefulofNFT. 
 Combined with parcel I decided to create my own coin and use this coin to first, empower people to parcel on their Bitmaps and parcel these in a sepecific format that everyone understands: in the form of a 3x3 Matrix. Everyone loves a simple form as a matrix and what come extra to this, one can put numbers in this 9 places of the Matrix. The numbers 1-9. 
 
 And a great idea was born!
@@ -50,14 +50,9 @@ ANother person said: "We can use these 9 placeholders of the Matrix to encrypt a
 
 To summarize all this: we can do anything with a simple matrix on made of Parcels on Bitmap and reason in any way to explore our knowledge and have a exciting way of working together and finding communality in achieving knowledge in a fun way.
 
-and In order to experiment with concepts from Artificial Intelligence in combination with Value Transaction using the Blockchain is a very worthwhile experiment. It shows the Synthetic Economies working with Artificial Intelligence in a Laboratory Kind of way and because Code is considered Law the complexity of Smart Contract Like ways of working can be investigated thoroughly.
+Besides the Bitmap Theory of Bitoshi Blockamoto we have adopted the Digital Matter Theory of the YouTube Education Channel TheBlockRunner because we think Iman and WIlliam of the Blockrunner Team has found a genuine way to reason upon Bitmap Theory in a way that enlarges the possibilities of an ever evolving Metaverse Built on the Bitcoin.
 
-The presents we want to give the partakers of our initiative is the possibilities to use numbers in a clever way. Besides the cleverness of using numbers, we want to do this in settings that are easy to understand for even young people, who see the online world and tokenization as the natural way to move around.
-
-In Bitmappunk's World, the utilization of easy-to-read code provided by `.element` presents a solution for effective parcel management on Bitmaps.
-
-But now first, the $ECH-token. With Echelon.eth (on Twitter [echelon.eth](https://twitter.com/@html_eth)) we discussed the possibilities to deploy the $ECH token on BRC20 Ordinals with 
-[Unisat](https://unisat.io), the BEST online Marketplace for BRC20 tokens and Ordinals.
+But now first, the $ECH-token, its available on the marketplace of Unisat. [Unisat](https://unisat.io), the BEST online Marketplace for BRC20 tokens and Ordinals.
 
 
 <img width="307" alt="Drawing-440 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/cccd77c8-c448-45be-acc1-03ee2788b301">
