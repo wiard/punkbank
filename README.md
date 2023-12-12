@@ -65,9 +65,10 @@ But now first, the $ECH-token, its available on the marketplace of Unisat. [Unis
 
 
 
-## Peoples reactions on The Matrix on Bitmap
+## How to go on from now
 
-The introduction of NATs proposed by BlockRunner has led to an interesting confusion in the Bitmap Metaverse World and I prefer to call it a 'Frictious Moment with Great Possibilities'. Simultaneously, a second Conflict of Interest is occurring in Ordinals World. Ordinal Mempools on Bitcoin are experiencing congestion, raising concerns for Bitcoin-based ecosystems. On top of that, Outside Forces still are critisizing Bitcoin Ordinals as a project endangering the Bitcoin Success. These three major challenges are too big for me alone to address so I want to make an example to solve two major cases, the confusion between Bitmaps and the Blockrunner. With this I think I solve all.  With this effort creating a better world for all. 
+Of coarse i cannot do all this on my own and I need to build a community that tries all these amazing ideas out. The fractionlized ownership, the encrypted vault on Bitcoin. All these ideas have to be tried out in the community and be organized in a way that people feel the need to stay committed and to continue to innovate. This will only work when one sees the value of the $ech coin climb as well as the inventions that one is able to make woth this simple subject, the 3x3 Matrix on Bitmap.
+Bitmap is a proven success. Parceling needs to become a success and the Digital Matter Theory of the BlockRunner also needs to be connected with the Parceling because it enables different communities to work on the same solution and this is a multifunctional Metaverse where reasoning on Words and Numbers is an absolute necessity. With this simple way of implementing Reasoning on Words and Numbers we have cerated a laboratory for experimenting with Artificial Intelligence in a pleasant and Fun way and even creating value with it. Because all thesde number and Words can be configured in ways that people want to start to collect them. 
 
 ## Bitmappunk's Simplified Solution
 
