@@ -34,6 +34,22 @@ This amazing event opened my mind and made me decide to join the Bitmap Communit
 What I saw was that people had many ideas to build on Bitmap and most of the ideas were images. Immediatly after the imgaes that were being traded on the brc20-standard came the 3D all immersive game that people went into and started developing.
 Still the use of words that, in my vision, needed to start working by having layers of reasoning upon, were missing.
 
+Another very important aspect that was not being adopted by the people who loved the Bitmap as a surface, was the parcel on the bitmap. The parcel represents the Transaction, in Bitoshi Blockamoto's theory and therefor, I felt, this parcel needs to become the value of Bitmap. I came up with several ideas for these parcel. Like giving them for free to the people who owned bitmaps, or to create a Stablecoin on the total collection of parcels. It seemed all to comlicated though and people were not accepting this idea of mine.
+
+"I have to start something oin my own," I slowly realized and I met this youg man, called Echelon on X who expressed the same vision as me, that words were very important in the virtual world, because they provide instant meaning to people and they make it easier for evryone to understand what is ment or who we need to look for when its a certain subjet concerned. Another person who also shared the same idea about words was HopefulofNFT. 
+Combined with parcel I decided to create my own coin and use this coin to first, empower people to parcel on their Bitmaps and parcel these in a sepecific format that everyone understands: in the form of a 3x3 Matrix. Everyone loves a simple form as a matrix and what come extra to this, one can put numbers in this 9 places of the Matrix. The numbers 1-9. 
+
+And a great idea was born!
+
+Numbering will unite all people of the world because everyone on this planet loves numbering and everyone on this planet loves simple geometrical forms. This is in every culture and with every human being the same.
+
+The next big step is to understand what one can do with these 9 numbers and right away, after my $ech coin was minted out in just a few hours, I realized that people all over the world were thinking exactly the same as I. Number on a matrix on Bitmap are an excellent idea to try all kinds of use cases out. People even strated providing me with ideas.
+
+The ideas were: Fractionelized ownership can be realized with this 3x3 Matrix. The person who gave me this idea said: "We can digitally cut a Lamborghini in 9 equal pieces and spread them over your Matrix."
+ANother person said: "We can use these 9 placeholders of the Matrix to encrypt a vault on Bitcoin and have a contest who can break the code. We can even mine Bitmaps with that or other constructs."
+
+To summarize all this: we can do anything with a simple matrix on made of Parcels on Bitmap and reason in any way to explore our knowledge and have a exciting way of working together and finding communality in achieving knowledge in a fun way.
+
 and In order to experiment with concepts from Artificial Intelligence in combination with Value Transaction using the Blockchain is a very worthwhile experiment. It shows the Synthetic Economies working with Artificial Intelligence in a Laboratory Kind of way and because Code is considered Law the complexity of Smart Contract Like ways of working can be investigated thoroughly.
 
 The presents we want to give the partakers of our initiative is the possibilities to use numbers in a clever way. Besides the cleverness of using numbers, we want to do this in settings that are easy to understand for even young people, who see the online world and tokenization as the natural way to move around.
