@@ -1,4 +1,4 @@
-# Crypto Project Roadmap
+# $ECH Project Roadmap
 
 ## Stage 1: Exploring 3x3 Matrix in Simple Gaming Solutions
 
