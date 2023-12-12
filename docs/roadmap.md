@@ -8,6 +8,7 @@
 - [ ] Develop a prototype or proof of concept for a basic game using the 3x3 matrix.
 - [ ] Gather feedback from the community and potential users.
 - [ ] Iterate and improve the gaming solution based on received feedback.
+- [ ] Find connections in the Bitmap Space to establish a Parcel Market.
 
 ## Stage 2: Semantic Reasoning with 3x3 Matrix Numbers
 
