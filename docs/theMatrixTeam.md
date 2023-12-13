@@ -13,17 +13,17 @@
 
 3. **Yu I**
    - Role: System architect
-   - X: [Yu I](https://github.com/bobjohnson)
+   - X: [Yu I](https://twitter.com/traderyul)
    - 
 4. **brc20punk**
    - Role: System architect
-   - X: [bobjohnson](https://github.com/bobjohnson)
+   - X: [bobjohnson](https://twitter.com/brc20punk)
 
 ## Advising Team
 
 1. **Sven Bitmap**
    - Role: Investor
-   - X: [Sven Bitmap](https://github.com/alicelee)
+   - X: [Sven Bitmap](https://twitter.com/Sven__btc)
 
 2. **Echelon.eth**
    - Role: Advisor
