@@ -17,7 +17,7 @@
    - 
 4. **brc20punk**
    - Role: System architect
-   - X: [bobjohnson](https://twitter.com/brc20punk)
+   - X: [brc20punk](https://twitter.com/brc20punk)
   
 ## Visonary Team
 
