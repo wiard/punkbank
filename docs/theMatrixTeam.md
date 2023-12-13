@@ -5,11 +5,11 @@
 
 1. **Bullish Teddy**
    - Role: Strategy manager
-   - X: [Bullish Teddy](https://github.com/johndoe)
+   - X: [Bullish Teddy](https://twitter.com/bullish_teddy)
 
 2. **Bôi**
    - Role: Head Communications
-   - X: [Bôi](https://github.com/janesmith)
+   - X: [Bôi](https://twitter.com/Sunbaeeeeeee)
 
 3. **Yu I**
    - Role: System architect
@@ -27,7 +27,7 @@
 
 2. **Echelon.eth**
    - Role: Advisor
-   - X: [echelon.eth](https://github.com/charliebrown)
+   - X: [echelon.eth](https://twitter.com/html_eth)
 
 ## Quality Assurance Team
 
