@@ -18,6 +18,12 @@
 4. **brc20punk**
    - Role: System architect
    - X: [bobjohnson](https://twitter.com/brc20punk)
+  
+## Visonary Team
+
+1. **Umeko**
+   - Role: Visonary
+   - GitHub: [Umeko](https://twitter.com/NFTsistersJAPAN)
 
 ## Advising Team
 
@@ -29,12 +35,6 @@
    - Role: Advisor
    - X: [echelon.eth](https://twitter.com/html_eth)
 
-## Quality Assurance Team
 
-1. **Eva Garcia**
-   - Role: QA Tester
-   - GitHub: [evagarcia](https://github.com/evagarcia)
 
-2. **Mike Williams**
-   - Role: QA Analyst
-   - GitHub: [mikewilliams](https://github.com/mikewilliams)
+
