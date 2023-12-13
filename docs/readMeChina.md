@@ -11,10 +11,10 @@
 
 # Parcel.bitmap.object是创建无尽数字宇宙的方法
 这些钻石代码将在 Parcel.district.bitmap.object 世界中保存数千年.
-- [矩阵代码：钻石](/docs/codebase.md)
-- [一个矩阵示例：LOOKING-GLASS](/docs/story.md)
-- [用例：宝藏](/docs/usecases.md)
-- [银行：真相](/docs/bank.md)
+- [矩阵代码：钻石](codebase.md)
+- [一个矩阵示例：LOOKING-GLASS](story.md)
+- [用例：宝藏](usecases.md)
+- [银行：真相](bank.md)
 
 - [我们的路线图：未来](roadmapChina.md)
 - [团队：我们真正的秘密](theMatrixTeam.md)
