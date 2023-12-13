@@ -3,27 +3,31 @@
 
 ## Development Team
 
-1. **John Doe**
-   - Role: Lead Developer
-   - GitHub: [johndoe](https://github.com/johndoe)
+1. **Bullish Teddy**
+   - Role: Strategy manager
+   - X: [Bullish Teddy](https://github.com/johndoe)
 
-2. **Jane Smith**
-   - Role: Frontend Developer
-   - GitHub: [janesmith](https://github.com/janesmith)
+2. **Bôi**
+   - Role: Head Communications
+   - X: [Bôi](https://github.com/janesmith)
 
-3. **Bob Johnson**
-   - Role: Backend Developer
-   - GitHub: [bobjohnson](https://github.com/bobjohnson)
+3. **Yu I**
+   - Role: System architect
+   - X: [Yu I](https://github.com/bobjohnson)
+   - 
+4. **brc20punk**
+   - Role: System architect
+   - X: [bobjohnson](https://github.com/bobjohnson)
 
-## Design Team
+## Advising Team
 
-1. **Alice Lee**
-   - Role: UI/UX Designer
-   - GitHub: [alicelee](https://github.com/alicelee)
+1. **Sven Bitmap**
+   - Role: Investor
+   - X: [Sven Bitmap](https://github.com/alicelee)
 
-2. **Charlie Brown**
-   - Role: Graphic Designer
-   - GitHub: [charliebrown](https://github.com/charliebrown)
+2. **Echelon.eth**
+   - Role: Advisor
+   - X: [echelon.eth](https://github.com/charliebrown)
 
 ## Quality Assurance Team
 
