@@ -12,6 +12,53 @@ Use cases are: (1) Creating unique connections between tokens (representing uniq
 Calculation: a Matrix with 3 x 3 squares and each one having 21.000.000 unique datapoints, means for the whole picture: (9 x 21.000.000) windows that can look at another unique window for a short moment of time. After that moment a new connection is made with another datapoint looking at another available window. (these are all available for minting on @unisat and the numbers are .111 .110 .010 .011 .001 .101 .002 .012 .112)
 <img width="1373" alt="Drawing-438 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/70f70b87-16c6-43b5-b1b5-f45599838315">
 
+## 2. Making Usecases within One Matrix using Parcels from different Bitmaps
+
+### Unlocking Insights: Student Performance Evaluation
+
+# Bitcoin Transaction Mirroring with 3x3 Matrix
+
+## Overview
+
+This use case involves creating a 3x3 matrix that mirrors a transaction on the Bitcoin Blockchain. Each cell in the matrix corresponds to a specific aspect or detail related to the mirrored transaction.
+
+## Matrix Structure
+
+The 3x3 matrix is structured as follows:
+
+| Parcel Attribute | Matrix Cell       | Description                                           |
+|-------------------|-------------------|-------------------------------------------------------|
+| Transaction ID    | (1,1)             | Unique identifier for the mirrored Bitcoin transaction|
+| Timestamp         | (1,2)             | Timestamp of the mirrored transaction                |
+| Amount            | (1,3)             | The amount of Bitcoin involved in the transaction     |
+| Sender Address    | (2,1)             | Bitcoin address of the sender in the mirrored transaction|
+| Receiver Address  | (2,2)             | Bitcoin address of the receiver in the mirrored transaction|
+| Transaction Fee   | (2,3)             | Fee associated with the mirrored Bitcoin transaction  |
+| Input Data        | (3,1)             | Additional input data or metadata related to the transaction|
+| Confirmations     | (3,2)             | Number of confirmations received for the mirrored transaction|
+| Status            | (3,3)             | Current status of the mirrored Bitcoin transaction    |
+
+## Use Case Steps
+
+1. **Parcel Creation**: A new parcel is created to mirror a specific Bitcoin transaction. The parcel's name is derived from the transaction ID.
+
+2. **Matrix Filling**: The created 3x3 matrix is populated with relevant details extracted from the mirrored Bitcoin transaction.
+
+3. **Blockchain Interaction**: The matrix is linked to the Bitcoin Blockchain, and data is fetched to fill in the cells of the matrix.
+
+4. **Visualization**: Users can visualize and analyze the mirrored Bitcoin transaction by referring to the filled 3x3 matrix. The matrix provides a structured view of transaction details.
+
+## Benefits
+
+- **Data Organization**: The matrix organizes Bitcoin transaction details in a structured manner, making it easier to understand and analyze.
+
+- **Transaction Comparison**: Users can compare multiple mirrored transactions through their respective matrices, facilitating analysis and pattern recognition.
+
+- **Efficient Information Retrieval**: The matrix structure allows for efficient retrieval of specific details related to a mirrored Bitcoin transaction.
+
+For more information, refer to the [Bitcoin Matrix Mirroring Documentation](#link-to-documentation).
+
+
 ## 2. Student Performance Evaluation
 
 
