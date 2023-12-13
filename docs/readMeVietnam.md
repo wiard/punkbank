@@ -7,12 +7,13 @@ Bưu kiện, giải pháp cho mọi khía cạnh giá trị trong cuộc sống.
 
 # Bưu kiện.bitmap.object là cách tạo ra một vũ trụ kỹ thuật số vô tận
 Đây là những đoạn mã kim cương sẽ tồn tại hàng nghìn năm trên thế giới bưu kiện.district.bitmap.object.
-- [Mã về ma trận: DIAMONDS](/docs/codebase.md)
-- [Một ví dụ về Ma trận: KÍNH NHÌN](/docs/story.md)
-- [Các trường hợp sử dụng: TREASURE](/docs/usecases.md)
-- [NGÂN HÀNG: SỰ THẬT](/docs/bank.md)
-- [Lộ trình của chúng tôi: TƯƠNG LAI](/docs/roadmap.md)
-- [我们的路线图：未来](/docs/roadmapChina.md)
+- [Mã về ma trận: DIAMONDS](codebase.md)
+- [Một ví dụ về Ma trận: KÍNH NHÌN](story.md)
+- [Các trường hợp sử dụng: TREASURE](usecases.md)
+- [NGÂN HÀNG: SỰ THẬT](bank.md)
+- [Lộ trình của chúng tôi: TƯƠNG LAI](roadmap.md)
+- [我们的路线图：未来](roadmapChina.md)
+- [Nhóm: BÍ MẬT thực sự của chúng tôi](theMatrixTeam.md)
 
 # Thế giới của Bitmappunk: Giải pháp Metaverse được đơn giản hóa
 
