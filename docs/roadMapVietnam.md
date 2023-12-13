@@ -1,6 +1,6 @@
 # Lộ trình dự án $ECH
 
-- [Trong trường hợp bạn muốn về HOME: trang BASE](../README.md)
+- [Trong trường hợp bạn muốn về HOME: trang BASE](readMeVietnam.md)
 
 # Lộ trình mã thông báo ECH
 
