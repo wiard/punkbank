@@ -23,7 +23,7 @@
 
 1. **Umeko**
    - Role: Visonary
-   - GitHub: [Umeko](https://twitter.com/NFTsistersJAPAN)
+   - X: [Umeko](https://twitter.com/NFTsistersJAPAN)
 
 ## Advising Team
 
