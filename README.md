@@ -19,6 +19,7 @@ These are the pieces of diamond code that will survive for thousands of years on
 - [The BANK: The TRUTH](/docs/bank.md)
 
 - [Our Roadmap: The FUTURE](/docs/roadmap.md)
+- [我们的路线图：未来](/docs/roadmapChina.md)
 
 
 # Bitmappunk's World: A Simplified Metaverse Solution
