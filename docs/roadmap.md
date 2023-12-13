@@ -2,36 +2,26 @@
 
 - [In case you want to go HOME: the BASE page](../README.md)
 
-## Stage 1: Exploring 3x3 Matrix in Simple Gaming Solutions
+# ECH Token Roadmap
 
-### Tasks
-- [ ] Conduct market research on existing gaming solutions using matrices.
-- [ ] Analyze the feasibility of incorporating a 3x3 matrix in simple gaming scenarios.
-- [ ] Develop a prototype or proof of concept for a basic game using the 3x3 matrix.
-- [ ] Gather feedback from the community and potential users.
-- [ ] Iterate and improve the gaming solution based on received feedback.
-- [ ] Find connections in the Bitmap Space to establish a Parcel Market.
+The simple roadmap for ECH token is outlined below:
 
-## Stage 2: Semantic Reasoning with 3x3 Matrix Numbers
+**Stage 1 (December 2023 - January 2024):**
+- Exploring inscriptions in Bitmap
+- Discovering Parceling on Bitmap
+- Making a Matrix on Bitmap
+- Combining several Bitmaps in One Matrix
 
-### Tasks
-- [ ] Investigate semantic reasoning applications of the 3x3 matrix with numerical values.
-- [ ] Explore ways to represent names or meaningful information using matrix elements.
-- [ ] Develop algorithms or models for semantic reasoning within the 3x3 matrix.
-- [ ] Create a prototype showcasing the semantic reasoning capabilities.
-- [ ] Engage with the community and experts to validate the approach.
-- [ ] Enhance the system based on feedback and insights.
+**Stage 2 (January - February 2024):**
+- Having a wallet attached to the website
+- Having 9 different input fields on the website
+- Acting upon Bitmap through the $ECH token
+- Creating new Matrices with the $ECH browser
 
-## Stage 3: Implementation of Use Cases with 3x3 Matrix Weighing Factors and Nash's Equilibrium
+**Stage 3 (February - April 2024):**
+- Adding the .element from @theblockrunner to the ECH protocol
+- Using Names and Numbers to combine parcels of Bitmap
+- Using Names and Numbers to explore Reasoning on the Content
+- Showing the POWER of Reasoning on Bitmap and using NATs
 
-### Tasks
-- [ ] Define specific use cases for applying weighing factors within the 3x3 matrix.
-- [ ] Investigate Nash's equilibrium theories and their potential applications.
-- [ ] Implement use cases integrating weighing factors and Nash's equilibrium.
-- [ ] Conduct thorough testing to ensure robustness and reliability.
-- [ ] Seek collaboration and feedback from experts in game theory and cryptography.
-- [ ] Iterate on the project based on received feedback and optimize for real-world scenarios.
-
-# Conclusion
-
-The outlined roadmap aims to progressively explore and implement the potential of a 3x3 matrix in gaming solutions, semantic reasoning, and advanced cryptographic applications. Each stage involves community engagement and iterative development to ensure a well-rounded and valuable end product.
+For more details, visit the [MechTrix website](https://mechtrix.io/).
