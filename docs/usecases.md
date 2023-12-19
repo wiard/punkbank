@@ -2,6 +2,14 @@
 
 - [Go back to HOME: the BASE page](../README.md)
 
+## 1. The military matrix
+
+- This is a traditional 3x3 military matrix, with 9 times the combat power deployed in 9 positions and 1 times the combat power deployed in 1 position. In such a military matrix, no matter which angle the enemy attacks from, they will encounter the same 15X difficulty value!
+- The 3x3 matrix is ​​the optimal path of the matrix. Arrange 1-9 per space, and any space is further subdivided into 3x3. This is a distributed display framework. Consistent with game theory and Nash equilibrium. In ancient Chinese military formations, this 3x3 matrix was used to allocate limited forces to achieve the best defense and attack effects.
+<img width="273" alt="Drawing-438 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/5d851287-9d80-4ac6-bb5b-f85c27d84b50">
+
+
+
 ## 1. Unique connections in a Matrix with verticals of 21.000.000 BRc20-tokens each
 
 The use of a 3x3 Matrix to have all possible connections is a very viable one. Especially when on each square in The Matrix of punkbank.bitmap is a stack of 21.000.000 BRC20-tokens to be minted out.
