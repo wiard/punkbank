@@ -6,7 +6,8 @@
 
 - This is a traditional 3x3 military matrix, with 9 times the combat power deployed in 9 positions and 1 times the combat power deployed in 1 position. In such a military matrix, no matter which angle the enemy attacks from, they will encounter the same 15X difficulty value!
 - The 3x3 matrix is ​​the optimal path of the matrix. Arrange 1-9 per space, and any space is further subdivided into 3x3. This is a distributed display framework. Consistent with game theory and Nash equilibrium. In ancient Chinese military formations, this 3x3 matrix was used to allocate limited forces to achieve the best defense and attack effects.
-<img width="273" alt="Drawing-438 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/5d851287-9d80-4ac6-bb5b-f85c27d84b50">
+<img width="273" alt="Drawing-438 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/5bb9f11a-b885-44e1-ae03-54a1e08dc225">
+
 
 
 
