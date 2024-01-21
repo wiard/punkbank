@@ -20,17 +20,19 @@ These are the pieces of diamond code that will survive for thousands of years on
 
 - [Our Roadmap: The FUTURE](/docs/roadmap.md)
 - [我们的路线图：未来](/docs/roadmapChina.md)
-- [Lộ trình của chúng tôi: TƯƠNG LAI](/docs/roadMapVietnam.md)
-
 - [The Team: Our Real SECRETS](/docs/theMatrixTeam.md)
 
 
 # Bitmappunk's World: A Simplified Metaverse Solution
 
-People LOVE numbers and people LOVE to work together when the goal is set. Thats why we from `punkbank.bitmap` have chosen this opportunity to first create a smaller and happier world on Bitcoin. We do this with a clever idea, creating more simplicity on ideas that already worked. Bitmap Theory of Bitoshi Blockamoto has resulted in an amazing pace of adoption. It did adopt so fast because the people from all walks of life and from any culture or country understood the concept right away. Building a Digital World on a Programmable Solution, the amazing Bitcoin. This concept of a genius, Satoshi Nakamoto, has set many many new ideas in movement. Even whole economies are being built on Bitcoin and other chains that soon have started following this amazing vision, a Trustless Digital Economy where tokens are built in as keepers of trust and innovation. 
+To work with Bitmaps is to see a simple surface mirroring the Bitcoin Blocks. The main interest or subject of Bitmap is the surface and the parcels that represent transactions on the original Bitcoin. This parcel-idea is implemented on Bitmap as a way to have boxes on this Bitmap surface and with parcels one can do a lot. 
+First of all: the parcels are a subset of the Bitmap as the transaction is a child from the Bitcoin Block. The parcel being a box or a subset from the Bitmap means one can use these parcel for several goals. One of those is to put a number, a word or a treasure in the box.
 
-As the Bitcoin is a very simple and straightforward solution to have better ways of people transacting what is of value to them, I envision that the biggest value to us all is how we work together on the available knowledge in order to create a better world. In my mind the same question has always arisen: why can't we work together in such a way that we find common causes and common goals and work from there to create better circumstances for all. 
-The great invention of Bitcoin and its implication for creating an unbreakable economy that people can trust stroke me immediatly as a clever solution, esecially when I saw applications coming that involved real world use cases that were solved with the blockchain and the tokens that were used to secure the blockchain and its transactions.
+One of the problems with Bitmap though is that bij implementing it as the only world on Bitcoin one can not reason on Bitmaps like one would do on other surfaces in the normal world. Thats why nobody came yet upon the plan to have these parcels used in een different surface, apart from Bitmap.
+
+With the introduction of NATs by the Blockrunner there was some hope that a better approach would become possible. A way to reason upon Bitmap as a way to reason on surfaces. Making new surfaces and by that collecting parcels from different Bitmaps and having new combinations involved. For example, parcels from different Bitmap owners on one NAT surface. Would that become possible a world would open up for people to unite efforts on a comprehensible vision as Bitmaps.
+
+To state this basic vision again: Bitmap is a good way to represent Bitcoin as a surface to do development on. It's a very clear structure of an apporach that speaks to the larger amount of people that have no developers experience.
 
 ## The amazing success of a simple idea
 
