@@ -40,25 +40,24 @@ Just like anybody else I was in kind of a tunnelvision though where it seemed to
 This very old idea that we are all caught up in the Matrix is fro a movie that we all know. To me the Matrix is a surface, just like Bitmaps, but now just for the use of simple calculations. Just like parcels on Bitmaps can be filled with numbers and other inscriptions, so can the squares of my Matrix be filled with Inscriptions that are to be used for calculations. Calculations of all kinds that are be looked into later. 
 Main thing is that a Matrix is simpler than an endless number of parcel spread around on more than 800.000 bitmaps and a Matrix is very much used in Science and even in history by Chinese Army theorists.
 
-
-<img width="307" alt="Drawing-440 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/cccd77c8-c448-45be-acc1-03ee2788b301">
-
-
 ## How to go on from now
 
-Of coarse i cannot do all this on my own and I need to build a community that tries all these amazing ideas out. The fractionlized ownership, the encrypted vault on Bitcoin. All these ideas have to be tried out in the community and be organized in a way that people feel the need to stay committed and to continue to innovate. This will only work when one sees the value of the $ech coin climb as well as the inventions that one is able to make woth this simple subject, the 3x3 Matrix on Bitmap.
-Bitmap is a proven success. Parceling needs to become a success and the Digital Matter Theory of the BlockRunner also needs to be connected with the Parceling because it enables different communities to work on the same solution and this is a multifunctional Metaverse where reasoning on Words and Numbers is an absolute necessity. With this simple way of implementing Reasoning on Words and Numbers we have cerated a laboratory for experimenting with Artificial Intelligence in a pleasant and Fun way and even creating value with it. Because all thesde number and Words can be configured in ways that people want to start to collect them. 
+Once Inscriptions are seen as a better way to build a Trustless Web, the organization of these Inscriptions can be seen in a different light. In fact everything organized on Ordinals can be re-adjusted for a better usecase. Ordinals can stay as it is now, being a secure provider of an Inscription Layer on Bitcoin, but the approach of new initiatves will become more centered of having a vision why we would need Inscriptions in the first place. 
+For a start its nice that people use Inscriptions to scratch the Rock that they love so much, but a movement towards meainingfulness on the same Bitcoin, is certainly the next phase. Things can get pretty boring with all the Cats, Geeze and useless names on Bitcoin. 
 
-## What I foresee with my Matrix on Bitmap
+## Now with Matrices and other things
 
-My wish is to see people of all cultures and all walks of life to work together in a way that is profitabe and encouraging for us all. I believe that with Technology like Bitcoin and Artificial Intelligence, we have entered the ages of Abundance. We have enough mental and physical resources to live in a peaceful and good way with everyone on our beautiful planet. The only thing we need to decide is that we WANT to create a united wolrd. 
-And this has become possible by combining Bitmap Theory, Digital Matter Theory and my Matrix Theory all in one. And build it together on our beloved Bitcoin.
+Besides the use of Matrices as surfaces to put Inscriptions on there needs to come another approach on Inscriptions and this is the re-use of Inscriptions that have some meaning. Not just for saving energy and inscription fees but most of all to give new comers on Ordinals Theory some sense of direction, instead of just being there for the pump of the next token or coin .
 
-# The unexpected advantages of this simplified world built on Bitcoin
+Thats why simpe constructions of words are needed. Words that are put together in a simple format and that express together more than each of these words individually. Thats why the word-constructs of ECH are called Word Triangles. These are words that together form some added meaning such that communities are able to build ideas around carefully choses words. When a word-construct is addopted by a community it becomes easier to create new collections within these word constructs. 
 
-Grounded in a theory encompassing ALL MATTER, Bitmappunk offers a simplified solution by addressing NAT Theory through specific inscriptions, advocating for the user-friendly Sats Names initiative for Metaverse entry, and proposing the inscription of NATs through Sats Names, departing from the developer-oriented JSON format. In Bitmap Enhancement, Bitmappunk acknowledges the success of Bitmaps and introduces a higher element, `.object` or `.element`, for advanced reasoning, also incorporated within Sats Names. The solution prioritizes Simplified Integration by focusing on readability and accessibility for all users, along with implementing an off-chain approach for efficient indexing to mitigate Bitcoin Mempool congestion. In PunkBank Integration, Bitmappunk proposes Parcel Theory, suggesting the minting of BRC20 Tokens on each parcel within a Matrix and envisioning vertical integration of Economies within the PunkBank Parcel Theory.
 
-The introduction of NATs by BlockRunner has introduced friction in the Bitmap Metaverse World, concurrently with Ordinal Mempools on Bitcoin facing congestion, raising concerns for Bitcoin-based Eco Systems. Bitmappunk, embodying a Metaverse theory encompassing ALL MATTER, presents a simplified solution by introducing Reasoning on Ordinals and utilizing an Off-Chain approach.
+
+# True innovation is the peer to peer trade of value
+
+As the situation is now the people who are first on Ordinals have taken in their positions to have circles created around them that decide for the narratives that are carried by the larger community. This means that newcomers have to adapt themselves to the rules of the people who are already there. And this is not a fair ground for addoption of the Trustless Web and the understanding of what this new technology could mean for people.
+
+We as early adaptors or adopters of Ordinals Theory we have the duty to come up with a framework that is user friendly for the newcomers in this complicated landscape and the future generations that will come in this space.
 
 
 
