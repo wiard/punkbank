@@ -1,4 +1,4 @@
-# Bitmappunk: having simple things onm Ordinals.
+# ECH: having simple things onm Ordinals.
 Parcels, the solution for every aspect of value in life.
 
 
