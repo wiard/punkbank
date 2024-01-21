@@ -7,7 +7,7 @@ Parcels, the solution for every aspect of value in life.
 
 
 
-# Bitmappunk's World: A Simplified Metaverse Solution
+# The Inscriptions or the Rock need to become dynamic
 
 To work with Bitmaps is to see a simple surface mirroring the Bitcoin Blocks. The main interest or subject of Bitmap is the surface and the parcels that represent transactions on the original Bitcoin. This parcel-idea is implemented on Bitmap as a way to have boxes on this Bitmap surface and with parcels one can do a lot. 
 First of all: the parcels are a subset of the Bitmap as the transaction is a child from the Bitcoin Block. The parcel being a box or a subset from the Bitmap means one can use these parcel for several goals. One of those is to put a number, a word or a treasure in the box.
