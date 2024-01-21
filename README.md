@@ -1,5 +1,5 @@
 # Building from zero on Ordinals.
-Parcels, the solution for every aspect of value in life.
+'Its not too late to bring some true value in this space.'
 
 
 <img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/ca073434-656d-442e-bcc0-b53fc3fd575d">
