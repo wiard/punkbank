@@ -53,14 +53,8 @@ Just like anybody else I was in kind of a tunnelvision though where it seemed to
 
 ## The Matrix
 
-The ideas were: Fractionelized ownership can be realized with this 3x3 Matrix. The person who gave me this idea said: "We can digitally cut a Lamborghini in 9 equal pieces and spread them over your Matrix."
-ANother person said: "We can use these 9 placeholders of the Matrix to encrypt a vault on Bitcoin and have a contest who can break the code. We can even mine Bitmaps with that or other constructs."
-
-To summarize all this: we can do anything with a simple matrix on made of Parcels on Bitmap and reason in any way to explore our knowledge and have a exciting way of working together and finding communality in achieving knowledge in a fun way.
-
-Besides the Bitmap Theory of Bitoshi Blockamoto we have adopted the Digital Matter Theory of the YouTube Education Channel TheBlockRunner because we think Iman and WIlliam of the Blockrunner Team has found a genuine way to reason upon Bitmap Theory in a way that enlarges the possibilities of an ever evolving Metaverse Built on the Bitcoin.
-
-But now first, the $ECH-token, its available on the marketplace of Unisat. [Unisat](https://unisat.io), the BEST online Marketplace for BRC20 tokens and Ordinals.
+This very old idea that we are all caught up in the Matrix is fro a movie that we all know. To me the Matrix is a surface, just like Bitmaps, but now just for the use of simple calculations. Just like parcels on Bitmaps can be filled with numbers and other inscriptions, so can the squares of my Matrix be filled with Inscriptions that are to be used for calculations. Calculations of all kinds that are be looked into later. 
+Main thing is that a Matrix is simpler than an endless number of parcel spread around on more than 800.000 bitmaps and a Matrix is very much used in Science and even in history by Chinese Army theorists.
 
 
 <img width="307" alt="Drawing-440 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/cccd77c8-c448-45be-acc1-03ee2788b301">
