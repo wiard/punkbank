@@ -36,28 +36,22 @@ To state this basic vision again: Bitmap is a good way to represent Bitcoin as a
 
 ## The amazing success of a simple idea
 
-Building Virtual Worlds with Non- Arbitrary Data derived from the Bitcoin, envisioned by Bitoshi Blockamoto in March 2023 not only enlightened me to create new things based on this onbreakable bitcoin, many many people came to this idea and Bitmap Theory resulted in real world but digital use cases.
-What the world needs next, I said to myself is a world based on words that can be reasoned upon. I came up this idea because, just like Bitmap, words and even sentences could be inscribed on Bitcoin with the Ordinal Theory given to us by Casey Rodarmor. With the opportunity for inscribing words on Bitcoin, people saw that we could make words immortal on the Unbreakable Valuechain Bitcoin.
+Doing Inscriptions on Bitcoin with the Ordinals of Casey Rodarmor opens up the understanding of the Bitcoin for more people and this is good for Bitcoin adoption. Since the inception of Ordinals many people have inscribed their personal art and ideas on Bitcoin and one of those is Bitmaps. 
+When NATs came I decided to try my own coin, called ECH, because I saw a real flaw in Bitmap, NATs and Ordinals. All three have no coin, or token that fuels the action on their projects and with that all of these projects risk to be taken over by initiatives that create a lot of noise. 
 
-The next step is now to reason on these words and this is based on the concept of the Semantic Web that was invented a long time ago by the same man who invented the internet, Tim Berners Lee, but it never fell into the eye of the larger public. Bitcoin was slowly accepted by the larger population and Bitmap even very fast. For Bitmap being accepted by a wide group of people it took like a month. 
-This amazing event opened my mind and made me decide to join the Bitmap Community and even open an account on X with my own unique and inscribedon Bitcoin name, brc20punk. After that I started communicating wit the Bitmap Community and offering ideas that one could do with Bitmap. 
-What I saw was that people had many ideas to build on Bitmap and most of the ideas were images. Immediatly after the imgaes that were being traded on the brc20-standard came the 3D all immersive game that people went into and started developing.
-Still the use of words that, in my vision, needed to start working by having layers of reasoning upon, were missing.
+Without a token there is no responibility. Anyone with a good story can come in and use Ordinals, Bitmaps or NATs for their own good. In the end this will bring serious problems to these different inititiatives.
 
-## I have to do something new by myself!
+One of the results of a project like Bitmap or NATs is that they have become dependent of the Indexer to enable their project. This looks like a good option when you are befriended by those that run the indexer, but what if the team on the indexer is to busy to accept your project to their effort. You are left out and the ones with earlier access to the Ordinals Indexer has an advantage above the newcomers. Which, in the end, stalls true innovation. The new environment on Ordinals presumes innovation but in fact it stops innovation on its theory.
 
-Another very important aspect that was not being adopted by the people who loved the Bitmap as a surface, was the parcel on the bitmap. The parcel represents the Transaction, in Bitoshi Blockamoto's theory and therefor, I felt, this parcel needs to become the value of Bitmap. I came up with several ideas for these parcel. Like giving them for free to the people who owned bitmaps, or to create a Stablecoin on the total collection of parcels. It seemed all to complicated though and people were not accepting this idea of mine.
+## Now with ECH
 
-"I have to start something on my own," I slowly realized and I met this youg man, called Echelon.eth (on Twitter [echelon.eth](https://twitter.com/@html_eth)) on X who expressed the same vision as me, that words were very important in the virtual world, because they provide instant meaning to people and they make it easier for evryone to understand what is ment or who we need to look for when its a certain subjet concerned. Another person who also shared the same idea about words was HopefulofNFT. 
-Combined with parcel I decided to create my own coin and use this coin to first, empower people to parcel on their Bitmaps and parcel these in a sepecific format that everyone understands: in the form of a 3x3 Matrix. Everyone loves a simple form as a matrix and what come extra to this, one can put numbers in this 9 places of the Matrix. The numbers 1-9. 
+The project of ECH started, just like many other projects, as an experiment. I was looking for months at what happened on Bitmap and to my surprise, many developers came in with interesting ideas but no one really came with a new vision on Parcels. 
 
-And a great idea was born!
+In the beginning I talked with many people within the Bitmap community and I shared many ideas. The general feeling was that parcels needed to be addressed as a topic and we spoke about some solutions. One of those was to use parcels as a stablecoin, because there are so many.
 
-Numbering will unite all people of the world because everyone on this planet loves numbering and everyone on this planet loves simple geometrical forms. This is in every culture and with every human being the same.
+Just like anybody else I was in kind of a tunnelvision though where it seemed to be impossible to reason out of Bitmaps and have a wider world built on the same Bitcoin data as the Bitmaps were using. When the Blockrunner came with NATs I felt free to create my own matrices that were my type of Bitmaps but on a totally differnt principle. My Matrices are derived from Parcels and were a way to give some usability to parcels by having them close together on one bitmap. In a strict format. A 3x3 Matrix.
 
-The next big step is to understand what one can do with these 9 numbers and right away, after my $ech coin was minted out in just a few hours, I realized that people all over the world were thinking exactly the same as I. Number on a matrix on Bitmap are an excellent idea to try all kinds of use cases out. People even strated providing me with ideas.
-
-## Peoples reactions on The Matrix on Bitmap
+## The Matrix
 
 The ideas were: Fractionelized ownership can be realized with this 3x3 Matrix. The person who gave me this idea said: "We can digitally cut a Lamborghini in 9 equal pieces and spread them over your Matrix."
 ANother person said: "We can use these 9 placeholders of the Matrix to encrypt a vault on Bitcoin and have a contest who can break the code. We can even mine Bitmaps with that or other constructs."
