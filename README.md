@@ -7,24 +7,6 @@ Parcels, the solution for every aspect of value in life.
 
 
 
-
-
-
-# The parcel.bitmap.object is the way to create an endless digital universum
-These are the pieces of diamond code that will survive for thousands of years on the parcel.district.bitmap.object world.
-- [Code on Matrices: The DIAMONDS](/docs/codebase.md)
-- [One Matrix example: The LOOKING-GLASS](/docs/story.md)
-- [The USE CASES: The TREASURE](/docs/usecases.md)
-- [The BANK: The TRUTH](/docs/bank.md)
-
-- [Our Roadmap: The FUTURE](/docs/roadmap.md)
-- [我们的路线图：未来](/docs/roadmapChina.md)
--
-- 
-
-- [The Team: Our Real SECRETS](/docs/theMatrixTeam.md)
-
-
 # Bitmappunk's World: A Simplified Metaverse Solution
 
 To work with Bitmaps is to see a simple surface mirroring the Bitcoin Blocks. The main interest or subject of Bitmap is the surface and the parcels that represent transactions on the original Bitcoin. This parcel-idea is implemented on Bitmap as a way to have boxes on this Bitmap surface and with parcels one can do a lot. 
