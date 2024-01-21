@@ -1,4 +1,4 @@
-# ECH: having simple things onm Ordinals.
+# ECH: having simple things on Ordinals.
 Parcels, the solution for every aspect of value in life.
 
 
