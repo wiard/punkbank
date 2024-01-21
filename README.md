@@ -1,4 +1,4 @@
-# Bitmappunk: creating simplictity on The Matrix of Bitmap.
+# Bitmappunk: having simple things onm Ordinals.
 Parcels, the solution for every aspect of value in life.
 
 
