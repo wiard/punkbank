@@ -45,7 +45,7 @@ Main thing is that a Matrix is simpler than an endless number of parcel spread a
 Once Inscriptions are seen as a better way to build a Trustless Web, the organization of these Inscriptions can be seen in a different light. In fact everything organized on Ordinals can be re-adjusted for a better usecase. Ordinals can stay as it is now, being a secure provider of an Inscription Layer on Bitcoin, but the approach of new initiatves will become more centered of having a vision why we would need Inscriptions in the first place. 
 For a start its nice that people use Inscriptions to scratch the Rock that they love so much, but a movement towards meainingfulness on the same Bitcoin, is certainly the next phase. Things can get pretty boring with all the Cats, Geeze and useless names on Bitcoin. 
 
-- [In case you want to see: the Word Triangle page](.docs/wordtriangles.md)
+- [In case you want to see: the Word Triangle page](docs/wordtriangles.md)
 
 ## Now with Matrices and other things
 
