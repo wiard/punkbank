@@ -18,20 +18,22 @@ First of all: the parcels are a subset of the Bitmap as the transaction is a chi
 
 BRC20 tokens by @domodata made it possible to inscribe anything you want on the Bitcoin. People inscribed anything they wanted and with that creating typical crypto related names like 'pepe' and 'shitcoin'. Which is very nice but not a predicatablew world to reason upon. 
 
-For that matter I came up with the idea to build a small indexer based on what, to me, are the important and most entertaining people in the space. I wanted to write down the history instead of following the hype. Following the hype means forgetting we are here to build a future together.
+For that matter I came up with the idea to build a small indexer based on what, to me, are the important and most entertaining people in the space. I want to write down the history instead of following the hype. Following the hype means forgetting we are here to build a future together.
 
 # The edges and vectors in the space 
 
 With the introduction of NATs by the Blockrunner there was some hope that a better approach would become possible. A way to reason upon Bitmap as a way to reason on surfaces. Making new surfaces and by that collecting parcels from different Bitmaps and having new combinations involved. For example, parcels from different Bitmap owners on one NAT surface. Would that become possible a world would open up for people to unite efforts on a comprehensible vision as Bitmaps.
 
-To state this basic vision again: Bitmap is a good way to represent Bitcoin as a surface to do development on. It's a very clear structure of an apporach that speaks to the larger amount of people that have no developers experience. Nats was originally added to reason upon surfaces like Bitmaps but than it started to go off on its own.
+Nats was originally added to reason upon surfaces like Bitmaps but than it started to go off on its own.
 
 ## The amazing success of a simple idea
 
-Doing Inscriptions on Bitcoin with the Ordinals of Casey Rodarmor opens up the understanding of the Bitcoin for more people and this is good for Bitcoin adoption. Since the inception of Ordinals many people have inscribed their personal art and ideas on Bitcoin and one of those is Bitmaps. 
-When NATs came I decided to try my own coin, called ECH, because I saw a real flaw in Bitmap, NATs and Ordinals. All three have no coin, or token that fuels the action on their projects and with that all of these projects risk to be taken over by initiatives that create a lot of noise. 
+Doing Inscriptions on Bitcoin with the Ordinals of Casey @rodarmor opens up the understanding of the Bitcoin for more people and this is good for Bitcoin adoption. Since the inception of Ordinals many people have inscribed their personal art and ideas on Bitcoin and one of those is Bitmaps. 
+When NATs came I decided to have my own coin, called ECH, because I saw a real flaw in Bitmap, NATs and Ordinals. All three have no coin, or token that fuels the action on their projects and with that all of these projects risk to be taken over by other initiatives that make an equal amount of noise. Besides that I want to have an independent reasoning layer with a limmited set of added variables. So I had the 3x3 Matrix with its 1-9 numbers and the a-z Alphabet. What we do with the zero, we will decide later.
 
-Without a token there is no responsibility. Anyone with a good story can come in and use Ordinals, Bitmaps or NATs for their own good. In the end this will bring serious problems to these different inititiatives.
+Note: Without a token there is no responsibility. Anyone with a good story can come in and use Ordinals, Bitmaps or NATs for their own good. In the end this will bring serious problems to these different inititiatives.
+
+## The challenge of Indexing
 
 One of the results of a project like Bitmap or NATs is that they have become dependent of the Indexer to enable their project. This looks like a good option when you are befriended by those that run the indexer, but what if the team on the indexer is to busy to accept your project to their effort. You are left out and the ones with earlier access to the Ordinals Indexer has an advantage above the newcomers. Which, in the end, stalls true innovation. The new environment on Ordinals presumes innovation but in fact it stops innovation on its theory.
 
