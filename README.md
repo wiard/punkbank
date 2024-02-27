@@ -16,7 +16,7 @@ First of all: the parcels are a subset of the Bitmap as the transaction is a chi
 
 # Dynamic Inscriptions on the Rock 
 
-BRC20 tokens by @domodata made it possible to inscribe anything you want on the Bitcoin. People indeed anything they wanted and with that creating typical crypto related names like 'pepe' and 'shitcoin'. Which is very nice but not a predicatablew world to reason upon. 
+BRC20 tokens by @domodata made it possible to inscribe anything you want on the Bitcoin. People inscribed anything they wanted and with that creating typical crypto related names like 'pepe' and 'shitcoin'. Which is very nice but not a predicatablew world to reason upon. 
 
 For that matter I came up with the idea to build a small indexer based on what, to me, are the important and most entertaining people in the space. I wanted to write down the history instead of following the hype. Following the hype means forgetting we are here to build a future together.
 
