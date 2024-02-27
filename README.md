@@ -1,11 +1,17 @@
-# Building from zero on Ordinals.
-'Its not too late to bring some true value in this space.'
+# Having the Remote Control on Ordinals
 
+However you see it, blockchain is about numbers and letters. The perfect way to reach those is with the Remote Control of ECH. Built with chainhooks and Ordhooks with help of 
+@hirosystems
+Its an subjective way of building a community. Its about @ShizzySats @Yagobiverse, it's about @blockamoto, about the @TheBlockRunner, @junkfoodpkroot, @bc1Plainview, @realizingerin and many more. All the hero's of today and never to be forgotten.
+
+In the mean time, wen Ech. "Don't ask what your country can do for you, ask yourself what you can do for your country."
 
 <img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/ca073434-656d-442e-bcc0-b53fc3fd575d">
 
+# Building from zero on Ordinals.
 
-
+To work with Bitmaps is to see a simple surface mirroring the Bitcoin Blocks. The main interest or subject of Bitmap is the surface and the parcels that represent transactions on the original Bitcoin. This parcel-idea is implemented on Bitmap as a way to have boxes on this Bitmap surface and with parcels one can do a lot. 
+First of all: the parcels are a subset of the Bitmap as the transaction is a child from the Bitcoin Block. The parcel being a box or a subset from the Bitmap means one can use these parcel for several goals. One of those is to put a number, a word or a treasure in the box.
 
 # Dynamic Inscriptions on the Rock 
 
