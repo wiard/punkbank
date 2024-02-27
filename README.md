@@ -16,7 +16,11 @@ First of all: the parcels are a subset of the Bitmap as the transaction is a chi
 
 # Dynamic Inscriptions on the Rock 
 
-One of the problems with Bitmap though is that bij implementing it as the only world on Bitcoin one can not reason on Bitmaps like one would do on other surfaces in the normal world. Thats why nobody came yet upon the plan to have these parcels used in een different surface, apart from Bitmap.
+BRC20 tokens by @domodata made it possible to inscribe anything you want on the Bitcoin. People indeed anything they wanted and with that creating typical crypto related names like 'pepe' and 'shitcoin'. Which is very nice but not a predicatablew world to reason upon. 
+
+For that matter I came up with the idea to build a small indexer based on what, to me, are the important and most entertaining people in the space. I wanted to write down the history instead of following the hype. Following the hype means forgetting we are here to build a future together.
+
+# The edges and vectors in the space 
 
 With the introduction of NATs by the Blockrunner there was some hope that a better approach would become possible. A way to reason upon Bitmap as a way to reason on surfaces. Making new surfaces and by that collecting parcels from different Bitmaps and having new combinations involved. For example, parcels from different Bitmap owners on one NAT surface. Would that become possible a world would open up for people to unite efforts on a comprehensible vision as Bitmaps.
 
