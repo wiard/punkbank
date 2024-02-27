@@ -6,7 +6,8 @@ Its an subjective way of building a community. Its about @ShizzySats @Yagobivers
 
 In the mean time, wen Ech. "Don't ask what your country can do for you, ask yourself what you can do for your country."
 
-<img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/ca073434-656d-442e-bcc0-b53fc3fd575d">
+
+<img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/e273d1d4-f9a4-4e1a-83be-42b01bfff2ad">
 
 # Building from zero on Ordinals.
 
@@ -14,9 +15,6 @@ To work with Bitmaps is to see a simple surface mirroring the Bitcoin Blocks. Th
 First of all: the parcels are a subset of the Bitmap as the transaction is a child from the Bitcoin Block. The parcel being a box or a subset from the Bitmap means one can use these parcel for several goals. One of those is to put a number, a word or a treasure in the box.
 
 # Dynamic Inscriptions on the Rock 
-
-To work with Bitmaps is to see a simple surface mirroring the Bitcoin Blocks. The main interest or subject of Bitmap is the surface and the parcels that represent transactions on the original Bitcoin. This parcel-idea is implemented on Bitmap as a way to have boxes on this Bitmap surface and with parcels one can do a lot. 
-First of all: the parcels are a subset of the Bitmap as the transaction is a child from the Bitcoin Block. The parcel being a box or a subset from the Bitmap means one can use these parcel for several goals. One of those is to put a number, a word or a treasure in the box.
 
 One of the problems with Bitmap though is that bij implementing it as the only world on Bitcoin one can not reason on Bitmaps like one would do on other surfaces in the normal world. Thats why nobody came yet upon the plan to have these parcels used in een different surface, apart from Bitmap.
 
