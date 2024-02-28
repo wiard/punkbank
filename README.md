@@ -7,7 +7,31 @@ Its an subjective way of building a community. Its about @ShizzySats @Yagobivers
 In the mean time, wen Ech. "Don't ask what your country can do for you, ask yourself what you can do for your country."
 
 
+### The ECH remote Control moving with UTXO's
+
+In this metaphor, the City of Bitcoin is alive with construction, moves, and changes, reflecting the dynamic nature of the blockchain. UTXOs are the essential spaces within this city, holding the value waiting to be claimed and used in the vast network of transactions that keep the city thriving.
+
+
 <img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/e273d1d4-f9a4-4e1a-83be-42b01bfff2ad">
+
+
+Seeing UTXOs (Unspent Transaction Outputs) in Bitcoin through a metaphor can help clarify their role and function within the Bitcoin network. Imagine Bitcoin as a vast, global ledger that's not just a book but a bustling city. In this city, every transaction forms part of the architecture - buildings, houses, shops, and more.
+
+### The City of Bitcoin
+
+In the City of Bitcoin, every transaction creates or modifies buildings. When someone sends Bitcoin, it's like constructing a new building on a piece of land. This building represents the transaction. However, not all parts of a building are immediately occupied or used; some parts remain unspent or available for future use.
+
+### UTXOs as Unoccupied Apartments
+
+Imagine these unspent parts as unoccupied apartments within the buildings. These apartments (UTXOs) are valuable and waiting for someone with the right key to come in and use them. The key, in this case, is the digital signature that proves ownership of the Bitcoin associated with that UTXO.
+
+### Spending Bitcoin - Finding a New Tenant
+
+When you want to spend Bitcoin, it's akin to finding a new tenant for one of these unoccupied apartments. You use your key to unlock the apartment (UTXO), showing you have the right to use it. Then, in the process of spending, you move out, and the space becomes occupied by the new transaction. This process creates new unoccupied apartments (new UTXOs) in other buildings, ready for future transactions.
+
+### The Ledger as a City Map
+
+The Bitcoin ledger can be thought of as the city map, detailing every building, every apartment, and whether they are occupied or available (spent or unspent). Miners and nodes keep this map updated, ensuring everyone knows which spaces are available and which have recently found new occupants.
 
 # Building from zero on Ordinals.
 
