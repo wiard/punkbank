@@ -1,18 +1,12 @@
-### The Legacy
+### The Legacy of the ECH Remote Control
+
 As the Bitcoin universe expands, the tales of the psychots and their flying saucers will continue to inspire. They are a vivid reminder of the power of innovation, the importance of security, and the boundless potential of a world built on the principles of decentralization and trust.
 
 In this world, the psychots fly on, ever vigilant, ever daring, piloting their UTXOs through the endless sky of the Bitcoin network, writing the story of a digital revolution, one transaction at a time.
 
-
-
-
-
-
-
-
 <img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/e273d1d4-f9a4-4e1a-83be-42b01bfff2ad">
 
-In the vast expanse of the Bitcoin universe, a peculiar yet fascinating phenomenon unfolds, where Unspent Transaction Outputs (UTXOs) transform into flying saucers, piloted by an eclectic group of entities known as psychots. This is the story of the Bitcoin world, a place where the rules of physics are bent by the sheer force of cryptography and digital innovation.
+In the vast expanse of the Bitcoin universe, a peculiar yet fascinating phenomenon unfolds, where Unspent Transaction Outputs (UTXOs) are the flying saucers, piloted by an eclectic group of entities known as psychots. This is the story of the Bitcoin world, a place where the rules of physics are bent by the sheer force of cryptography and digital innovation.
 
 ### The Flight of the Psychots
 
@@ -42,73 +36,66 @@ Yet, navigating the Bitcoin universe is not without its challenges. The psychots
 
 In this world, psychots and their saucers coexist in a delicate balance, a dance of cryptography and digital wizardry that powers the Bitcoin network. They are the unsung heroes of this digital age, guardians of a new frontier where value knows no bounds, and transactions are as free as the psychots themselves.
 
-### The Legacy
-
-As the Bitcoin universe expands, the tales of the psychots and their flying saucers will continue to inspire. They are a vivid reminder of the power of innovation, the importance of security, and the boundless potential of a world built on the principles of decentralization and trust.
-
-In this world, the psychots fly on, ever vigilant, ever daring, piloting their UTXOs through the endless sky of the Bitcoin network, writing the story of a digital revolution, one transaction at a time.
-
-# An example of Using the ECH Matrix.
-
-To work with Bitmaps is to see a simple surface mirroring the Bitcoin Blocks. The main interest or subject of Bitmap is the surface and the parcels that represent transactions on the original Bitcoin. This parcel-idea is implemented on Bitmap as a way to have boxes on this Bitmap surface and with parcels one can do a lot. 
-First of all: the parcels are a subset of the Bitmap as the transaction is a child from the Bitcoin Block. The parcel being a box or a subset from the Bitmap means one can use these parcel for several goals. One of those is to put a number, a word or a treasure in the box.
-
-# Dynamic Inscriptions on the Rock 
-
-BRC20 tokens by @domodata made it possible to inscribe anything you want on the Bitcoin. People inscribed anything they wanted and with that creating typical crypto related names like 'pepe' and 'shitcoin'. Which is very nice but not a predicatablew world to reason upon. 
-
-For that matter I came up with the idea to build a small indexer based on what, to me, are the important and most entertaining people in the space. I want to write down the history instead of following the hype. Following the hype means forgetting we are here to build a future together.
-
-# The edges and vectors in the space 
-
-With the introduction of NATs by the Blockrunner there was some hope that a better approach would become possible. A way to reason upon Bitmap as a way to reason on surfaces. Making new surfaces and by that collecting parcels from different Bitmaps and having new combinations involved. For example, parcels from different Bitmap owners on one NAT surface. Would that become possible a world would open up for people to unite efforts on a comprehensible vision as Bitmaps.
-
-Nats was originally added to reason upon surfaces like Bitmaps but than it started to go off on its own.
-
-## The amazing success of a simple idea
-
-Doing Inscriptions on Bitcoin with the Ordinals of Casey @rodarmor opens up the understanding of the Bitcoin for more people and this is good for Bitcoin adoption. Since the inception of Ordinals many people have inscribed their personal art and ideas on Bitcoin and one of those is Bitmaps. 
-When NATs came I decided to have my own coin, called ECH, because I saw a real flaw in Bitmap, NATs and Ordinals. All three have no coin, or token that fuels the action on their projects and with that all of these projects risk to be taken over by other initiatives that make an equal amount of noise. Besides that I want to have an independent reasoning layer with a limmited set of added variables. So I had the 3x3 Matrix with its 1-9 numbers and the a-z Alphabet. What we do with the zero, we will decide later.
-
-Note: Without a token there is no responsibility. Anyone with a good story can come in and use Ordinals, Bitmaps or NATs for their own good. In the end this will bring serious problems to these different inititiatives.
-
-## The challenge of Indexing
-
-One of the results of a project like Bitmap or NATs is that they have become dependent of the Indexer to enable their project. This looks like a good option when you are befriended by those that run the indexer, but what if the team on the indexer is to busy to accept your project to their effort. You are left out and the ones with earlier access to the Ordinals Indexer has an advantage above the newcomers. Which, in the end, stalls true innovation. The new environment on Ordinals presumes innovation but in fact it stops innovation on its theory.
-
-## Now with ECH
-
-The project of ECH started, just like many other projects, as an experiment. I was looking for months at what happened on Bitmap and to my surprise, many developers came in with interesting ideas but no one really came with a new vision on Parcels. 
-
-In the beginning I talked with many people within the Bitmap community and I shared many ideas. The general feeling was that parcels needed to be addressed as a topic and we spoke about some solutions. One of those was to use parcels as a stablecoin, because there are so many.
-
-Just like anybody else I was in kind of a tunnelvision though where it seemed to be impossible to reason out of Bitmaps and have a wider world built on the same Bitcoin data as the Bitmaps were using. When the Blockrunner came with NATs I felt free to create my own matrices that were my type of Bitmaps but on a totally differnt principle. My Matrices are derived from Parcels and were a way to give some usability to parcels by having them close together on one bitmap. In a strict format. A 3x3 Matrix.
-
-## The Matrix
-
-This very old idea that we are all caught up in the Matrix is fro a movie that we all know. To me the Matrix is a surface, just like Bitmaps, but now just for the use of simple calculations. Just like parcels on Bitmaps can be filled with numbers and other inscriptions, so can the squares of my Matrix be filled with Inscriptions that are to be used for calculations. Calculations of all kinds that are be looked into later. 
-Main thing is that a Matrix is simpler than an endless number of parcel spread around on more than 800.000 bitmaps and a Matrix is very much used in Science and even in history by Chinese Army theorists.
-
-## How to go on from now
-
-Once Inscriptions are seen as a better way to build a Trustless Web, the organization of these Inscriptions can be seen in a different light. In fact everything organized on Ordinals can be re-adjusted for a better usecase. Ordinals can stay as it is now, being a secure provider of an Inscription Layer on Bitcoin, but the approach of new initiatves will become more centered of having a vision why we would need Inscriptions in the first place. 
-For a start its nice that people use Inscriptions to scratch the Rock that they love so much, but a movement towards meainingfulness on the same Bitcoin, is certainly the next phase. Things can get pretty boring with all the Cats, Geeze and useless names on Bitcoin. 
-
-- [In case you want to see: the Word Triangle page](docs/wordtriangles.md)
-
-## Now with Matrices and other things
-
-Besides the use of Matrices as surfaces to put Inscriptions on there needs to come another approach on Inscriptions and this is the re-use of Inscriptions that have some meaning. Not just for saving energy and inscription fees but most of all to give new comers on Ordinals Theory some sense of direction, instead of just being there for the pump of the next token or coin .
-
-Thats why simpe constructions of words are needed. Words that are put together in a simple format and that express together more than each of these words individually. Thats why the word-constructs of ECH are called Word Triangles. These are words that together form some added meaning such that communities are able to build ideas around carefully choses words. When a word-construct is addopted by a community it becomes easier to create new collections within these word constructs. 
 
 
+In this imaginative world where UTXOs are flying saucers piloted by psychots, the ECH (Encryption Control Hub) Remote Control serves as a crucial tool for maintaining the balance and integrity of the Bitcoin universe. Let's explore its role and functionalities:
 
-# True innovation is the peer to peer trade of value
+### The ECH Remote Control: Guardian of the Cryptographic Skies (2 ways)
 
-As the situation is now the people who are first on Ordinals have taken in their positions to have circles created around them that decide for the narratives that are carried by the larger community. This means that newcomers have to adapt themselves to the rules of the people who are already there. And this is not a fair ground for addoption of the Trustless Web and the understanding of what this new technology could mean for people.
+The ECH Remote Control is the central command system that monitors and regulates the flow of transactions across the Bitcoin network. It's not a device in the traditional sense but a sophisticated, decentralized network of protocols and algorithms designed to ensure the security, efficiency, and harmony of this digital world.
 
-We as early adaptors or adopters of Ordinals Theory we have the duty to come up with a framework that is user friendly for the newcomers in this complicated landscape and the future generations that will come in this space.
+### Functions of the ECH Remote Control
 
+- **Security Oversight:** The ECH monitors the cryptographic signatures and public keys that secure each transaction. It ensures that only valid transactions, verified by the correct private keys (the psychots' unique keys to their saucers), are allowed to proceed. This prevents unauthorized access and maintains the trustworthiness of the network.
 
+- **Transaction Verification:** It plays a crucial role in verifying the authenticity and integrity of each transaction. By scrutinizing the digital trails left by the flying saucers, the ECH ensures that every movement of value is legitimate and in accordance with the network's consensus rules.
 
+- **Network Health Monitoring:** The ECH keeps a vigilant eye on the overall health of the Bitcoin universe. It monitors traffic to prevent congestion and ensures that the network scales effectively to handle the increasing volume of transactions. This is akin to managing the flight patterns of the saucers to avoid collisions and ensure smooth navigation.
+
+- **Consensus Facilitation:** In this decentralized world, the ECH Remote Control is pivotal in facilitating consensus among the network's nodes (the observation points stationed across the cryptographic sky). It helps in coordinating the agreement on the state of the blockchain ledger, ensuring that each psychot's journey is recognized and validated by the collective network.
+
+- **Protocol Upgrades:** The ECH also oversees the implementation of protocol upgrades, akin to updating the rules of navigation and security for the flying saucers. This ensures that the Bitcoin universe remains at the forefront of cryptographic innovation, adapting to new challenges and opportunities.
+
+### The ECH Remote Control: A Symbol of Decentralized Authority
+
+Unlike a traditional control center, the ECH Remote Control does not reside in a single location or under the control of a single entity. It's a distributed system, embodying the principles of decentralization that underpin the Bitcoin network. It ensures that power and control are spread across the network, preventing any single point of failure or domination.
+
+In this world, the ECH Remote Control is the linchpin that ensures the seamless operation of the Bitcoin universe. It upholds the principles of security, transparency, and consensus, allowing the psychots to continue their vital work of transferring value across the cryptographic skies, secure in the knowledge that the ECH is there to guide and protect the network's integrity.
+
+In the fantastical Bitcoin universe, where psychots pilot their UTXO flying saucers with zest and zeal, the ECH (Encryption Control Hub) Remote Control stands as a mystical artifact, embodying the essence of transactional magic and UTXO navigation. Imagine this device as a pair of 3x3 matrices, one adorned with numbers and the other with letters, each square a portal to infinite possibilities in the cryptographic cosmos.
+
+### The Numeric Matrix: The Engine of Transactions
+
+The first matrix is a grid of numbers, each representing a unique transactional frequency in the Bitcoin symphony. Like tuning forks for the psychots, these numbers resonate with the energy of spent and unspent outputs, guiding the saucers on their journey:
+
+```
+1 2 3
+4 5 6
+7 8 9
+```
+
+- **1 to 3:** These frequencies initiate the ascent, where small UTXOs gather momentum, darting towards their destinations with youthful exuberance.
+- **4 to 6:** Mid-range melodies, where the heart of Bitcoin's economy beats the strongest, guiding saucers laden with medium-sized transactions.
+- **7 to 9:** The deep tones, where large UTXOs move with gravitas, their paths weaving the fabric of the network's most pivotal exchanges.
+
+### The Alphabetic Matrix: The Map of UTXOs
+
+Parallel to the numeric matrix, the alphabetic matrix sings the song of UTXOs. Each letter marks a coordinate in the Bitcoin universe, a destination for the flying saucers to explore and imprint their ledger legacy:
+
+```
+A B C
+D E F
+G H I
+```
+
+- **A to C:** These letters chart the beginning of the Bitcoin adventure, where new UTXOs burst into existence, eager to join the dance.
+- **D to F:** The heartlands, where UTXOs of all shapes and sizes intermingle, sharing tales of transactions past and dreams of future spends.
+- **G to I:** The frontier, where the bravest psychots venture to carve out new paths, expanding the boundaries of the Bitcoin universe.
+
+### The Dance of the Psychots
+
+Armed with the ECH Remote Control, psychots engage in a playful ballet across the skies. With a flick of the wrist, they tune into the numeric frequencies, propelling their saucers with precision and purpose. With a gaze into the alphabetic matrix, they chart their course, each letter a beacon in the vast cryptographic night.
+
+Together, these matrices form the heart of the ECH Remote Control, a device of wonder and complexity, guiding the psychots in their ceaseless quest to weave the tapestry of the Bitcoin network. It's a dance of numbers and letters, of transactions and UTXOs, all orchestrated by the psychots, whose joyous acrobatics imbue the Bitcoin universe with life and motion.
+
+In this world, the ECH Remote Control is more than just a tool; it's the key to a realm where finance meets fantasy, where each transaction is an adventure, and every UTXO a treasure waiting to be discovered. The psychots, with matrices in hand, continue to fly, their laughter echoing through the cosmos, a testament to the enduring magic of Bitcoin.
