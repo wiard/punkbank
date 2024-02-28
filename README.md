@@ -1,12 +1,3 @@
-# Having the Remote Control on Ordinals
-
-However you see it, blockchain is about numbers and letters. The perfect way to reach those is with the Remote Control of ECH. Built with chainhooks and Ordhooks with help of 
-@hirosystems
-Its an subjective way of building a community. Its about @ShizzySats @Yagobiverse, it's about @blockamoto, about the @TheBlockRunner, @junkfoodpkroot, @bc1Plainview, @realizingerin and many more. All the hero's of today and never to be forgotten.
-
-In the mean time, wen Ech. "Don't ask what your country can do for you, ask yourself what you can do for your country."
-
-
 ### The ECH remote Control moving with UTXO's
 
 In this metaphor, the City of Bitcoin is alive with construction, moves, and changes, reflecting the dynamic nature of the blockchain. UTXOs are the essential spaces within this city, holding the value waiting to be claimed and used in the vast network of transactions that keep the city thriving.
