@@ -1,6 +1,6 @@
 ### The ECH remote Control moving with UTXO's
 
-In this metaphor, the City of Bitcoin is alive with construction, moves, and changes, reflecting the dynamic nature of the blockchain. UTXOs are the essential spaces within this city, holding the value waiting to be claimed and used in the vast network of transactions that keep the city thriving.
+The City of Bitcoin is alive with construction, moves, and changes, reflecting the dynamic nature of the blockchain. UTXOs are the essential spaces within this city, holding the value waiting to be claimed and used in the vast network of transactions that keep the city thriving.
 
 
 <img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/e273d1d4-f9a4-4e1a-83be-42b01bfff2ad">
@@ -24,7 +24,7 @@ When you want to spend Bitcoin, it's akin to finding a new tenant for one of the
 
 The Bitcoin ledger can be thought of as the city map, detailing every building, every apartment, and whether they are occupied or available (spent or unspent). Miners and nodes keep this map updated, ensuring everyone knows which spaces are available and which have recently found new occupants.
 
-# Building from zero on Ordinals.
+# An example of Using the ECH Matrix.
 
 To work with Bitmaps is to see a simple surface mirroring the Bitcoin Blocks. The main interest or subject of Bitmap is the surface and the parcels that represent transactions on the original Bitcoin. This parcel-idea is implemented on Bitmap as a way to have boxes on this Bitmap surface and with parcels one can do a lot. 
 First of all: the parcels are a subset of the Bitmap as the transaction is a child from the Bitcoin Block. The parcel being a box or a subset from the Bitmap means one can use these parcel for several goals. One of those is to put a number, a word or a treasure in the box.
