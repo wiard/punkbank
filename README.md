@@ -1,6 +1,6 @@
 ### What is a Mofologist
 
-The words says it all. The man is a sad figure studying Mofo's that are everywhere these days and specially onchain. Typical treatds of a Mofo are: unclean and computarized. Someone who escapes from the real world, delving himself into a dusty screen and allowing himself to talk with other mofos. What they say to each other is like: "When people knew what we were talking about they would thing we are crazy." What the true Mofo is. He is crazy and by meeting likewise Mofos he believes he is an early adapter, even a visionary.
+The words says it all. The man is a sad figure studying Mofo's that are everywhere these days and specially onchain. Typical treads of a Mofo are: unclean and computarized. Someone who escapes from the real world, delving himself into a dusty screen and allowing himself to talk with other mofos. What they say to each other is like: "When people knew what we were talking about they would thing we are crazy." What the true Mofo is. He is crazy and by meeting likewise Mofos he believes he is an early adapter, even a visionary.
 
 The Mofologist is someone who distances himself from a Mofo. A Mofologist is a character with brains. Someone like you and me because a true Mofo does not read a Github. A true Mofo is most of his days in Discords begging for Airdrops, whatever this might be, because I really don't know.
 
