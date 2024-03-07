@@ -1,8 +1,10 @@
-### The Legacy of the ECH Remote Control (Encryption Control Hub)
+### What is a Mofologist
 
-As the Bitcoin universe expands, the tales of the psychots and their flying saucers will continue to inspire. They are a vivid reminder of the power of innovation, the importance of security, and the boundless potential of a world built on the principles of decentralization and trust.
+The words says it all. The man is a sad figure studying Mofo's that are everywhere these days and specially onchain. Typical treatds of a Mofo are: unclean and computarized. Someone who escapes from the real world, delving himself into a dusty screen and allowing himself to talk with other mofos. What they say to each other is like: "When people knew what we were talking about they would thing we are crazy." What the true Mofo is. He is crazy and by meeting likewise Mofos he believes he is an early adapter, even a visionary.
 
-In this world, the psychots fly on, ever vigilant, ever daring, piloting their UTXOs through the endless sky of the Bitcoin network, writing the story of a digital revolution, one transaction at a time.
+The Mofologist is someone who distances himself from a Mofo. A Mofologist is a character with brains. Someone like you and me because a true Mofo does not read a Github. A true Mofo is most of his days in Discords begging for Airdrops, whatever this might be, because I really don't know.
+
+<img width="332" alt="Drawing-12 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/a9a809f4-ef0c-4a76-b0b1-5e33977dc429">
 
 <img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/e273d1d4-f9a4-4e1a-83be-42b01bfff2ad">
 
