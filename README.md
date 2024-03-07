@@ -8,6 +8,8 @@ The Mofologist is someone who distances himself from a Mofo. A Mofologist is a c
 
 <img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/e273d1d4-f9a4-4e1a-83be-42b01bfff2ad">
 
+### UTXO's are interesting
+
 In the vast expanse of the Bitcoin universe, a peculiar yet fascinating phenomenon unfolds, where Unspent Transaction Outputs (UTXOs) are the flying saucers, piloted by an eclectic group of entities known as psychots. This is the story of the Bitcoin world, a place where the rules of physics are bent by the sheer force of cryptography and digital innovation.
 
 ### The Flight of the Psychots
