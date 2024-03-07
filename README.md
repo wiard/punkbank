@@ -8,6 +8,12 @@ The Mofologist is someone who distances himself from a Mofo. A Mofologist is a c
 
 <img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/e273d1d4-f9a4-4e1a-83be-42b01bfff2ad">
 
+### The extension of Bitmap
+
+Though it was a great invention, after a while people got carried away too much. Having Punks on Bitmap is not a good idea to grow the network. The only way to grow iut is to teleport through time. Not respecting the block but get from transactin to transaction. Thats the way to go. From parcel to parcel. There is no other way.
+
+Parcels are transactions and transactions are the only way to have immutability on bitcoin. Who cares about UTXO. Its about the transactioins that are immutable. I do not see the need for UTXO.
+
 ### UTXO's are interesting
 
 In the vast expanse of the Bitcoin universe, a peculiar yet fascinating phenomenon unfolds, where Unspent Transaction Outputs (UTXOs) are the flying saucers, piloted by an eclectic group of entities known as psychots. This is the story of the Bitcoin world, a place where the rules of physics are bent by the sheer force of cryptography and digital innovation.
@@ -137,3 +143,5 @@ The Ultimate Goal
 The aim of Bitmap Monopoly, guided by the ECH Remote Control, is not just to monopolize the blockchain but to thrive amidst its volatility. Players must navigate the complexities of the Bitcoin network, making strategic decisions on property acquisition, building their blockchain empires, and managing their UTXOs wisely.
 
 As players maneuver around the board, pressing the keys of the ECH Remote Control, they dive deeper into the mechanics of Bitcoin and blockchain technology, all while engaging in the competitive spirit of Monopoly. This game becomes a playful yet insightful simulation of navigating the cryptocurrency market, with each player aiming to be the ultimate Bitcoin mogul in the Bitmap Monopoly universe.
+
+
