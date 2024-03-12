@@ -25,7 +25,7 @@ As ECH was launched at the height of the Ordinals and BRC20 fungible token craze
 
 ### The learning
 
-Being not a programmer myself but having studied Information Sciences on University I have the capacity and the urge to understand whats happening in the space and therefor I want to develop ECH further. I think it can become accepted and acknowledged as a project because it brings new and fresh ideas in the space. I consider my efforts as BRC20Punk on X as the same as what I do at home on my computer to improve the incentives of using ECH in the near future.
+Being not a programmer myself but having studied Information Sciences on University I have the capacity and the urge to understand what's happening in the space and therefor I want to develop ECH further. I think it can become accepted and acknowledged as a project because it brings new and fresh ideas in the space. I consider my efforts as BRC20Punk on X as the same as what I do at home on my computer to improve the incentives of using ECH in the near future.
 
 ### The future
 
