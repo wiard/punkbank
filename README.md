@@ -15,7 +15,7 @@ Once a project has a token people feel inclined to look for usability and my ECH
 
 As Bitmaps is a nice project that people easily understand the idea of parceling was to create further functionality on Bitmaps. After several proposals in the Bitmap Discourd I realized people are not on the same page as far as Bitmaps is concerned, so I decided to develop my own implementation of how to reason with parcels on Bitmap.
 
-### The original reason
+### The original vision
 
 Reasoning on Bitmap seems interesting but the true idea is to create a wider consensus on what Bitcoin as a development layer could mean for us normal people. A simple way to share ideas and topics that are of long term interest. Not so much the art or the financial aspects of it but the enjoyment of adressing many more topics, like decision taking and even simple gambling or playing.
 
