@@ -29,7 +29,7 @@ Being not a programmer myself but having studied Information Sciences on Univers
 
 ### The future
 
-Studying crypto has become much more fun since Casey Rodarmor created Ordinals and I follow everything on a daily base on X. I see X as a very good platform to share ideas and I like Casey Rodarmor for his free mind.
+Studying crypto has become much more fun since Casey Rodarmor created Ordinals and I follow him and everything else on Ordinals on a daily base on X. I see X as a very good platform to share ideas and I like Casey Rodarmor for his free mind.
 
 ### The Marketing of Ordinals
 
