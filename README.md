@@ -4,10 +4,6 @@ The words says it all. The man is a sad figure studying Mofo's that are everywhe
 
 The Mofologist is someone who distances himself from a Mofo. A Mofologist is a character with brains. Someone like you and me because a true Mofo does not read a Github. A true Mofo is most of his days in Discords begging for Airdrops, whatever this might be, because I really don't know.
 
-<img width="332" alt="Drawing-12 sketchpad" src="https://github.com/wiard/punkbank/assets/900114/a9a809f4-ef0c-4a76-b0b1-5e33977dc429">
-
-<img width="332" alt="Drawing-496 sketchpad (3)" src="https://github.com/wiard/punkbank/assets/900114/e273d1d4-f9a4-4e1a-83be-42b01bfff2ad">
-
 ### The extension of Bitmap
 
 Though it was a great invention, after a while people got carried away too much. Having Punks on Bitmap is not a good idea to grow the network. The only way to grow iut is to teleport through time. Not respecting the block but get from transactin to transaction. Thats the way to go. From parcel to parcel. There is no other way.
