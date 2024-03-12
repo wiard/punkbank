@@ -17,7 +17,7 @@ As Bitmaps is a nice project that people easily understand the idea of parceling
 
 ### The original vision
 
-Reasoning on Bitmap seems interesting but the true idea is to create a wider consensus on what Bitcoin as a development layer could mean for us normal people. A simple way to share ideas and topics that are of long term interest. Not so much the art or the financial aspects of it but the enjoyment of adressing many more topics, like decision taking and even simple gambling or playing.
+Reasoning on Bitmap seems interesting but the true idea is to create a wider consensus on what Bitcoin as a development layer could mean for us normal people. A simple way to share ideas and topics that are of long term interest. Not so much the art or the financial aspects of it but the enjoyment of addressing many more topics, like decision taking and even simple gambling or playing.
 
 ### The Journey
 
