@@ -13,7 +13,7 @@ Once a project has a token people feel inclined to look for usability and my ECH
 
 ### The parceling and the 3 x 3 Matrix of ECH
 
-As Bitmaps is a nice project that people easily understand, the idea of parceling, in my view, was to create further functionality on Bitmaps. After several proposals in the Bitmap Discourd I realized people are not on the same page as far as Bitmaps is concerned, so I decided to develop my own implementation of how to reason with parcels on Bitmap.
+As Bitmaps is a nice project that people easily understand the idea of parceling was to create further functionality on Bitmaps. After several proposals in the Bitmap Discourd I realized people are not on the same page as far as Bitmaps is concerned, so I decided to develop my own implementation of how to reason with parcels on Bitmap.
 
 ### The original reason
 
