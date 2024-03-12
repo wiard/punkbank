@@ -1,6 +1,6 @@
 ### What is ECH
 
-ECH started as a token-based project to do a few things. First, have a simpler apporach on Bitmap-parceling. Second: have an incentive to create Matrices. Three: develop Matrices that have usecases.
+ECH started as a token-based project to do a few things. First, have a simpler approach on Bitmap-parceling. Second: have an incentive to create Matrices. Three: develop Matrices that have usecases.
 
 ### The usecases of ECH Matrices
 
