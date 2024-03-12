@@ -25,17 +25,17 @@ As ECH was launched at the height of the Ordinals and BRC20 fungible token craze
 
 ### The learning
 
-Being not a programmer myself but having studied Information Sciences on University I have the capacity and the urge to understand whats happening in the space and therefor I want to develop ECH further. I even think it can become very popular and widely acknowledged as a project with its heart in the right place because I am not interested in hyping the wrong ideas as anyone can read from my X-space. For that reason I consider my efforts as BRC20Punk as the same as what I do at home on my computer to imnprove the incentives of using ECH in the near future I hope.
+Being not a programmer myself but having studied Information Sciences on University I have the capacity and the urge to understand whats happening in the space and therefor I want to develop ECH further. I think it can become accepted and acknowledged as a project because it brings new and fresh ideas in the space. I consider my efforts as BRC20Punk on X as the same as what I do at home on my computer to improve the incentives of using ECH in the near future.
 
 ### The future
 
-Studying crypto has becomne much more fun since Casey Rodarmor created Ordinals and I follow everything on a daily base, as one can very will see on X. I see X as a very good platform to share ideasm, by te way. Just like Casey Rodarmor I believe in the free mind and the free will of people. I am not as fatalistic as I think he is.
+Studying crypto has become much more fun since Casey Rodarmor created Ordinals and I follow everything on a daily base on X. I see X as a very good platform to share ideas and I like Casey Rodarmor for his free mind.
 
 ### The Marketing of Ordinals
 
-There are some projects I really like on X and those are HellMoney Podcast in particular. For the rest I follow the larger movements and try to stay out of the clashes on X about what project is the best. Why do I like Hellmoney Podcast so much? I think because of the sincerity of it.
+There are some projects I really like on X. For the rest I follow the larger movements and try to stay out of the clashes on X about what project is the best.
 
 ### Aiming for harmony
 
-We should all aim for working together, despite our believes and differences in the space. As an artist originally, I believe we are all on the same page as human beings and in Crypto we hacve finally a ground to do better than those that we perceive as governing us. I say on purpose 'percieve' as them being our leaders, because I believe we are free people whenver and whatever we do.
+My believe is we should all aim for working together, despite our differences in the space. As human beings in Crypto we have a ground to do better than those that we perceive as governing us. 
 
