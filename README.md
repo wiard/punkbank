@@ -21,7 +21,7 @@ Reasoning on Bitmap seems interesting but the true idea is to create a wider con
 
 ### The Journey
 
-As ECH was launched at the height of the Ordinals and BRC20 fungible craze, the price climbed very fast and even I forgot to mint myself as the 21 million tokens were minted out in just a few hours on Unisat.
+As ECH was launched at the height of the Ordinals and BRC20 fungible token craze, the price climbed very fast and even I forgot to mint myself as the 21 million tokens were minted out in just a few hours on Unisat.
 
 ### The learning
 
