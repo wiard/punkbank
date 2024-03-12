@@ -33,7 +33,7 @@ Studying crypto has become much more fun since Casey Rodarmor created Ordinals a
 
 ### The Marketing of Ordinals
 
-There are some projects I really like on X. For the rest I follow the larger movements and try to stay out of the clashes on X about what project is the best.
+There are many interesting projects on Ordinals. I follow the larger movements and try to stay out of the clashes on X about which project is the best.
 
 ### Aiming for harmony
 
