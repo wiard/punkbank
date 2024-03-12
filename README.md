@@ -4,7 +4,7 @@ ECH started as a token-based project to do a few things. First, have a simpler a
 
 ### The usecases of ECH Matrices
 
-Unifying parcels on Bitmap and having all kinds of usecases coming from there.
+Unifying parcels on Bitmap and having all kinds of usecases coming from there. How? By coding directly on Bitcoin one can mimic parceling.
 
 
 ### Why the token
